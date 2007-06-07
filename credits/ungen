@@ -1,0 +1,2 @@
+#!/bin/sh
+sed -e '1,/<pre/d' $1.html | sed '/<\/pre/,$d' > $1

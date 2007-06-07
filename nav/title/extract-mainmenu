@@ -1,0 +1,13 @@
+#!/bin/sh
+
+convert -crop 162x114 $1 universe.tiff
+convert -crop 162x114+0+114 $1 episodes.tiff
+convert -crop 162x114+0+228 $1 behind.tiff
+convert -crop 162x114+0+342 $1 other.tiff
+convert -crop 162x114+0+456 $1 reference.tiff
+
+convert -colors 24 behind.tiff behind.gif
+convert -colors 24 episodes.tiff episodes.gif
+convert -colors 20 other.tiff other.gif
+convert -colors 15 +dither reference.tiff reference.gif
+convert -colors 24 universe.tiff universe.gif

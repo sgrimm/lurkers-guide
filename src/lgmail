@@ -1,0 +1,122 @@
+#!/bin/sh
+#
+# Print a feedback form that remembers who called it.
+#
+
+back_str='Go back'
+if [ "x$WWW_where" = "x" ]; then
+	WWW_where="$HTTP_REFERER"
+	if [ "x$WWW_where" = "x" ]; then
+		WWW_where="/lurk/lurker.html"
+		back_str="To the Lurker's Guide home page"
+	fi
+fi
+
+cat << EOF
+Content-type: text/html
+
+<html>
+<head>
+<title>Lurker's Guide feedback</title>
+</head>
+<body>
+<p align=center nowrap><nobr><a name="TOP"
+href="/cgi-bin/imagemap/titlebar"><img
+        align=middle border=0 ismap usemap="/lurk/maps/maps.html#titlebar"
+        src="/lurk/nav/titlebar.gif" width=500 height=32
+        alt="[Home]"></a>
+ 
+<br><a href="/cgi-bin/imagemap/lurker-menu"><img
+        align=top border=0 ismap usemap="/lurk/maps/maps.html#toplevel"
+        src="/lurk/nav/bar-none.gif" width=500 height=24
+        alt=""></a>
+</nobr>
+
+<pre>
+
+</pre>
+
+<p>
+<img src="/lurk/gif/b5logo-small.gif" align=left
+width=52 height=62 alt="">
+<strong>Please check the <a href="/lurk/help.html">Lurker's Guide Help page</a>
+first!</strong>  It contains the answers to the most common questions I'm
+asked (video availability, schedule information, and more.)
+If your question is answered there, you will <em>not</em> get a reply.
+Also, the people who maintain the guide aren't the people who make the TV
+show.  Comments and questions about the show should be posted to the
+rec.arts.sf.tv.babylon5 newsgroup, which is read by the folks in charge of
+Babylon 5.  (But please don't post story ideas; there's a
+<a href="/lurk/resources/online.html#creative">mailing list</a>
+for those.)
+
+<p>
+If you aren't asking a question, or you've checked the Help page,
+<a href="#form">please proceed.</a>  (Sorry for this extra step; I've been
+getting tons of questions that are answered on the Help page, presumably
+from people who saw the form and ignored the text above.)
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+<p>
+<a name="form">Enter</a> your real name and E-mail address in the following two
+fields.  If your browser supports "mailto" links, you can
+<a href="mailto:koreth@midwinter.com">send feedback</a>
+that way.
+
+<p>
+<form method=POST action="/cgi-bin/uncgi/lgsend">
+<input type=hidden name="where" value="$WWW_where">
+<input type=hidden name="what" value="$WWW_what">
+
+Name: <input name="username"> E-Mail: <input name="mailaddr" size=25>
+<p>
+Type your comments below.
+<br>
+<textarea name="feedback" cols=58 rows=15></textarea>
+<p>
+<input type=submit value=" Send your feedback ">
+</form>
+<p>
+<a href="$WWW_where">$back_str</a>
+</body>
+</html>
+EOF

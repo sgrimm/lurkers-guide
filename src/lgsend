@@ -1,0 +1,56 @@
+#!/bin/sh
+#
+# Send mail from a feedback form.
+#
+
+backstr="Go back"
+if [ "x$WWW_where" = "x/lurk/lurker.html" ]; then
+	backstr="To the Lurker's Guide home page"
+fi
+
+if [ "x$WWW_mailaddr" = "x" ]; then
+	WWW_mailaddr=nobody
+fi
+
+if [ "x$WWW_feedback" != "x" ]; then
+	/usr/local/bin/dos2unix << EOF | /usr/lib/sendmail koreth
+From: $WWW_mailaddr ($WWW_username)
+To: koreth
+Subject: Lurker's Guide
+
+[Remote host $REMOTE_HOST - $REMOTE_ADDR]
+[$WWW_where]
+[$HTTP_USER_AGENT]
+
+$WWW_feedback
+EOF
+fi
+
+cat << EOF
+Content-type: text/html
+
+<html>
+<head>
+<title>Feedback sent.</title>
+</head>
+<body>
+<p align=center nowrap><nobr><a name="TOP"
+	href="/cgi-bin/imagemap/titlebar"><img
+	align=middle border=0 ismap usemap="/lurk/maps/maps.html#titlebar"
+	src="/lurk/nav/titlebar.gif" width=500 height=32
+	alt="[Home]"></a>
+
+<br><a href="/cgi-bin/imagemap/lurker-menu"><img
+	align=top border=0 ismap usemap="/lurk/maps/maps.html#toplevel"
+	src="/lurk/nav/bar-none.gif" width=500 height=24
+	alt=""></a>
+</nobr>
+
+<h1>Thank you for your comments.</h1>
+<p>
+Your comments have been mailed.
+<p>
+<a href="$WWW_where">$backstr</a>
+</body>
+</html>
+EOF

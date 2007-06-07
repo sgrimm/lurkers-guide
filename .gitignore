@@ -1,0 +1,8 @@
+background/[0-9]*.shtml
+comic/[0-9]*.html
+credits/[0-9]*.html
+guide/#*
+guide/[0-9]*.html
+synops/[0-9]*.html
+lurker-nobg.html
+*.pyc

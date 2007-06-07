@@ -1,0 +1,6 @@
+default /lurk/lurker.html
+rect /lurk/universe/intro.html 0,0 99,31
+rect /lurk/eplist.html 100,0 199,31
+rect /lurk/making/creators.html 200,0 299,31
+rect /lurk/resources/online.html 300,0 399,31
+rect /lurk/reference/episodes.html 400,0 499,31

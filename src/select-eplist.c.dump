@@ -1,0 +1,129 @@
+/*
+ * Select an episode list to show based on a control file.
+ */
+
+#define LISTFILE "/home/koreth/lurk/internal/domainlist"
+char * BASEDIR = "/home/koreth/lurk/";
+#define ERRORFILE "/home/koreth/lurk/internal/dom-error.html"
+
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+#include <fcntl.h>
+
+char *getenv();
+
+main()
+{
+	FILE		*fp;
+	char		domain[100], filename[500], bestname[500];
+	char		*hisdomain, *mapbuf;
+	int		matchlen = 0, hislen, thislen, i, c, fd;
+	struct stat	st;
+
+	chdir(BASEDIR);
+
+	printf("Content-type: text/html\n");
+
+	/*
+	 * Get the remote domain name and make it lower case.
+	 */
+	hisdomain = getenv("REMOTE_HOST");
+	if (hisdomain == NULL)
+		hisdomain = strdup("com");
+	hislen = strlen(hisdomain);
+	for (i = 0; i < hislen; i++)
+		hisdomain[i] = tolower(hisdomain[i]);
+
+	/*
+	 * Now read list entries and find the filename with the longest
+	 * matching domain name.
+	 */
+	fp = fopen(LISTFILE, "r");
+	if (fp)
+	{
+		/* First entry is the default filename. */
+		fscanf(fp, "%s %s", domain, bestname);
+
+		while (fscanf(fp, "%s %s", domain, filename) > -1)
+		{
+			thislen = strlen(domain);
+			if (thislen > matchlen && thislen <= hislen)
+			{
+				if (! strcmp(domain, hisdomain+hislen-thislen))
+				{
+					strcpy(bestname, filename);
+					matchlen = thislen;
+				}
+			}
+		}
+
+		fclose(fp);
+	}
+	else
+		strcpy(bestname, ERRORFILE);
+
+	/*
+	 * Output the file in question.
+	 */
+	fd = open(bestname, 0);
+	if (fd < 0)
+		fd = open(ERRORFILE, 0);
+	if (fd < 0)
+	{
+err:
+		printf("\n<html><body><h1>Fatal error!</h1>\n");
+		printf("Can't find an episode list.</body></html>\n");
+		exit(0);
+	}
+
+	if (fstat(fd, &st))
+		goto err;
+
+#if defined(MAP_FAILED) && defined(MAP_SHARED) /* { */
+	mapbuf = mmap(NULL, (size_t) st.st_size, PROT_READ,
+			MAP_SHARED, fd, (off_t) 0);
+	if (mapbuf == MAP_FAILED)
+	{
+		perror("eplist: mmap");
+		goto err;
+	}
+
+	close(fd);
+
+	printf("Content-length: %lu\n\n", (unsigned long)st.st_size);
+	fflush(stdout);
+
+	write(1, mapbuf, (unsigned long)st.st_size);
+
+#else /* }{ */
+	printf("Content-length: %lu\n\n", (unsigned long)st.st_size);
+
+	fp = fdopen(fd, "r");
+	while ((c = getc(fp)) != EOF)
+		putchar(c);
+	fclose(fp);
+	fflush(stdout);
+#endif /* } */
+
+	close(1);
+
+	{
+		char	*c, *val;
+
+		val = getenv("HTTP_USER_AGENT");
+		for (c = val; *c; c++)
+			if (*c == '/')
+				*c = '#';
+		
+		chdir("/home/woodstock/koreth/browsers");
+		fd = open(val, O_RDWR | O_APPEND | O_CREAT, 0644);
+		write(fd, val, 1);
+		close(fd);
+	}
+
+	exit(0);
+}

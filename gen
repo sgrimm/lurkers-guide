@@ -1,0 +1,15 @@
+#!/bin/sh
+cd credits
+if [ -f $1 ]; then
+	./gen.py $1
+fi
+cd ../guide
+if [ -f $1 ]; then
+	./gen.py $1
+fi
+cd ../synops
+if [ -f $1 ]; then
+	./gen.py $1
+fi
+cd ../background
+./gen.py $1

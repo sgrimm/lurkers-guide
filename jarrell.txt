@@ -1,0 +1,116 @@
+From: jarrell@solaris.cc.vt.edu (Ron Jarrell)
+Newsgroups: rec.arts.sf.tv.babylon5
+Subject: Ok, a status report on what's going on
+Date: 6 Dec 1995 18:12:28 -0500
+Message-ID: <4a580s$fde@solaris.cc.vt.edu>
+
+
+Many people have been wondering what's going on, is anyone doing
+anything, who can we kill, and why is there no discussion of Voyage to
+the Bottom of the Sea here anymore, anyway?
+
+Ok, so maybe not that last one, but that's about the ONLY thing I
+haven't seen asked in either email or on the group.
+
+First off, I'd like to convey from Joe Cochran thanks for all the
+messages that were sent to him offering suggestions, support, etc.  He
+got FAR FAR too many to individually acknowledge.
+
+I'm sorry this took so long to get up, but we wanted to actually HAVE a
+solution, and even hopefully get it *implemented* (which we did) before
+geting peoples hopes up.
+
+Now, for the important news.  No, Joe Straczynski hasn't completely
+left the group.  It took a while before we could announce this because
+I had to have extensive talks with him, followed by quickly whipping up
+and putting into production new software for the Rangers to use to
+manage an all new style of feed for him.
+
+Joe's participation in the group will be, however, significantly
+different than it was before.  He will no longer be reading
+everything.  Instead, he'll be getting the messages specifically
+directed at him, and only if those messages are questions or comments
+about the show, and not flames or personal attacks.
+
+Now, that's not to say you can't write a negative message about an
+episode; if you think it didn't work, that's fine.  But he's not going
+to see messages of the "So, Joe, are you still beating your wife?"
+style.
+
+He may, as we do this, ask to see other types of messages, he may not.
+It'll also be entirely up to him whether he elects to ANSWER.  Not that
+this is a change; Joe often ignored questions that he couldn't answer
+without giving away something he wanted to keep secret.
+
+But if he DOES answer the question, the answer will be posted back here
+to the newsgroup, like they used to be.  As a major bonus, however,
+since there's a much smaller target now, I've been able to do some
+"value added" processing.  The correct subject will be matched up in
+the reply, *and* a References:  header will be put in pointing at the
+original question.  For those who aren't into the technical details,
+suffice it to say that your newsreader, if it was capable of keeping
+messages grouped together (called "threading") for messages that Joe
+didn't post, it'll not be able to also do it for Joe's message.  No
+more of that "Damn, what question is he answering??" head scratching.
+
+For those that aren't interested in reading this newsgroup just to get
+those answers, we'll also be regularly bundling them up into Q&A
+digests, and sending them on to the info group moderators.. (We'll see
+how many of them there are before we decide what frequency is required,
+daily, bi-daily, weekly, semi-monthly, every 125,000 micro-fortnights,
+etc.)
+
+Now, what are the long term possibilities of wider participation in the
+newsgroup?  Well, pretty much no chance, with the existing setup.  You
+see, we've gotten to a point where there's just too many flamewars for
+it to be worth it, from his point of view, to read the group to extract
+the messages that are worth it.  On GEnie, Compuserve, AOL, and other
+places he hangs out the forums are smaller, and more managed, and
+personal attacks and high tempers are handled.
+
+The only equivelant on usenet that's remotely equivalent is a moderated
+newsgroup.  Whether people WANT a moderated newsgroup is something that
+the members have to decide.  And if so, whether we want to moderate
+THIS group, or create a new moderated group, and leave this one for
+people that want a more "anything goes" discussion.
+
+Let me stress that the info group is NOT the appropriate place.
+
+The key thing here is to NOT rush into this; we've already heard from
+more than one group that was about to just willy-nilly throw an RFD in
+for one or more groups, without bothering to talk to anyone, and with a
+snowballs chance on za'ha'dum of succeding.  If people want to do this
+it has to be done RIGHT the first time; remember, if it gets voted down
+(and a badly written one will be shot down in flames) it'll be months
+before another can be attempted.  If it gets passed, but is so screwed
+up in design as to be unusuable, we're, again, stuck with it for
+months.
+
+The charter needs to be very carefully worded to explain exactly what
+the newsgroup is for, based on the CONTENT you want in the group, not
+the personalities.
+
+And really, there's no rush, because there is already the conduit back
+in place for getting the questions to JMS, and getting the answers
+back.
+
+So where do we go from here?
+
+Well, if you want Joe to see your question, we're really appreciate if
+you'd use the old standard of putting "ATTN JMS" in the subject.  We'll
+see those.  If you forget, but ask Joe a question in a message, we
+MIGHT catch it, and forward it on, we might not.  If you do, then we'll
+see it, and if it fits the criteria that Joe agreed to, we'll
+cheerfully pass it on; what happens to it after that is in the hands of
+the Great Maker, as the saying goes.
+
+Next, people need to decide if they want to persue a moderated group.
+And if so, what kind.  The Rangers are willing to help coordinate the
+disparate efforts currently under way to get everyone playing on the
+same station!
+
+Remember, though, that creation of a moderated group doesn't guarantee
+that Joe will come back to it, it'd have to be the right KIND of
+moderated group!
+
+-Ron

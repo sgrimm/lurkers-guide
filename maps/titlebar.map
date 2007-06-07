@@ -1,0 +1,4 @@
+default /lurk/lurker.html
+rect /cgi-bin/lurkfind 371,0 412,31
+rect /lurk/toc.html 413,0 454,31
+rect /lurk/help.html 455,0 499,31

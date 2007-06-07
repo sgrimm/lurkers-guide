@@ -1,0 +1,113 @@
+README -- Installing the Swish indexer and creating a whole lotta html files
+
+Step 1. BUILD SWISH
+
+Swish source is in swish/swish.11/
+It is straight C, so gcc should have no trouble with it - just hit MAKE
+and watch it compile.  If you are not running the secure wish on the
+system, you can install it as swish in usr/local/bin or somewhere
+else suitable.
+
+Step 2.  CREATE HTML DIRECTORIES
+
+Create some directory structure to hold the postings, and then edit the 
+config file  (splitter.cf) to reflect the full paths to
+these directories.  The directories should be somewhere the web server
+can get to them. 
+
+e.g. create a directory to hold Usenet postings 
+    /ftp/pub/b5/Usenet/html for example
+Put   $USENETDIR="/ftp/pub/b5/Usenet/html" into the config file
+
+The config files feed into the split-foo perl files for splitting up the
+monthly message digests into new directories, It is NOT used by the search
+engine.
+
+
+Step 2.5  EDIT BANNER FILES
+
+Make sure the banner files referenced in the config file contain 
+something sensible...
+
+
+Step 3.  CREATE THE HTML FILES
+
+This is the long wait... We must let the splitters run over each of
+the text digests.  It will create a directory with the same name in
+the right html directory, then create files number 0.html  upwards 
+in that directory.
+
+e.g.  the file Usenet/jms-95-08-Usenet creates the dir
+   Usenet/html/jms-95-08-Usenet/ and then file
+   Usenet/html/jms-95-08-Usenet/0.html
+
+There are splitters for the jms answers file, the Usenet archives, 
+the GEnie archives.  Compuserve is too random to allow easy 
+dedigesting.
+
+You can provide the splitter with multiple file names - the spliter will trim 
+off any path in front.  Splitters must be run in the same directory as the
+config file...
+
+   usenet-split ../*
+
+should work, and take a heck of a long time.
+
+After running the splitters, you should now have a large number of small
+files scattered across many directories.
+
+
+Step 4  EDIT INDEXER CONFIG FILES
+
+Ok, the last tricky part, getting the indexer to pull together the right 
+files. basically you have to edit the conf files in the indexes directory
+to point to the right source directories.
+
+  IndexDir /ftp/pub/b5/babylon_5/Usenet/html/
+  
+  IndexPointer "http://www.hyperion.com/lurk/search.cgi"
+  IndexAdmin "Steve Grimm (koreth@hyperion.com)"
+
+  ReplaceRules "/ftp/pub/" "http://www.hyperion.com/"
+
+Step 5  GENERATE THE INDEXES
+
+Run the reindex script - this will create the indexes for you.
+The indexes are placed in the directory specified in the
+  IndexFile foo.swish
+directive in the index conf file.
+
+The conf files do not have to be accessible on the web, but they should be
+readable by the webserver UID.
+
+
+Step 6  FIX THE SEARCH CGI SCRIPT
+
+There are a bunch of URLs and PATHs that need to be set in the
+top part of the search.cgi - pretty self explanatory.
+
+You should make sure the search script $BANNER variable is
+pointing to a file with something useful in it.
+
+
+CONGRATULATIONS = THE INDEXES ARE NOW READY FOR USE!
+
+
+Step 7 SET UP CRON JOBS TO MAINTAIN INDEXES
+
+After a new archive file is added, it needs to be run through the
+appropriate splitter, then an index for *just* that new directory needs
+to be generated, and the resulting index can then be merged into
+the larger index using the swish -M option.
+
+    swish -i /path/to/usenet/`date +%y%m/`  -f newpostings.swish
+    swish -M usenet.swish  newpostings.swish  newusenet.swish  
+    mv newusenet.swish   usenet.swish
+
+[Optional: index the misc. other parts of the lurkers guid and add an
+item to the search.cgi program for 'other guide pages'.]
+
+
+Good luck,
+
+Christian 'webhead'  mogens@cs.stanford.edu <*>
