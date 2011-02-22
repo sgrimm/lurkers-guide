@@ -1,8 +1,0 @@
-swish-e -c usenet.conf
-swish-e -c answers.conf
-swish-e -c guide.conf
-swish-e -c synops.conf
-swish-e -c genie.conf
-swish-e -c cs.conf
-swish-e -c credits.conf
-swish-e -c aol.conf

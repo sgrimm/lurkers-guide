@@ -162,30 +162,6 @@ the Web server is configured to alias /lurk/eplist.html to
 
 <p>
 <dt>
-<a name="find" href="/lurk/find/">find</a>
-<dd>
-Data files and scripts for searching the archive of JMS Usenet messages.
-I use the "swish" indexing system.  Since JMS's posting volume has slowed
-to a trickle, this doesn't get touched by hand much any more, but the
-theory is that once a month, I move the "latest" subdirectory in each
-archive source (America-Online, Usenet, etc.) to a name corresponding
-to that month and regenerate the master index file for that source.  Then,
-on a daily basis, a cron job populates the "latest" subdirectories and runs
-swish on them, merging the master index files with the smaller "latest"
-indices to avoid the overhead of re-indexing all the old files again.
-
-<p>
-Most likely this setup should be replaced with a more modern indexing
-system.
-
-<p>
-The files in the archive source subdirectories are derived from the
-archive files in the FTP directory, which will be discussed below.  The
-find/prep-files subdirectory contains the scripts used to split the
-archive files into individual messages.
-
-<p>
-<dt>
 footer
 <dd>
 The standard page footer used throughout the site.  Not used programmatically,
@@ -489,8 +465,7 @@ and
 <a href="/b5/index.html">HTML</a>)
 for descriptions of the various files in the FTP archive.  The Lurker's
 Guide points to various files here -- including some server-side include
-references -- and the JMS message archives here are used by the scripts
-in /lurk/find.
+references.
 
 <h2><a name="cgi-bin">/cgi-bin</a></h2>
 
@@ -519,12 +494,11 @@ Accepts input from the feedback form and sends me mail.
 
 <p>
 <dt>
-/cgi-bin/lurkfind
+/lurk/search.html
 <dd>
-Displays the search UI if called with no arguments, or performs a search
-if search parameters are passed in.  The site is indexed with the "swish"
-search engine, the config files and applications for which can be found
-in the /lurk/find directory.
+The entry point to the site search system. This is just a Google custom
+search box (there used to be a custom search system but Google is better
+and faster.)
 
 <p>
 <dt>
@@ -578,15 +552,6 @@ update-current.sh
 <dd>
 Updates the symbolic link used by /cgi-bin/printcurrent.  Not currently
 in use.
-
-<p>
-<dt>
-/lurk/find/update-indexes.sh
-<dd>
-Once a day, re-extracts the latest messages from the various JMS message
-archive files and rebuilds the keyword index so they're searchable.  See
-<a href="#find">/lurk/find</a>
-above.
 
 </dl>
 
