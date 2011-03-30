@@ -1,5 +1,5 @@
 # Figure out which other elements of an episode page are available.
-import os, string, regex, regsub
+import os, string
 
 # Check for the existence of a file.
 def exists(filename):
