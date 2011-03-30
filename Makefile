@@ -3,7 +3,7 @@ B5DIR=/home/woodstock/ftp/pub/Babylon-5
 all: commit lurker-nobg.html subdirs
 
 commit:
-	@-/usr/local/bin/git diff-files --quiet || /usr/local/bin/git commit -a -q -m "Automatic commit of changes"
+	@-/usr/bin/git diff-files --quiet || /usr/bin/git commit -a -q -m "Automatic commit of changes"
 
 lurker-nobg.html: lurker.html
 	sed -e 's/ BGSTART.*BGEND//' -e '/BGLINK/d' < lurker.html > $@
