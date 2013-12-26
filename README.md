@@ -232,6 +232,10 @@ for the latest round of novels.
 
 Results of the Poll 5 viewer survey for each episode.
 
+### Production
+
+Button and nav images in their original lossless-compressed forms.
+
 ### reference
 
 The "Reference" section of the site.  Mostly flat HTML files, but a couple
