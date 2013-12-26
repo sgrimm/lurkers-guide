@@ -27,20 +27,13 @@ for epnum in sys.argv[1:]:
 
 	output = open(epnum + '.html', 'w')
 
-	output.write("""<html>
-<head>
-<title>Novel: """ + '"' + epname + '"')
+	page_name = 'Novel: "' + epname + '"'
 	if which == 'extra':
-		output.write(' (scene in detail)')
+		page_name = page_name + ' (scene in detail)'
 	
-	output.write("""</title>
-<link rev=made href="mailto:koreth@midwinter.com">
-<link rel=parent href="../eplist.html">
-</head>
-
-<body>
-
-""" + otros.pageheader(curep, which))
+	output.write(otros.head(page_name))
+	output.write("<body>\n")
+	output.write(otros.pageheader(curep, which))
 
 	output.write("""
 

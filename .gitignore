@@ -4,6 +4,7 @@ credits/[0-9]*.html
 guide/#*
 guide/[0-9]*.html
 synops/[0-9]*.html
+novels/[0-9]*.html
 lurker-nobg.html
 *.pyc
 lastmod.html
