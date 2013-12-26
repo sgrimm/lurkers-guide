@@ -10,11 +10,10 @@ nextep = '%03d' % (curep + 1)
 curep = `curep`
 
 output = """
-<p align=center nowrap><nobr><a name="TOP"
-href="/cgi-bin/imagemap/titlebar"><img
+<p align=center nowrap><nobr><img
 	align=middle border=0 usemap="#titlebar"
 	src="/lurk/nav/titlebar.gif" width=500 height=32
-	alt="[Home]"></a>
+	alt="[Home]">
 
 <br><a href="/lurk/gif/comic/""" + cureplong + """.jpg"><img
 align=middle width=78 height=120 border=0
