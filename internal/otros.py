@@ -288,8 +288,11 @@ align=bottom
 # Given an image path, generate the full path to the corresponding file.
 #
 def normalize_path(path):
-	if path[0:4] == '/lurk/':
-		path = '/home/koreth/lurk' + path[5:]
+	if path[0:6] == '/lurk/':
+		curdir = os.getcwd()
+		if (not os.path.exists(curdir + '/lurker.html')):
+			curdir = curdir + '/..'
+		path = os.path.abspath(curdir) + path[5:]
 	elif path[0] == '/':
 		path = '/home/midwinter/docroot' + path
 	return path
@@ -326,3 +329,15 @@ def mungeimages(text, do_jpeg):
 	
 	return result
 
+
+#
+# Returns the <head> section for a page, including image maps.
+#
+def head(title):
+	result = "<html><head>\n<title>" + title + "</title>\n"
+	mapsfile = open('../maps/maps.html', 'r')
+	result = result + mapsfile.read()
+	mapsfile.close()
+	result = result + "</head>\n"
+
+	return result

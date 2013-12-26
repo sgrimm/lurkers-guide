@@ -3,17 +3,19 @@
 import sys,string,time,os
 sys.path.append('../internal')
 import otros
+sys.path.insert(0, '.')
+import perdir
 
 months = [ '', 'January', 'February', 'March', 'April', 'May', 'June', 'July',
 		'August', 'September', 'October', 'November', 'December']
 
-do_jpeg = 1
+do_jpeg = perdir.get_do_jpeg()
 args = sys.argv
 
 for epnum in args[1:]:
 	curep = string.atoi(epnum[:3])
 
-	pix = open('../internal/epnames', 'r')
+	pix = open(perdir.get_episode_names_file(), 'r')
 	for i in range(0, curep + 1):
 		epname = pix.readline()[:-1]
 	pix.close()
@@ -23,7 +25,7 @@ for epnum in args[1:]:
 	cureplong = '%03d' % curep
 
 	if len(epnum) == 3:
-		which = 'guide'
+		which = perdir.get_type()
 	else:
 		which = 'extra'
 
@@ -42,44 +44,37 @@ for epnum in args[1:]:
 
 	output = open(epnum + '.html', 'w')
 
-	output.write("""<html>
-<head>
-<title>Guide page: """ + '"' + epname + '"')
+	page_name = perdir.get_page_name_prefix() + ': "' + epname + '"'
 	if which == 'extra':
-		output.write(' (scene in detail)')
-	
-	output.write("""</title>
-<link rev=made href="mailto:koreth@midwinter.com">
-<link rel=parent href="../eplist.html">
-</head>
+		page_name = page_name + ' (scene in detail)'
 
-<body>
+	output.write(otros.head(page_name))
 
-""" + otros.pageheader(curep, which, do_jpeg))
+	output.write("<body>\n")
 
-	if which == 'guide':
-		output.write("""
+	try:
+		special = open(epnum + '-head', 'r')
+		output.write(special.read())
+		special.close()
+	except:
+		pass
 
-<p>
-<b>Contents:</b>
-<a href="#OV">Overview</a> -
-<a href="#BP">Backplot</a> -
-<a href="#UQ">Questions</a> -
-<a href="#AN">Analysis</a> -
-<a href="#NO">Notes</a> -
-<a href="#JS">JMS</a>
- 
-<p>
-<hr>
+	output.write(otros.pageheader(curep, which, do_jpeg))
 
-""")
-	else:
+	if which == 'extra':
 		output.write("""
 <pre>
 
 </pre>
 
 """)
+	elif perdir.get_type() == 'credits':
+		output.write("\n<pre>\n")
+	else:
+		toc = perdir.get_table_of_contents()
+		if len(toc) > 0:
+			output.write(toc)
+			output.write("\n<p>\n<hr>\n")
 
 	wholefile = input.read()
 	input.close()
@@ -126,6 +121,10 @@ for epnum in args[1:]:
 	if do_jpeg:
 		final = otros.mungeimages(final, do_jpeg)
 	output.write(final)
+
+	if perdir.get_type() == 'credits':
+		output.write("</pre>\n")
+
 	output.write('<pre>\n\n</pre>\n' + otros.pagefooter(curep) + """
 
 <h5>

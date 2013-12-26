@@ -26,21 +26,11 @@ for epnum in sys.argv[1:]:
 	input = open('story.html', 'r')
 	output = open(cureplong + '.shtml', 'w')
 
-	output.write("""<html>
-<head>
-<title>Background: """ + '"' + epname + '"' + """</title>
-<link rev=made href="mailto:koreth@midwinter.com">
-<link rel=parent href="../guide/""" + cureplong + """.html">
-</head>
-
-<body>
-
-""" + otros.pageheader(curepno, 'background', 1) + """
-
-<pre>
-
-</pre>
-""")
+	page_name = 'Background: "' + epname + '"'
+	output.write(otros.head(page_name))
+	output.write("<body>\n")
+	output.write(otros.pageheader(curepno, 'background', 1))
+	output.write("\n<pre>\n\n</pre>\n")
 
 	printing = 1
 
