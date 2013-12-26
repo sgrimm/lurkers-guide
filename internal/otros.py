@@ -268,7 +268,7 @@ def pagefooter(num, page = 'guide'):
 	align=bottom border=0
 	width=64 height=24 src="/lurk/nav/foot-station.gif"
 	alt="[Home] "></a><a
-href="#TOP"><img
+href="#"><img
 	align=bottom border=0
 	width=72 height=13 src="/lurk/nav/foot-pagetop.gif"
 	alt="[Top] "></a><a

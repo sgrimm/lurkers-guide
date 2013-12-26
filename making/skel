@@ -32,7 +32,7 @@ href="/cgi-bin/imagemap/titlebar"><img
 <br><a href="/cgi-bin/imagemap/lurker-menu"><img
 	align=top border=0
 	src="/lurk/nav/bar-making.gif" width=500 height=32
-	alt="" usemap="#toplevel" ismap></a>
+	alt="" usemap="#toplevel"></a>
 
 <br><a href="people.html"><img
 	align=top border=0
@@ -92,7 +92,7 @@ align=top border=0
 	align=bottom border=0
 	width=72 height=24 src="/lurk/nav/foot-station.gif"
 	alt="[Home] "></a><a
-href="#TOP"><img
+href="#"><img
 	align=bottom border=0
 	width=72 height=13 src="/lurk/nav/foot-pagetop.gif"
 	alt="[Top] "></a><a
