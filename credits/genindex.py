@@ -46,7 +46,7 @@ output.write("""
 </ul>
 
 <p>
-<a href="/lurk/eplist.html">To the episode list</a>
+<a href="/lurk/episodes.php">To the episode list</a>
 
 </body>
 </html>

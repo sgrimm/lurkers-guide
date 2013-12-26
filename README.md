@@ -154,10 +154,10 @@ Episode credits.  <a href="#gen.py">Body files and gen.py</a>.
 
 <p>
 <dt>
-<a href="/lurk/eplist.html">eplist.html</a>
+<a href="/lurk/episodes.php">eplist.html</a>
 <dd>
 On the surface, just a symlink to /lurk/countries/us/eplist.html.  But
-the Web server is configured to alias /lurk/eplist.html to
+the Web server is configured to alias /lurk/episodes.php to
 /cgi-bin/select-eplist, which does the per-country episode list selection.
 
 <p>
