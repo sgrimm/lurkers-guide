@@ -142,7 +142,7 @@ def pageheader(num, page, do_jpeg = 0):
 	output = """
 <p align=center nowrap><nobr><a name="TOP"
 href="/cgi-bin/imagemap/titlebar"><img
-	align=middle border=0 ismap usemap="/lurk/maps/maps.html#titlebar"
+	align=middle border=0 usemap="#titlebar"
 	src="/lurk/nav/titlebar.gif" width=500 height=32
 	alt="[Home]"></a>
 
