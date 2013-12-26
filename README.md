@@ -19,10 +19,10 @@ server-side includes) thrown in, plus one short PHP script.
 
 Inside that directory are a bunch of subdirectories, mostly
 corresponding to the major sections of the site.  I'll get to them
-individually in a moment, but first a word on some common things you'll
-see in most of them.
+individually in a moment, but first a word on how some of the files
+get generated.
 
-## gen.py
+### gen.py - building the episode pages
 
 The biggest thing to know about is a Python script called "gen.py",
 a version of which lives in each of the directories that contains
