@@ -1,0 +1,913 @@
+
+B5  B5  B5  B5  B5  B5  B5  B5  B5  B5
+B5                                  B5
+B5   Babylon 5 (UK) Episode Guide   B5
+B5        -=>  SEASON 1  <=-        B5
+B5                                  B5
+B5    Guide Date : November 1996    B5
+B5                                  B5
+B5     Compiled By : Edwin Yau      B5
+B5                                  B5
+B5  B5  B5  B5  B5  B5  B5  B5  B5  B5
+
+
+     CONTENTS (* = additions/changes)
+
+   * [1]  README
+     [2]  SEASON 1 CREDITS
+     [3]  EPISODE GUIDE
+          [3.1]  NARRATIONS
+          [3.2]  PILOT MOVIE
+          [3.3]  SEASON 1
+     [4]  U.K. AIR DATES & RATINGS
+     [5]  SEASON 1 UK EDITS
+     [6]  AND FINALLY...
+
+--------------------------------------------------------------------------
+
+[1]  README
+===========
+
+Welcome to the Babylon 5 (UK) Episode Guide!  Don't be put off by the fact
+that it has a UK bias though as most of the information (i.e. the actual
+episode guide part and list of edits) is relevant to whatever country you
+are in!
+
+This guide is actually a portion of a much larger guide which I have split
+up due to the growing size of the guide.  To download other seasons look
+for the following files:-
+
+        b5uk_s1.txt     season 1 guide
+        b5uk_s2.txt     season 2 guide
+        b5uk_s3.txt     season 3 guide
+        b5uk_s4.txt     season 4 guide
+        b5uk_s5.txt     season 5 guide
+
+This guide is Copyright (C) November 1996 by Edwin Yau.  It may be
+redistributed freely in its complete form, but may not be reproduced in
+any form whatsoever if any monies is to be made from it.  No attempt has
+been made to supersede any rights held by Warner Bros. TV, Babylonian
+Productions Inc., Channel 4 TV, TNT, PTEN or any other copyright holders.
+
+--------------------------------------------------------------------------
+
+[2]  SEASON 1 CREDITS
+=====================
+
+STARRING:
+     Michael O'Hare      as   Commander Jeffrey Sinclair
+     Claudia Christian   as   Lt. Commander Susan Ivanova
+     Jerry Doyle         as   Security Chief Michael Garibaldi
+     Mira Furlan         as   Ambassador Delenn
+     Richard Biggs       as   Dr. Stephen Franklin
+     Andrea Thompson     as   Psi Corps Telepath Talia Winters
+     Stephen Furst       as   Vir Cotto
+     Bill Mumy           as   Lennier
+     Caitlin Brown       as   Na'Toth
+     Andreas Katsulas    as   Ambassador G'Kar
+     Peter Jurasik       as   Ambassador Londo Mollari
+
+CREATED BY..............: J. Michael Straczynski
+PRODUCED BY.............: John Copeland
+CO-PRODUCER.............: Richard Compton
+EXECUTIVE PRODUCER......: Douglas Netter
+                          J. Michael Straczynski
+ASSOCIATE PRODUCER......: George Johnsen
+CONCEPTUAL CONSULTANT...: Harlan Ellison
+DIRECTOR OF PHOTOGRAPHY.: John C. Flinn III
+CASTING BY..............: Mary Jo Slater, C.S.A.
+PRODUCTION DESIGNER.....: John Iacovelli
+STORY EDITOR............: Lawrence G. DiTillio
+MUSIC BY................: Christopher Franke
+MUSIC PERFORMED BY......: Christopher Franke and
+                          The Berlin Symphonic Film Orchestra
+VISUAL EFFECTS BY.......: Ron Thornton
+
+--------------------------------------------------------------------------
+
+[3]  EPISODE GUIDE
+==================
+
+-------------------------------------
+[3.1]  OPENING AND CLOSING NARRATIONS
+-------------------------------------
+
+All narrations are opening unless otherwise stated.
+
+---------------------
+PILOT MOVIE NARRATION
+---------------------
+
+     "I was there at the  dawn of the  third age of mankind.  It began in
+     the Earth year  2257  with the  founding of  the last of the Babylon
+     stations, located deep in neutral space.   It was a port of call for
+     refugees, smugglers,  businessmen,  diplomats and  travellers from a
+     hundred  worlds.  Could be  a dangerous  place, but we  accepted the
+     risk because Babylon 5 was our last, best hope for peace.
+
+     "Under the leadership of its' final commander, Babylon 5 was a dream
+     given form... a  dream of  a galaxy  without war,  when species from
+     different  worlds  could live  side by side  in mutual  respect... a
+     dream that was in danger as  never before by the  arrival of one man
+     on a mission of destruction.
+
+     "Babylon 5  was the  last of  the  Babylon  stations.  This is  its'
+     story..."
+
+                                             - Ambassador Londo Mollari
+
+------------------
+SEASON 1 NARRATION
+------------------
+
+     "It was the dawn of the  third  age  of mankind, ten years after the
+     Earth/Minbari  War.  The Babylon  Project  was a dream  given  form.
+     Its' goal: to prevent another  war by  creating a place where humans
+     and aliens could work out their differences peacefully.  It's a port
+     of call, home away from home for  diplomats, hustlers, entrepreneurs
+     and  wanderers;  humans  and aliens  wrapped  in two  million,  five
+     hundred thousand tons of  spinning metal...  all alone in the night.
+     It can be a dangerous place, but it's our last, best hope for peace.
+     This is the story of the last  of the Babylon stations.  The year is
+     2258.  The name of the place is Babylon 5."
+
+                                             - Commander Jeffrey Sinclair
+
+------------------
+[3.2]  PILOT MOVIE
+------------------
+
+N/A) "The Gathering"
+
+     Directed by: Richard Compton
+     Written by.: J. Michael Straczynski
+
+LYTA: "He did it!  He's the one!  He tried to kill the ambassador!"
+
+When Ambassador Kosh of the Vorlon Government arrives on Babylon 5 he is
+immediately the subject of an assassination attempt.  Using a telepath,
+the crew discover that the assassin is apparently Commander Jeffrey
+Sinclair, who finds himself on trial.  But as the crew investigate further
+the mystery deepens, and as Garibaldi digs deeper bodies begin turning up
+and some people aren't who they seem to be.  The crew must solve the
+mystery and find the real assassin before the arrival of the Vorlons, who
+will take Commander Sinclair back to their own world for trial.
+
+     Michael O'Hare      as   Commander Jeffrey Sinclair
+     Tamlyn Tomita       as   Lt. Commander Takashima
+     Jerry Doyle         as   Security Chief Michael Garibaldi
+     Mira Furlan         as   Ambassador Delenn
+     Blaire Baron        as   Carolyn Sykes
+     John Fleck          as   Del Varner
+     Paul Hampton        as   The Senator
+     Andreas Katsulas    as   Ambassador G'Kar
+     Peter Jurasik       as   Ambassador Londo Mollari
+     Johnny Sekka        as   Dr. Benjamin Kyle
+     Patricia Tallman    as   Lyta Alexander
+     Steven A. Barnett   as   Eric
+     William Hayes       as   Traveller
+     Linda Hoffman       as   Tech #2
+     Robert Jackson      as   Tech #3
+     F. William Parker   as   Business Man #1
+     Marianne Robertson  as   Hostage
+     David Sage          as   Business Man #2
+     Ed Wasser           as   Guerra
+
+------------------------------------
+[3.3]  SEASON 1 - SIGNS AND PORTENTS
+------------------------------------
+
+A01) "Midnight on the Firing Line"
+
+     Directed by: Richard Compton
+     Written by.: J. Michael Straczynski
+
+G'KAR: "Would you like some Spoo?  It's quite fresh this week."
+LONDO: "Fresh is it?" [spits into Spoo!]
+
+An attack on Ragesh 3, a Centauri outpost, leads Londo to discover that
+the Narn Regime was behind it, and he goes after G'Kar.  Meanwhile pirates
+are attacking supply ships and as Sinclair calls a council meeting to
+authorise sanctions against the Narn Regime, Garibaldi discovers that the
+pirates will be attacking a supply ship carrying over 500 civilians.  Then
+Sinclair gets a message from the senator telling him that the Earth
+Alliance must stay neutral and things go from bad to worse for Londo at
+the meeting.
+
+     Paul Hampton        as   The Senator
+     Peter Trencher      as   Carn Mollari
+     Jeff Austin         as   Centauri #1
+     Ardwright Chamberlain
+                         as   Kosh
+     Maggie Egan         as   Newsperson
+     Mark Hendrickson    as   Narn Captain
+     Douglas E. McCoy    as   Delta 7
+     Marianne Robertson  as   Tech #1
+
+A02) "The Soul Hunter"
+
+     Directed by: Jim Johnston
+     Written by.: J. Michael Straczynski
+
+SINCLAIR: "Two Soul Hunters!  Did somebody book a convention without
+          telling me?"
+
+A ship is stopped before it crashes into B5 and its lone occupant is
+bought onboard.  Delenn recognises the occupant as a Soul Hunter, a
+stealer of souls, and when news gets out of the occupant most of the
+aliens decide to book passage off B5.  Then a second Soul Hunter arrives
+and details emerge that the first Soul Hunter is there to take a soul of
+someone very important, but rather than wait for death to take its course
+and risk being late, he plans to kill and collect the soul there and then.
+
+     W. Morgan Sheppard  as   The Soul Hunter
+     John Snyder         as   Soul Hunter #2
+     Toni Attell         as   Med Tech #1
+     Jim Bentley         as   Man
+     Mark Conley         as   Tech #1
+     David D. Darling    as   Guard #1
+     Ted W. Henning      as   Guard #2
+     Marianne Robertson  as   Tech #2
+
+A03) "Born to the Purple"
+
+     Directed by: Bruce Seth Green
+     Written by.: Lawrence G. DiTillio
+
+KO'DATH: "I am Ko'Dath, the new head of your diplomatic staff."
+G'KAR: "Yes, err... I wasn't expecting you for several yea... err, days."
+
+Londo becomes involved with a very beautiful Centauri dancer, Adira, and
+ends up often neglecting his ambassadorial duties.  But Adira turns out to
+be a slave on a mission to steal Londo's "purple files", a set of
+confidential files detailing scandalous secrets.  Adira steals the files
+but changes her mind about handing them over to her owner, Trakis, who
+hires killers look for her.  Meanwhile Garibaldi detects some unauthorized
+transmissions on the restricted Gold channel and has a hard time pinning
+them down.
+
+     Fabiana Udenio      as   Adira Tyree
+     Clive Revill        as   Trakis
+     Mary Woronov        as   Ko'Dath
+     Jimm Giannini       as   Ock
+     Robert Phalen       as   Andrei Ivanova
+     Robert DiTillio     as   Norg
+     Tom Lowe            as   Gunman #1
+     Katharine Mills     as   Dancer
+     Mike Norris         as   Butz
+     Laura Peterson      as   Gera Akshi
+     Marianne Robertson  as   Tech #1
+     Momo Yashima        as   Dr. Goyokin
+
+A04) "Infection"
+
+     Directed by: Richard Compton
+     Written by.: J. Michael Straczynski
+
+GARIBALDI: "If that thing leaves a waxy yellow build up... on anything,
+           I'm coming back here."
+
+Dr. Franklin's mentor, one Dr. Vance Hendricks, arrives on Babylon 5 with
+smuggled artifacts from a long dead civilization that he hopes will lead
+to a breakthrough in organic technology; the blueprints for living
+machines.  But things go wrong for Nelson Drake, Hendricks's assistant,
+when one of the artifacts slowly transforms him into an alien killing
+machine with a living armour compound that grows over his body.  Meanwhile
+Sinclair tries to avoid an attractive, reporter determined to interview
+him.
+
+     David McCallum      as   Dr. Vance Hendricks
+     Marshall Teague     as   Nelson Drake
+     Patricia Healy      as   Mary Ann Cramer
+     Sav Farrow          as   Tech #1
+     Daniel Hutchison    as   Security Guard
+     Sylva Kelegian      as   Tech #2
+     Tony Rizzoli        as   Guard
+     Marianne Robertson  as   Tech #3
+     Paul Yeuell         as   Customs Guard
+
+A05) "The Parliament of Dreams"
+
+     Directed by: Jim Johnston
+     Written by.: J. Michael Straczynski
+
+LONDO: "Do you know what the last Xon said just before he died?...
+       Arrrgh!"
+GARIBALDI: "Can I kill him now?"
+SINCLAIR: "Let me get back to you."
+
+It's a week of festivities where everyone on Babylon 5 gets to experience
+the others religious beliefs.  During this time Ambassador G'Kar receives
+a death threat from an old enemy and becomes suspicious of everyone,
+including his newly arrived aide Na'Toth.  He hires a bodyguard to help
+protect him, but even the bodyguard turns up dead!  Meanwhile Catherine
+Sakai, an old flame of Sinclair's, turns up on B5 on business, and once
+again a romance builds up between them.
+
+     Julia Nickson       as   Catherine Sakai
+     Thomas Kopache      as   Tu'Pari
+     Joy Hardin          as   Narn #1
+     Mark Hendrickson    as   Du'Rog
+     Calvin Jung         as   Guard
+     Randall Kirby       as   Businessman #1
+     Michael McKenzie    as   Pilgrim
+     Marianne Robertson  as   Dome Tech
+     Glenn Robinson      as   Head Waiter
+     Erich Martin Von Hicks
+                         as   Businessman #2
+
+A06) "Mind War"
+
+     Directed by: Bruce Seth Green
+     Written by.: J. Michael Straczynski
+
+SINCLAIR: "Mister, I don't care if you had a personal message from God
+          complete with stone tablets.  You lied to me!"
+
+When an escaped rogue telepath, Jason Ironheart, arrives on Babylon 5 to
+find Talia Winters, two Psi Cops are sent after him and will stop him any
+way they can.  But Jason is not all he seems and his presence could
+destroy Babylon 5.  Even the Psi Cops aren't telling the whole truth and a
+tale of genetic experiments on telepaths slowly unfolds.  During all this
+Catherine Sakai ignores G'Kar's warning about Sigma 957 and finds herself
+spiraling towards the planet with 2 hours to live.
+
+     William Allan Young as   Jason Ironheart
+     Felicity Waterman   as   Kelsey
+     Julia Nickson       as   Catherine Sakai
+     Walter Koenig       as   Bester
+     Don Dowe            as   Earth Fighter
+     Elisa Pensler Gabrielli
+                         as   Guest Liaison
+     Michael McKenzie    as   Narn Captain
+     Kevin Page          as   Businessman
+     Mark S. Porro       as   Security Guard
+     Macaulay Bruton     as   Garibaldi's Aide
+     Marianne Robertson  as   Dome Tech #1
+
+A07) "The War Prayer"
+
+     Directed by: Richard Compton
+     Written by.: D.C. Fontana
+
+IVANOVA: "... You're a vicious man."
+GARIBALDI: "I'm Head of Security.  It's in the job description."
+
+The tension and ill feeling between the aliens and humans on B5 grows
+after a Minbari poet is stabbed and branded by a pro-Earth group.  It
+leaves Sinclair and his crew scrambling to flush out the pro-Earth group
+before all out war breaks out on B5, which is not helped by G'Kar's
+interference.  Londo and Vir have their own problems when they clash over
+two young Centauri lovers seeking protection from arranged marriages, and
+an old lover of Ivanova's suddenly arrives at the station who has more on
+his agenda than she realises.
+
+     Tristan Rogers      as   Malcolm Biggs
+     Nancy Lee Grahn     as   Shaal Mayan
+     Michael Paul Chan   as   Roberts
+     Rodney Eastman      as   Kiron Maray
+     Danica McKellar     as   Aria Tensus
+     Diane Adair         as   Mila Shar
+     Richard Chaves      as   Alvares
+     Mark Henrickson     as   Thegras
+     Chuck Butto         as   Security Officer #1
+     Ardwight Chamberlain
+                         as   Kosh
+     Mike Gunther        as   Alien #1
+     Marianne Robertson  as   Dome Tech
+
+A08) "And the Sky Full of Stars"
+
+     Directed by: Janet Greek
+     Written by.: J. Michael Straczynski
+
+SINCLAIR: "Well, well... looks like the pain is real for both of us."
+
+Sinclair wakes up to find B5 deserted, but it turns out that he has been
+kidnapped and is being interrogated inside a virtual reality cybernet by 2
+unknown assailants determined to find out what happened when he was M.I.A.
+for 24 hours during the "Battle of the Line", something he has never been
+able to remember.  As the rest of the B5 crew start a search for Sinclair
+he starts remembering bits and pieces of those 24 hours, but will they
+find him before he dies from his interrogation?
+
+     Judson Scott        as   Knight One
+     Christopher Neame   as   Knight Two
+     Jim Youngs          as   Benson
+     Justin Williams     as   Mitchell
+     Joe Banks           as   Guard
+     Gary Cervantes      as   Strongarm #1
+     Mark Hendrickson    as   Grey Council #1
+     Fumi Shishino       as   Security Guard
+     Macaulay Bruton     as   Aide
+     Marianne Robertson  as   Tech #1
+
+A09) "Deathwalker"
+
+     Directed by: Bruce Seth Green
+     Written by.: Lawrence G. DiTillio
+
+SINCLAIR: "Why?"
+KOSH: "You are not ready for immortality."
+
+Jha'dur, better known to many as "Deathwalker", is the last of the Dilgar,
+a race which fought the Earth Alliance and the League of Non-Aligned
+Worlds 30 years ago.  She is recognised on arrival at B5 and the League
+calls out for justice, but Sinclair receives orders to send her back to
+Earth as she has produced an immortality serum which she uses as a
+bargaining chip to retain her freedom.  Meanwhile Talia Winters conducts
+some very strange and peculiar business with Ambassador Kosh and a strange
+man.
+
+     Sarah Douglas       as   Jha'dur
+     Robin Curtis        as   Ambassador Kalika
+     Cosie Costa         as   Abbut
+     Aki Aleong          as   Senator Hidoshi
+     Ardwright Chamberlain
+                         as   Kosh
+     Robert DiTillio     as   Ambassador #1
+     Sav Farrow          as   Tech #2
+     Mark Hendrickson    as   Ashok
+     Marianne Robertson  as   Tech #1
+
+A10) "Believers"
+
+     Directed by: Richard Compton
+     Written by.: David Gerrold
+
+SHON: "Am I going to die?"
+
+An alien couple bring their child to Dr. Franklin looking for medical help
+with his life-threatening condition, but their ancient religion will not
+allow surgical procedure.  Franklin asks Sinclair to overrule the aliens'
+parental authority which he considers but finally rejects.  Knowing the
+boy will die if not operated on, Dr. Franklin and his assistant operate
+anyway not knowing the consequences of their actions.  Meanwhile Ivanova
+leads a rescue attempt of a ship which could be attacked by raiders.
+
+     Tricia O'Neil       as   M'ola
+     Stephen Lee         as   Tharg
+     Silvana Gallardo    as   Dr. Maya Hernandez
+     Jonathan Charles Kaplan
+                         as   Shon
+     Ardwright Chamberlain
+                         as   Kosh
+
+A11) "Survivors"
+
+    Directed by: Jim Johnston
+    Written by.: Mark Scott Zicree
+
+NOLAN: "It was... Gari... baldi..."
+
+Major Kemmer, the president's security adviser, arrives on B5 to inspect
+safety conditions and it seems that she has a grievance with Garibaldi who
+she blames for killing her father.  An explosion seriously injures a
+worker and as he dies he insists it was due to a bomb planted by Garibaldi.
+Kemmer arrests Garibaldi but he escapes, determined to find out who framed
+him.  As things go from bad to worse Garibaldi ends up hitting the bottle
+once again.
+
+     Elaine Thomas       as   Lianna Kemmer
+     Tom Donaldson       as   Cutter
+     David Austin Cook   as   Special Agent #1
+     David Crowley       as   Lou Welch
+     Maggie Egan         as   INS Reporter
+     Jose Rosario        as   Nolan
+     Robin Wake          as   Young Lianna
+     Mark Hendrickson    as   Alien #1
+     Rod Perry           as   General Netter
+     Marianne Robertson  as   Tech #1
+
+A12) "By Any Means Necessary"
+
+     Directed by: Jim Johnston
+     Written by.: Kathryn Drennan
+
+CONNOLLY: "I have spent my entire life defending workers' rights and I'm
+          not about to stop now!"
+
+An accident in one of B5's overcrowded loading docks between two ships
+causes the death of a worker.  Working conditions and obsolete equipment
+are blamed and Sinclair faces an illegal strike.  When the Senate sends in
+a negotiator things get worse and there are violent clashes between the
+workers and the security forces on B5.  A rare flower used in the Narn
+religious ceremonies is destroyed in the accident and G'Kar, needing one
+in time for the ceremony, discovers that Londo is the only other person
+who has one.
+
+     Katy Boyer          as   Neeoma Connolly
+     John Snyder         as   Orin Zento
+     Aki Aleong          as   Senator Hidoshi
+     Patricia Healy      as   Mary Ann Cramer
+     Michael McKenzie    as   Narn Captain
+     Jose Rey            as   Eduardo Delvientos
+     Ricardo Martinez    as   Worker #2
+     Marianne Robertson  as   Tech #1
+     Floyd Vaughn        as   Worker #1
+
+A13) "Signs and Portents"
+
+     Directed by: Janet Greek
+     Written by.: J. Michael Straczynski
+
+KOSH: "Leave this place.  They are not for you.  Go.  Leave.  Now..."
+
+Raiders are robbing and destroying cargo vessels close to B5 and the crew
+prepare for defensive action.  Londo comes into possession of "The Eye",
+an ancient Centauri symbol of power, which is to be given to Lord Kiro,
+the Emperor's heir.  When the raiders attack another cargo vessel which
+turns out to be a decoy, there is an attack on the station itself, with
+raiders on B5 capturing Kiro and "The Eye".  Meanwhile a mysterious
+stranger arrives on the station asking the same question to the alien
+Ambassadors.
+
+     Gerrit Graham       as   Lord Kiro
+     Fredi Olster        as   Lady Ladira
+     Whip Hubley         as   Raider #1
+     Anita Brabec        as   Dome Tech #3
+     Ardwight Chamberlain
+                         as   Kosh
+     Joshua Cox          as   Dome Tech #2
+     Garry Kluger        as   Man
+     Lee Mathis          as   Fighter #1
+     Douglas E. McCoy    as   Fighter #2
+     Hector Mercado      as   Pilot
+     Marianne Robertson  as   Dome Tech #1
+     Robert Silver       as   Reno
+     Ed Wasser           as   Morden
+     Lynn Red Williams   as   Customs Guard
+
+A14) "TKO"
+
+     Directed by: John C. Flinn, III
+     Written by.: Lawrence G. DiTillio
+
+MUTA-DO: "... and I say 'Go Back to Earth.  The Mutai is not for you.'"
+
+Walker Smith, a disgraced ex-prizefighter from Earth, comes to B5 to visit
+his friend Garibaldi and to reclaim his honour by becoming the first human
+to fight in the Mutai, a fierce boxing event hosted by the alien races
+onboard the station.  But the Muta-Do will not let humans fight against
+aliens - Smith must find another way to enter the event.  Rabbi Koslov
+arrives on B5 to console Ivanova on the death of her father, and to help
+her come to terms with it - something she is unwilling to let him do.
+
+     Greg McKinney       as   Walker Smith
+     Soon-Teck Oh        as   The Muta-Do
+     Don Stroud          as   Caliban
+     Theodore Bikel      as   Rabbi Koslov
+     James Jude Courtney as   Gyco
+     Robert Phalen       as   Andrei Ivanov
+     Lenore Kasdorf      as   ISN reporter
+     Michael McKenzie    as   Migo
+     Marianne Robertson  as   Tech #1
+
+A15) "Grail"
+
+     Directed by: Richard Compton
+     Written by.: Christy Marx
+
+SINCLAIR "... One person's lunatic is another's true seeker."
+GARIBALDI: "You've been hanging out with Delenn too much."
+
+Gajic, a traveller, comes to B5 seeking the Holy Grail, hoping that one of
+the alien ambassadors has some information on it.  Meanwhile Deuce, a
+crime boss, forces Jinxo, a worker, to repay a debt by a certain time or
+be brainwiped by an alien appearing to be Ambassador Kosh, who has just
+brainwiped a witness planning to testify against Deuce.  In the course of
+their investigation, the B5 crew end up trying to find a terrifying
+"Feeder", and a captured Gajic and Ombuds Wellington.
+
+     David Warner        as   Aldous Gajic
+     William Sanderson   as   Deuce
+     Tom Booker          as   Jinxo
+     Jim Norton          as   Ombuds Wellingston
+     Linda Lodge         as   Mirriam Runningdear
+     Ardwight Chamberlain
+                         as   Kosh
+     John Flinn          as   Mr. Flinn
+     Marianne Robertson  as   Tech #1
+
+A16) "Eyes"
+
+     Directed by: Jim Johnston
+     Written by.: Lawrence G. DiTillio
+
+GARIBALDI: "If I kill him I would start a war..."
+
+Colonel Zayn (a.k.a."Eyes"), an investigator from the EarthForce Bureau of
+Internal Affairs, arrives on B5 with a military specialist from the Psi
+Corps to evaluate the loyalty of B5's command staff in the wake of the
+several political crisis on the station.  Garibaldi finds out some
+information on Zayn does some more digging, and when things don't go as
+planned for Zayn, he assumes command of B5 and threatens to court-martial
+Sinclair.  Lennier finds some time to help Garibaldi build a motorcycle.
+
+     Gregory Martin      as   Colonel Ari Ben Zayn
+     Jeffrey Combs       as   Harriman Gray
+     Macaulay Bruton     as   Tragedy
+     Marie Chambers      as   Sofie Ivanov
+     David L. Crowley    as   Lou Welch
+     Frank Farmer        as   General Miller
+     Drew Letchworth     as   Comedy
+     Marianne Robertson  as   Tech #1
+
+A17) "Legacies"
+
+     Directed by: Bruce Seth Green
+     Written by.: D.C. Fontana
+
+SINCLAIR: "Station 1, keep scanning that ship - if their tracking system
+          so much as blinks in our direction..."
+
+A Minbari war cruiser arrives at B5 with the corpse of their great war
+hero, Branmer, for display at various outposts throughout the galaxy, but
+when the corpse goes missing everyone is horrified and there is a search
+to find it, with the Minbari warrior caste leader threatening to start a
+war over it.  Meanwhile Talia and Ivanova clash over a 14-year-old orphan
+who has is also a powerful telepath.  They have different opinions as to
+the girl's best interests; G'Kar offers her a third choice!
+
+     John Vickery        as   Shai Alit Neroon
+     Grace Una           as   Alisa Beldon
+     Joshua Cox          as   Tech #2
+     Richard Henry       as   Security Man
+     Patrick O'Brien     as   Cart Owner
+     Marianne Robertson  as   Tech #1
+
+A18) "A Voice in the Wilderness, Part I"
+
+     Directed by: Janet Greek
+     Written by.: J. Michael Straczynski
+
+LONDO: "If that's true it would seem you may have awakened something."
+
+Surface monitors detect seismic activity on Epsilon 3, the planet B5
+orbits.  A team is sent to investigate but their shuttle is attacked by an
+automated defense system built by a long-forgotten civilization.  Sinclair
+and Ivanova decide to try and get to the planet to find out what happened.
+Meanwhile Garibaldi attempts to find out any information on the violent
+political revolt on the Mars Colony where his ex-girlfriend is stationed,
+and Delenn is visited by Draal, one of her former teachers.
+
+     Louis Turenne       as   Draal
+     Curt Lowens         as   Varn
+     Craig Barnett       as   Security Guard
+     Langdon Bensing     as   Derek Mobotabwe
+     Kelly Coyle         as   EarthForce Liaison
+     Kathryn Cressida    as   Bartender
+     Jim Ishida          as   Dr. Tasaki
+     Lenore Kasdorf      as   ISN Reporter
+     Marianne Robertson  as   Tech #1
+     Patty Toy           as   PSI Corps Rep
+     Jerry Well          as   Technician
+
+A19) "A Voice in the Wilderness, Part II"
+
+    Directed by: Janet Greek
+    Written by.: J. Michael Straczynski
+
+PIERCE: "A show of force... is required."
+
+Deep inside Epsilon 3, Sinclair and Ivanova discover that seismic tremors
+have reactivated a defense system guarded by Varn, a dying 500-year-old
+cybernetic alien.  They bring him back to B5 and an EarthForce war cruiser
+arrives to claim the technology on the planet, but the captain sets off a
+chain reaction that will destroy the planet in less than 48 hours.  Then
+an alien warship arrives also laying claims to the planet and a
+misunderstanding leads to a space battle.
+
+     Louis Turenne       as   Draal
+     Curt Lowens         as   Varn
+     Ron Canada          as   Captain Ellis Pierce
+     Denise Gentile      as   Lise Hampton
+     Aki Aleong          as   Senator Hidoshi
+     Joshua Cox          as   Tech #2
+     Chip Heller         as   Rowdy #1
+     Lenore Kasdorf      as   ISN Reporter
+     Michelan Sisti      as   Takarn
+     Marianne Robertson  as   Tech #1
+
+A20) "Babylon Squared"
+
+     Directed by: Jim Johnston
+     Written by.: J. Michael Straczynski
+
+KRANTZ: "Babylon 4 requesting help.  We need assistance."
+
+The strange death of a pilot and an emergency transmission leads to the
+reappearance of Babylon 4, which has been trapped in a violent time warp
+for the last 4 years, which projects B4 back and forth through time... All
+available rescue shuttles are sent to B4 and the crew are evacuated before
+it vanishes again, but not before Sinclair has visions of his own future
+and meets "The One" from another time in history.  Meanwhile Delenn
+travels to the Grey Council to receive some surprising news.
+
+     Kent Broadhurst     as   Major Krantz
+     Tim Choate          as   Zathras
+     Denise Gentile      as   Lise Hampton
+     Frank Costa         as   B4 Guard
+     Mark Hendrickson    as   Grey Council #2
+     Doug E. McCoy       as   Alpha Seven
+     Tommy Rosales       as   Panicked Man
+     Marianne Robertson  as   Tech #1
+
+A21) "The Quality of Mercy"
+
+     Directed by: Lorraine Senna Ferrara
+     Written by.: J. Michael Straczynski
+
+WELLINGTON: "The personality of Karl Edward Mueller will be totally and
+            completely erased."
+
+Mueller, a psychopathic killer is sentenced to have a brainwipe, a
+telepathic process where the evil personality is erased and replaced with
+docile emotions.  Dr. Franklin does some investigating of his own on Dr.
+Laura Rosen who has been treating poor people illegally with an alien
+healing machine.  Mueller escapes, but not before being severely wounded
+and ends up in Laura's clinic holding her daughter hostage.  Londo takes
+some time to learn about the other alien races and takes Lennier to B5's
+nightclubs!
+
+     June Lockhart       as   Dr. Laura Rosen
+     Kate McNeil         as   Janice Rosen
+     Mark Rolston        as   Karl Mueller
+     Damian London       as   Centauri Senator
+     Jim Norton          as   Ombuds Wellington
+     Lynn Anderson       as   Rose
+     Phillippe Bergeron  as   Lurker
+     David Crowley       as   Second Guard
+     Kevin McBride       as   Guard
+     Constance Zimmer    as   Young Woman Patient
+
+A22) "Chrysalis"
+
+     Directed by: Janet Greek
+     Written by.: J. Michael Straczynski
+
+KOSH: "And so it begins..."
+
+The season finale, and as it nears the end of the year 2258, a dying man
+signifies the start of a chain of events that leads Garibaldi to an
+important discovery that could cost him his life.  Morden, an agent for
+the mysterious Shadows, returns to give the Londo a hand with the Centauri
+dispute with the Narns over an outpost, and Delenn starts to go through
+some changes after her meeting with Kosh.
+
+     Julia Nickson       as   Catherine Sakai
+     Macaulay Bruton     as   Garibaldi's Aide
+     Liz Burnette        as   Lurker #1
+     Edward Conery       as   Devereaux
+     Maggie Egan         as   News Anchor
+     Cheryl Francis Harrington
+                         as   Senator
+     Mark Hendrickson    as   Narn Pilot
+     James Kiriyama-Lem  as   Med Tech
+     Wesley Leong        as   Paramedic
+     Gianin Loffler      as   Lurker #2
+     David Anthony Marshall
+                         as   Stephen Petrov
+     Gary McGurk         as   Morgan Clark
+     John Riojas         as   Guard
+     Marianne Robertson  as   Tech
+     Fumi Shishino       as   Screaming Woman
+     Ed Wasser           as   Morden
+     Bergen Williams     as   Security Guard
+
+--------------------------------------------------------------------------
+
+[4]  U.K. AIR DATES & RATINGS
+=============================
+
+DATE FORMAT: yy/mm/dd
+RATINGS FORMAT: position/viewers in millions
+
+Please note that the UK running order of the episodes may not be the same
+as the US order.
+
+AIR DATE  PROD.  TITLE                               RATINGS
+          CODE
+
+94/05/16   103   "Midnight on the Firing Line"       14/2.61
+94/05/23   102   "The Soul Hunter"                   26/1.79
+94/05/30   104   "Born to the Purple"                ??/1.20
+94/06/06   101   "Infection"                         19/2.12
+94/06/13   108   "The Parliament of Dreams"          ??/1.30
+94/06/20   110   "Mind War"                          21/1.86
+94/06/27   107   "The War Prayer"                    21/1.65
+94/07/04   106   "And the Sky Full of Stars"         25/1.46
+94/07/11   113   "Deathwalker"                       28/1.46
+94/07/18   105   "Believers"                         27/1.47
+94/07/25   111   "Survivors"                         30/1.50
+94/08/01   114   "By Any Means Necessary"            ??/1.60
+94/08/08   116   "Signs and Portents"                ??/1.40
+94/08/15   109   "Grail"                             ??/1.40
+94/08/22   122   "Eyes"                              ??/1.20
+94/08/29   115   "Legacies"                          ??/1.20
+94/09/05   120   "A Voice in the Wilderness, Part 1" 22/1.73
+94/09/12   121   "A Voice in the Wilderness, Part 2" 21/2.05
+94/09/19   118   "Babylon Squared"                   22=/2.13
+94/09/26   117   "The Quality of Mercy"              27/1.76
+94/10/03   112   "Chrysalis"                         31/1.79
+94/10/09   N/A   "The Gathering"                     16/2.43
+95/01/21   119   "TKO"                               --/----
+
+--------------------------------------------------------------------------
+
+[5]  SEASON 1 UK EDITS
+======================
+
+All information included here are based on edits made on 1st run episodes.
+Repeated episodes that may have been further edited are not included.  If
+you know of any other edits, e-mail me all the details!
+
+Edits are listed in the format:-
+
+[ep. #]  [title]
+[edited scenes]
+
+A02) "The Soul Hunter"
+
+  a) Just before the tramp is killed by the other tramp with the knife,
+     there has been a 1-2 second edit where you should have seen a close
+     up of the knife the killer is holding.
+
+A07) "The War Prayer"
+
+  a) In the teaser with the Minbari poet being stabbed, you only see a
+     flash of the butterfly knife (a martial arts knife, a.k.a. ballisong)
+     twice and then the stabbed Minbari poet fall down before being
+     branded.  You don't see the actual stabbing.
+
+     The US version shows the knife 3 times and then the actual stabbing.
+
+  b) The scene where the Oriental pro-earth man is attacked by aliens is
+     cut.  Basically he gets beaten up a lot more in the US version!  The
+     UK version lasts 17 seconds.  The US version lasts 42 seconds.
+
+A08) "And the Sky Full of Stars"
+
+  a) In the scene where Sinclair has the complete version of his flashback
+     of the "Battle of the Line", he says "Not like this, not like this,
+     if I'm going out I'm taking you with me."
+
+     In the US version he actually says "Not like this, not like this, if
+     I'm going out I'm taking you bastards with me."
+
+A09) "Deathwalker"
+
+  a) In the teaser where Jha'dur is attacked by Na'Toth, you see Na'Toth
+     beating Jha'dur onto the ground - suddenly she miraculously has a
+     metal staff/wrench in her right hand and is about to strike Jha'dur
+     before getting held back.  What you don't see is the edit where
+     Na'Toth picks up the wrench and hits Jha'dur a couple of times, and
+     boy-o-boy was it painful!
+
+A10) "Believers"
+
+  a) After Franklin has performed the operation on Shon, his parents see
+     him and back off, start chanting and the father draws a knife.  The
+     knife scene is cut and you see them back off slightly - suddenly
+     Sinclair shouts at Franklin.
+
+A11) "Survivors"
+
+  a) The scene where Garibaldi is fighting Cutter during the countdown is
+     edited.  You did not see Cutter draw a knife.
+
+A14) "TKO"
+
+  a) This episode was not aired originally due to Channel 4 deeming that
+     the content of the violence ('alien bare-knuckle kick-boxing') was
+     too strong for a 6pm showing, so they skipped this episode completely
+     during the original run.
+
+     After much UK fan pressure, they finally aired the episode (un-cut)
+     on Saturday, 21 January 1995 @ 10.35pm.
+
+A18) "A Voice in the Wilderness, Part 1"
+
+  a) The scene in the bar where Garibaldi thumps the man who is making
+     remarks about the people on the Mars colony has been edited.
+
+--------------------------------------------------------------------------
+
+[6]  AND FINALLY...
+===================
+
+I hope you find this guide useful.  If you have any suggestions, comments,
+or just want to say hi, you can drop me a line at one of the following:-
+
+     Mr. Edwin Yau,     e-mail:   mrpotato@fastnet.co.uk
+     16 Hogarth Road,
+     HOVE,
+     East Sussex,
+     BN3 5RG.
+     ENGLAND.
+
+Hellos to... Peter Berry, Steven Grimm, Tobias Richter, Channel 4
+             Television and all the guys at Visual Imagination Ltd.!
+
+
+                              === END ===

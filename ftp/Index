@@ -1,0 +1,74 @@
+WWW users should link to the file "index.html".
+
+SUBDIRECTORIES
+--------------
+Bibliographies     References to newspaper/magazine articles about cast/crew
+Credits            Production credits for individual episodes.
+Digests            Messages from the Babylon 5 mailing list.
+GEnie              Messages from J. Michael Straczynski on GEnie's B5 area
+Guide              The Babylon 5 Episode Guide (in progress)
+Models             3-D models of objects from the Babylon 5 universe.
+Pictures           Various images, scanned in and frame-grabbed.
+Releases           Press releases and other promotional printed material.
+Synopses           Detailed descriptions of individual episodes.
+uk-guide           An episode guide based on the UK airing schedule.
+
+
+TEXT FILES
+----------
+History.Babylonia  A brief history of ancient Babylonia.  Babylon 5's broad
+                       storyline is based at least in part on real events of
+                       ancient Earth history.
+OHare.Leave        Messages from JMS about Michael O'Hare's departure
+Parallels.history  Speculation about the nature of the correspondence between
+		       Babylonian history and B5's story.
+Dictionary         A brief listing of people, places, and other things.  See
+		       also b5encyc.txt.
+b5actors.txt       Babylon 5 Actors' Other Roles list
+b5.crew            List and descriptions of crew members working on B5
+b5encyc.txt        An encyclopedia, listing things, people, places, and more.
+b5episodes         Episode list (contains spoilers)
+b5faq-german       German version of babylon-5-faq
+b5_jms_answers.txt A compendium of JMS's answers to common questions about B5,
+		       as well as other interesting stories and information.
+b5log.txt          A summary of the Babylon 5 universe, and descriptions of
+		       the show's characters.
+b5.media           A list of where articles and shows on B5 can be found
+b5.tech            Technical descriptions of various things in B5's universe.
+b5tvaddresses.txt  A list of PTEN station addresses.
+b5tvlist.txt       A list of TV stations slated to show Babylon 5 (and the
+		       other Prime Time Network shows).
+babylon-5-faq      Babylon 5 Frequently Asked Questions list
+babylon-5-news-schedule	Babylon 5 FAQ: News and schedule information
+babylon-5-setting-s1	Babylon 5 FAQ: Season one
+babylon-5-setting-s2	Babylon 5 FAQ: Season two
+babylon-5-setting-s3	Babylon 5 FAQ: Season three
+biblical-refereces A compilation of references to Babylon from the Bible.
+cast.txt           A complete listing of B5's characters, sorted by actor's name
+castbyep.txt       The same listing, sorted by first appearance
+character.txt      The same listing, sorted by character's name
+delphi-5-21.txt    A May 1995 real-time conference with JMS on DELPHI.
+irc940129.txt.Z    Transcript of a real-time conference about B5.
+jms.credentials    List of other JMS works
+jms.radio.7-24-94  Transcript of a radio interview with JMS.
+lovecraft.txt      A discussion of the parallels between B5 and H.P. Lovecraft
+quickref.txt       A brief list of all the episodes so far.
+soundtrack-index   Detailed breakdown of the soundtrack CD.
+
+
+PROGRAMS
+--------
+B5-Interactive.cpt.hqx
+b5demo.zip
+                   The Babylon 5 Interactive Press Kit, a demo for Macintosh
+		       and Windows systems.
+b5quote.tar       A short UNIX script to print random B5 quotes
+newton.sit        The Lurker's Guide episode guide for the Apple Newton.
+
+
+MISCELLANEOUS
+-------------
+b5quick.data       A QuickTime movie (data and resource forks) with some
+b5quick.rsrc           of the effects from the pilot.  Released by PTEN.
+b5quick.bin        The same animation in MacBinary format -- don't grab both
+		       this and b5quick.data.  They're the same.

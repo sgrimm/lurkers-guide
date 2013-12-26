@@ -1,0 +1,180 @@
+                 THE BABYLON 5 RANDOM QUOTE GENERATOR FAQ
+		http://www.reed.edu/~horde/b5/b5quote.html
+               Last modified: Friday, 21-Jul-95 10:39:00 PDT
+
+          By: Mr. Heiji Horde, horde@reed.edu
+          
+          The Babylon 5 Quote FAQ was originally maintained by: 
+            Michael "The Admiral" Zecca, zecca@starfury.cgd.ucar.edu 
+          
+Upcoming Releases
+
+   It's the *long* wait until October. I'll probably wait until the first
+   break during the third season before releasing a new version. 
+   
+The current version is 2.2
+
+   This contains quotes from the TV movie "The Gathering" through the
+   second season episode "Confessions and Lamentations".  
+     _________________________________________________________________ 
+   
+Topics:
+
+     * What is it? 
+     * Why did/didn't you include this line? 
+     * Where can I get my copy? 
+     * How do I unpack the program? 
+     * Why this strange program? 
+     * What are all these other files? 
+     * Release schedule 
+     * What about my Macintosh or DOS box? 
+     * Possible problems 
+    
+     _________________________________________________________________ 
+   
+What is it?
+
+   A homemade fortune program that will generate a random quote from an
+   episode of Babylon 5. The program is currently designed to run under
+   standard Unix and DOS environments.  
+     _________________________________________________________________ 
+   
+Why did/didn't you include this line?
+
+   I try to capture quotes that: 
+   
+          seem significant to the overall Babylon 5 plotline, 
+          tell us something about one of the characters, 
+          sound really funny, or 
+          sound really cool. 
+          
+   Of course, I might be a little biased towards the lines that I pick.
+   So if you'd like to make your own modifications for your own personal
+   use, I have no problem with that.  
+     _________________________________________________________________ 
+   
+Where can I get my copy?
+
+   If you want the complete distribution of the B5 random quote generator
+   can be found at either of the following anonymous FTP sites: 
+     * ftp.hyperion.com:/pub/Babylon-5
+     * ftp.uml.edu:/Babylon-5
+     * ftp.ctrl-c.liu.se:/babylon5
+       
+   The filenames you're interested in are: 
+     "b5quotes.tar" - if you're a Unix user 
+     "b5quotes.zip" - if you're a DOS user 
+   
+   They contain the *SAME* files. So you don't need both of them. 
+   
+   If you just want the updated quotes, you can get them from: 
+       ftp.reed.edu:/users/horde/quote 
+   The updated files are be there in various formats for you to
+   download. Get the one that is appropriate for you.
+     _________________________________________________________________ 
+   
+How do I unpack the program?
+
+   To extract the files from the TAR file, type the following: 
+          tar -xvf B5quotes.tar 
+          
+   For more information on tar, see your man pages. 
+          
+   To extract the files from the ZIP file, type the following: 
+          unzip b5quote.zip
+
+     _________________________________________________________________ 
+   
+What are all these other files?
+
+   Version 2.2 contains several other files: 
+     * General Files 
+          + HISTORY: the version history of the B5 quote generator 
+          + README: a little info for you to help you get set up. 
+          + list-b5.cnf: the configuration file needed by quote ,quotesh,
+            or quote.exe 
+          + quot-b5.0: (uncompressed) quotes from the TV movie 
+          + quot-b5.1: (uncompressed) quotes from the 1st season 
+          + quot-b5.2: (uncompressed) quotes from the 2nd season 
+     * For Unix Users 
+          + quotesh: the shell executable for a quote files. 
+          + Makefile and quote.c: C source code for an alternate way to
+            generate the random quotes. This runs much faster than
+            quotesh. 
+     * For DOS Users 
+          + quote.exe: The quote executable 
+          + b5.bat: A batchfile to run quote.exe with the B5 quotes 
+            
+   Depending which program you decide to use, you'll have you make some
+   changes to quotesh, quote.c, or b5.bat to make them run properly on
+   your machine. This is covered in the README file.  
+     _________________________________________________________________ 
+   
+Why this strange program?
+
+   The template for the quote generator is based on an old Star Trek: The
+   Next Generation quote generator I wrote several years ago. Over the
+   years I've played with various formats for the quote files, trying to
+   figure out the best way to get what I wanted done. What you see in
+   this program is the result of all that. 
+   
+   The new format I'm using for the quotes files should make it easy to
+   port them into the standard Unix fortune program. Why not just use the
+   standard fortune program? Because when I release updates, I want
+   people to be able to just drop the new files in and not worry about
+   rehashing a database like you do with the standard fortune
+   distribution.  
+     _________________________________________________________________ 
+   
+Release Schedule
+
+   v 1.0, March 1994 
+          First release by zecca@starfury.cgd.ucar.edu 
+          Added quotes from TV movie "The Gathering" 
+          Added quotes from first season episodes "Midnight on the Firing
+          Line" through "And the Sky Full of Stars" 
+          
+   v 1.1, June 1994 
+          Added quotes from first season episodes "Deathwalker" through
+          "TKO" 
+          
+   v 1.2, December 1994 
+          Added quotes from first season episodes "Grail" through "The
+          Quality of Mercy" 
+          
+   v 1.99, December 1994 
+          Taken over by horde@reed.edu 
+          Added quotes from first season episode "Chrysalis" 
+          Added quotes from second season episodes "Points of Departure"
+          through "Soul Mates" 
+          
+   v 2.0, January 1995 
+          Cleanup and actual release of version 1.99 
+          
+   v 2.1, March 1995 
+          Add quotes from second season episodes "A Race Through Dark
+          Places" through "Hunter, Prey" 
+          Starting this version there will be 2 distributions. One for
+          Unix platforms (.tar) and one for DOS platforms (.zip). The
+          distributions contain the same files, it's just that not all
+          DOS users have tar and not all Unix users have zip. 
+          
+   v 2.2, July 1995 
+          Add quotes from second season episodes "There All The Honor
+          Lies" through "Confessions and Lamentations" 
+          
+    
+     _________________________________________________________________ 
+   
+What about my Macintosh or DOS box?
+
+   It's been a while since I did any programming on a Mac, but if I get a
+   chance I might do a port...but then, I might not. 
+   
+   Starting with release 2.0, there is a DOS executable which will read
+   the same quote files as the Unix version.  
+     _________________________________________________________________ 
+   
+Possible Problems
+
+   Problems? What Problems? 

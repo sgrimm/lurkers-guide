@@ -1,0 +1,24 @@
+[Imagine is a raytracing program for the Amiga.]
+
+This upload should contain six files including this readme:
+
+   B5Objects.readme
+   B5Objects.lha
+   SoulHunter.jpeg
+   Starfury.jpeg
+   Tyranid.jpeg
+   Vorlon.jpeg
+
+The B5Objects.lha archive contains four Imagine objects of different
+Babylon 5 ships whilst the four .jpeg files are quick and simple
+renders of the objects. Please note: because I don't have the Essence
+textures for Imagine the Tyranid and Vorlon .jpegs had to be rendered
+without the textures the original author gave them. FYI I used the
+standard Imagine `camo' and `disturbed' textures for the Vorlon ship
+and an ILBM texture called DiagonalChrome.16 (which I got from Aminet
+in a collection called ZipDrops.lha) and `disturbed' for the Tyranid.
+
+As far as can be ascertained all the objects are in the Public Domain.
+I bought them from Epic Marketing, a PD company based in Swindon, UK.
+
+- Si (austins@sol1.uel.ac.uk)

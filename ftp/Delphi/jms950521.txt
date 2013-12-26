@@ -1,0 +1,940 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+       Official Transcript of a formal real-time Conference with
+        J. Michael Straczynski, held Sunday, May 21st, 1995, in
+                DELPHI's Science Fiction & Fantasy SIG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.Gordie>  
+   Good evening, everyone, and welcome to DELPHI's Science Fiction & 
+   Fantasy SIG.  For the last few months, we've been having special 
+   Conferences with authors, giving them an opportunity to share a 
+   little insight into how they work, and where they might be going.  
+   Tonight, while seemingly unlike our last few Conferences, we 
+   actually have a rather similar situation.  Joe Straczynski is a 
+   writer and not just of individual television episodes, although he 
+   most certainly does that, too.  He has written a couple of novels 
+   as well, and as soon as he finishes with some, ah, other commitments, 
+   I suspect he will write others.  But what sets Joe apart from the 
+   rest of the crowd is a vision he has.  A vision to create a whole 
+   new form of storytelling.  The vision we have all come to know 
+   as Babylon 5.  I hope Joe will share some of his vision with us 
+   tonight, both for that literary form in general, and for the 
+   television gem, Babylon 5, specifically.
+
+   <Guidelines for online behavior snipped.>
+
+   With that out of the way, I'll open the floor to Joe for any opening 
+   comments he might like to make.  Joe?
+
+STRACZYNSKI> 
+   Many folks have noticed that I'm on a LOT of systems, and have 
+   wondered if it's really me making all these replies.  I wish to 
+   state categorically that it IS me writing all those messages, but 
+   since there is a limit on time, obviously this is not actually me 
+   in this conference, but rather someone that I have hired to pretend 
+   to be me while I'm off pretending to be Rondo Hatton, standing on 
+   the ledge of a large building, and I'll jump, I swear, I'll jump.
+
+   Go ahead.  Ask questions.  See if I care.  (Boy, is that a long 
+   drop.)  ga
+
+ALLBELL> 
+   Do you ever lurk in newsgroups for other shows? Do you find your 
+   reactions differ when you're in the groups for the other shows? ga
+
+STRACZYNSKI> 
+   No, in general, I don't much lurk in other groups for other shows; 
+   I have a hard enough time keeping up with all the B5 groups.  
+   Though I do from time to time lurk on other B5 groups, so that I 
+   can see what folks are saying when they don't think I'm around, 
+   because I'm concerned that my presence sometimes may influence a 
+   group.  Unvarnished opinion is a sobering but educational thing.  ga
+
+ALLBELL> 
+   Have you gotten any ideas about universe building from the flamewars, 
+   etc. that go on on the Internet?
+
+STRACZYNSKI> 
+   Negative.  The only thing that flamewars do is to give me the chance 
+   to try out new Ivanova lines (or lines that BECOME Ivanova lines) 
+   about one's genetic ancestry, cerebral capacity, and other 
+   wonderfulnesses.  ga
+
+.Lemming> 
+   What became of the unmade season 1 Gerrold scripts?  Will they be 
+   made?  Will there be more Gerrold scripts?  Thanks, GA
+
+STRACZYNSKI> 
+   There are no unproduced Gerrold scripts.  There were, as I recall, 
+   two outlines that never got to script, but no scripts per se; one of 
+   those outlines will be coming out as a two-parter in the B5 comic, 
+   so nothing goes to waste. ga
+
+.Lemming> 
+   This is not really unrelated, but bothering me, in _Knives_, Londo 
+   went one way, his sword the other, then it's back in his hand.  Is 
+   this a production glitch or did a shadow push it over?  Thanks, keep 
+   up the great work! GA
+
+STRACZYNSKI> 
+   I think that's a camera thing; we shot that in master and close 
+   during that sequence, and the thing landed where it was supposed to; 
+   Londo grabbed forward for it, but I think in the close shot we used, 
+   you can't really see how far he's had to reach forward, which may 
+   account for the discrepency. ga
+
+.Elric> 
+   I have a two part question. 1, It seems that the FOX affiliate in this 
+   area has pushed the B5 episodes back to the wee hours of the morning 
+   instead of the 10:00 slot it once had. Is the B5 series in danger of 
+   being dropped (God forbid) ?!?!? And secondly, in an episode several 
+   weeks ago, they opened the novelty shops and I noticed some models of 
+   the B5 station and of a Starfury. Can fans order these things? If not 
+   will they ever be available? ga
+
+STRACZYNSKI> 
+   Stations have the option of airing the show pretty much whenever 
+   they so desire; sometimes they shift it good, sometimes they shift 
+   it bad.  It has no real impact on our chances, except in the 
+   cumulative ratings, if enough put us in crummy slots...  
+   As for the toys used, they were just made up for that episode, and 
+   don't exist in reality, nor are they for sale anywhere though you 
+   can take a pretty good guess where the Londo and G'Kar dolls ended 
+   up, and where the station model will end up after the series is 
+   finished.  ga  (Daffy duck voice: MINE, MINE, MINE!)
+
+.Gumby> 
+   Any truth to the rumour that Sheridan is history and that Sinclair 
+   is back as Station Commander in the 3rd season? ga
+
+STRACZYNSKI> 
+   The rumor is not true. ga
+
+.Gumby> 
+   As well, how much input do you have in the novels and comics (which 
+   are both great, by the way)... ga
+
+STRACZYNSKI> 
+   Total and complete.  I review both in detail in outline and in 
+   draft form, I approve the script/pencils/inks in the comic, suggest 
+   stories, and I'm writing a 4-issue arc.  The 3rd novel was a bit 
+   off-kilter (no fault of John's), and I sent it back for considerable 
+   revisions, which put it back a month, but I'd rather have it right 
+   than fast. ga
+
+.Gumby> 
+   Right on !!
+
+.Gordie> 
+   Are there any plans to do some kind of multimedia product?
+
+STRACZYNSKI> 
+   Yes, a CD rom is in the works, but not for a while yet.  I'm less 
+   interested in ancillary marketing, merchandising, and all that 
+   than just Telling The Story.  I've seen merchandising get in the 
+   way too often.  ga
+
+.John> 
+   Will Commander (ambassador) Sinclair and his organization play a larger 
+   part in the upcoming season or is he bowing out of the show? ga
+
+STRACZYNSKI> 
+   All I can say for now is that we will see a lot more of the Rangers 
+   in the coming season (assuming we're renewed).  As for the rest, I'd 
+   rather hold back just now. ga
+
+.CompuJohn> 
+   Are the rumors true that the last 4 episodes of season 2 won't be 
+   shown in the US until October ?
+
+STRACZYNSKI> 
+   Yes, they are correct.  Ain't my decision.  The Powers That Be 
+   figure that if they hold off the last 4, they can use them to lead 
+   up to the start of the (hopefully) new season in November, and get 
+   us off to a good start.  They say that HUTS (Households Using TV) 
+   figures are very low for June, July and August, since everybody's out. 
+   In September, you're right up against the new blockbuster network 
+   shows, and their PR machine, so that leaves October.  My opinion...  
+   ...is my opinion.  ga   (I can chew glass too when required.)
+
+.CompuJohn> 
+   B5 has just the right amount of humor sprinkled in... Is the wall 
+   hanging of Daffy Duck in Garibaldi's room available in stores? GA
+
+STRACZYNSKI> 
+   Yeah, I think it's a commercial print, so it probably is.  ga
+   (It may be on velvet.)
+
+.Neil> 
+   Hi Joe.  Dunno if you remember me, but I was six inches and 90 
+   degrees to your left at the I-Con banquet last year.  I've heard a 
+   rumor that you're considering compressing the series should a year 
+   four not look to be in the cards.  Total BS?  Or is it still a total 
+   fight for survival on your end?
+
+STRACZYNSKI> 
+   I'm not sure it CAN be condensed, and certainly I have no current 
+   plans in that area.  But it's always a fight to get this thing done 
+   right, and to see it through to the end.  But if it was easy, 
+   everybody'd be doing it.  ga
+
+.Neil> 
+   Yeah, the offer I made before to send a screener of that film I 
+   translated still stands.  Interested at all?
+
+STRACZYNSKI> 
+   Would you like to see the stack of tapes on my desk that I haven't 
+   looked at yet?  I appreciate the offer, but....
+
+.Neil> 
+   Gotcha...  Maybe some year...
+
+STRACZYNSKI> 
+   ...my time is zilch; the only films I've seen in the last 9 months 
+   have been on airlines.  24 hours a day, B5 is my life. ga
+
+.Colin> 
+   There are many subtle (and not so subtle) references to classic SF. To 
+   what extent have you been influenced by EE Doc Smith's Lensman series? 
+   (Humans bail out the galaxy.) (Or for that matter, Heinlein, Clarke, 
+   movies, etc...)  ga
+
+STRACZYNSKI> 
+   I've been influenced in a generic sense, rather than in any 
+   particulars; I grew up on the big sagas of SF and fantasy literature 
+   and I'd always wondered why nobody ever did something on that scale 
+   for TV, and the answer is, "Because nobody's done it." ....
+   So I figured, may as well be me.  As for specifics, I grew up on 
+   all the main writers of the genre... Heinlein, Clarke, Bradbury, 
+   Ellison, Matheson, Asimov, you name it...plus my models in many other 
+   ways were writers like Norman Corwin, Rod Serling, Paddy Chayefsky, 
+   Reginald Rose and others who loved language and weren't afraid to 
+   have someone talking for more than 2 lines at a time. ga
+
+.Colin> 
+   Thanks. Just wanted to say that I really look forward to each episode, 
+   and enjoy everything except the size (or rather lack thereof) of the 
+   comic. Any plans to expand it? ga
+
+STRACZYNSKI> 
+   No, all DC comics are the same length, 24 pages.  That's immobile. ga
+
+.NumberSix> 
+   This follows nicely upon Colin's question.  The references to 
+   _The_Prisoner_ in B5 are fairly clear, and I've started some 
+   discussions here and elsewhere as to whether there is an equivalent 
+   to No. 6 in B5.  Any comments? ga
+
+STRACZYNSKI> 
+   First, there is a difference between a nod and a one-to-one 
+   reference or template; if you look for ANY character in B5 to echo 
+   somebody else in another story or series, you won't find it; I didn't 
+   work 5 years to sell this thing just to do the Prisoner or Lord of 
+   the Rings with the serial numbers filed off; this is a unique and 
+   independent story; I nod out of respect, not to leave a knive where I 
+   have extracted something.  Second: the REAL number six would NEVER 
+   identify himself as such... so I conclude that you are an IMPOSTER!  
+   Delphi police, arrest this man! ga
+
+ALLBELL> 
+   He is not a free man. He is a number.
+
+.NumberOne> 
+   Thanks!  And yes, there is much more to B5 than a Prisoner clone.
+
+STRACZYNSKI> 
+   (The B5 CD soundtrack is playing as I type this.  Buy it.  It's 
+   great.)
+
+.Rich_L> 
+   Was it your intention to make the Shadows insectile to generate a fear 
+   reflex in the viewers, or did it just end up that way? GA
+
+STRACZYNSKI> 
+   Certainly when I thunk them up, I wanted them to scare the bejeezus 
+   out of people when they appeared; we went through several different 
+   design elements, and that was the one that creeped me out the most, 
+   and thus we went with that one...  I'm not sure I said, going in, 
+   "I want big honking bugs," but what we got, I like, and when you look 
+   real close they're not quite as insectlike as they may appear.  Very 
+   alien looking.  ga
+
+.Rich_L> 
+   It scared my wife enough to give her nightmares for a week... Any 
+   chance we will see more of the enigmatic aliens that Sinclair's 
+   fiance encountered that one episode? I liked them a lot.
+
+STRACZYNSKI> 
+   Hurm.........no comment.  ga
+
+GRAGEM> 
+   Do you know when the pilot will be released or rebroadcast?
+
+STRACZYNSKI> 
+   My hope is that it'll be soonish, summer or fall, but I don't know 
+   that for a fact.  ga
+
+.Rob> 
+   Artifical intelligence is already under development in today's time.  
+   Will we learn that sophisticated, human-level artificial intelligence 
+   has been been perfected by B5's time and is in commercial and/or 
+   govermental use?  As an aside, I *want* a Sheridan Bear (I assume you 
+   can be bribed?:)
+
+STRACZYNSKI> 
+   I can't be bribed, but I can be rented...
+
+.Gumby> 
+   <lol> :)
+
+STRACZYNSKI> 
+   I've kind of set aside a lot of the AI stuff, on the grounds that 
+   it kinda gets in the way, and once all the fooforah is done with, I 
+   suspect that people will want their computer systems to be seen and 
+   not heard, and reasonably obedient.  Certainly the B5 system is very 
+   intuitive, but not AI in the sense that we've come to expect it might 
+   be.  I dunno...every time I think about trying it, I see Twikki, and 
+   I fall down.  "Open the pod bay doors, Hal."  Ehhh...I just dunno. ga
+
+.Rob> 
+   ::chuckle::  What's up with Keffer?  Will he back?  Will he stick 
+   around?  Will he play a more involved role in the story?
+
+STRACZYNSKI> 
+   The last four episodes of this season show Keffer a lot more.  (We 
+   build a little of that in the next ep) ga
+
+DEBGREEN> 
+   How do feel about using things routinely today, that were SF 50 years 
+   ago?
+
+STRACZYNSKI> 
+   I suppose on one level, it's amazing, as you say, but at the same 
+   time, what was incredible 100 years ago was perfectly real 50 years 
+   ago, it's part of human social and scientific evolution.  I think if 
+   we weren't constantly amazed, we'd be dead, but on one level, I think 
+   we kind of take it for granted after a while.  (I used to own a Kaypro 
+   II with 64K and a 180K floppy, and now I have 2 gig, a 17" monitor, 
+   with amazing facilities and 64MEGS ram and it ain't enough yet.  We 
+   are engaged in the parade of humanity toward the future, and imagining 
+   it is fascinating for what is, and what isn't done...  
+   "Just Imagine," a B&W SF MUSICAL in the 1930s showed life in the 1980s, 
+   50 years hence, with private aircars, pills instead of food, people 
+   with numbers instead of names, and little/none of it's true.  It's 
+   scattergun.  We live in the future; it's ALL amazing.  ga
+
+DEBGREEN> 
+   When do you expect to find out about next season's pick-up/cancellation?
+
+STRACZYNSKI> 
+   We keep hoping on an almost daily basis to get the word; the folks 
+   who make the decision will be back in town come Monday, so with luck 
+   we'll hear something this week.  ga
+
+SLOMICHAEL> 
+   If KOSH is one of the few remaining old ones, and the Vorlons helped 
+   fight with the old ones a 1000 years ago, does this mean he is not 
+   a Vorlon or there is only one Vorlon-him?  Also I believe that the 
+   Minbari on the planet below Babylon 5 will be seen again in the fifth 
+   season. ga
+
+STRACZYNSKI> 
+   Kosh is a Vorlon.  The Vorlons fought the Shadows.  There are many 
+   Vorlons, back home.  (The Writer committed an error in that he used 
+   too many pronouns in that segment of dialogue.)  And we'll see Draal 
+   again *this* season.  ga
+
+.Lor> 
+   Will we see the original doctor (from the pilot) again or hear more 
+   about what happened to him?
+
+STRACZYNSKI> 
+   See?  No, no plans for now.  Hear about?  Yes.  ga
+
+.Lor> 
+   This season? Or later? GA
+
+STRACZYNSKI> 
+   Sorta/kinda both. ga
+
+.Lor> 
+   Thanks! GA
+
+CEKELLEY> 
+   With the war started, and only two seasons down with three to go 
+   how much/how often can we expect to see space and or GroPo combat 
+   scenes? ga
+
+STRACZYNSKI> 
+   Not that much gropo stuff, but you're going to be seeing a LOT more 
+   space combat stuff, particularly later this season.  There's some 
+   amazing stuff coming, including probably the single biggest engagement 
+   we've shown yet.  Something on the order of a dozen fleet-sized capital 
+   ships, plus a couple hundred fighters wizzing around, new and unusual 
+   weapons, and some long-range tactical strategy, rather than everything 
+   at close range (several thousand klicks apart). Nifty stuff.  ga
+
+.Gumby> 
+   Cool !
+
+PATGIBBS> 
+   What are the prospects for a successful letter writing campaign to 
+   reverse the PTN decision to delay broadcast of the last 4 Season 2 
+   episodes from June to October?  ga
+
+STRACZYNSKI> 
+   If I were to comment on this, or suggest anything, it could be 
+   problematic in my relationship with PTEN.  Verstehen Sie?  ga
+
+PATGIBBS> 
+   Does PTEN know and or care about the success of B5 on the net? GA
+
+STRACZYNSKI> 
+   Stark cold reality: if you added up every single person on the nets 
+   who watches B5, it wouldn't be .0001 in the ratings and that's all 
+   they care about.  I'm here out of respect for the fans, as part of an 
+   experiment, to get a sense of the room and to learn more about my 
+   characters by answering questions; I don't think the networks really 
+   understand/care about the nets sui generis. ga
+
+.Clint> 
+   Can you give us a hint about why Mars is important?  Is there a link 
+   to the Shadows? ga
+
+STRACZYNSKI> 
+   Possible.  Look for the conclusion of, and the current story arc 
+   in, the comic as now being published.  GA
+
+.High Res> 
+   In comic #1, Rathenn tells Sinclair that the soul migration has been 
+   going on for nearly six thousand years.  In "Points of Departure," 
+   Lennier tells Sheridan that it's been going on for a much shorter time 
+   period--one or two thousand years, I forget which.  Would you be 
+   willing to comment on the discrepancy between the two time periods? ga
+
+STRACZYNSKI> 
+   Rathenn spoke incorrectly.  ga
+
+.High Res> 
+   In book #2, Accusations, why does G'Kar appear on the cover and not 
+   in the book? And, on page 252, there's a brief reference to Sinclair. 
+   Was that a typo? That's all. ga
+
+STRACZYNSKI> 
+   The covers were done in advance of the books being written; I'm not 
+   thrilled about this, because it can be as misleading as our promos 
+   tend to be.  This will, one hopes, be amended in future.  ga
+
+.High Res> 
+   And the reference to Sinclair? ga
+
+STRACZYNSKI> 
+   Which reference?
+
+.High Res> 
+   Right after the Joint Chiefs of Staff schedule a review for Ivanova,
+   and it cuts to action with the Asimov docking on the station. The next 
+   sentence starts out "Sinclair" and then switches to Sheridan. ga
+
+STRACZYNSKI> 
+   Typo.  Not My Fault.  ga
+
+.phil athans> 
+   Is there any opportunity for freelance writers like me to write 
+   for B5?  And if so, how does one start that process? ga
+
+STRACZYNSKI> 
+   In the past, I've always tried to stay open to newbies, and the 
+   like, but in this case, bear in mind that we're not looking for 
+   outside stories.  We've GOT all the stories.  I don't take pitches, 
+   I assign stories out of my outline to writers, usually writers I've 
+   worked with before, or who come with sterling credentials.  So, alas, 
+   we're kinda closed. ga
+
+.phil athans> 
+   Oh well... Have you thought about a role-playing game based on B5? ga
+
+STRACZYNSKI> 
+   Would love one.  Nobody's approached us formally yet. ga
+
+.phil athans> 
+   I'd be willing to try. ga
+
+52RANGER> 
+   A steely eye just opened at Wizards of the Coast ;)
+
+STRACZYNSKI> 
+   You have to have your company, or A company, approach WB and 
+   formally license the thing. ga
+
+.Gordie> 
+   Let me sneak one in here...  How do you decide how much of the greater 
+   arc to reveal each week?  The balance between saying too much and not 
+   saying enough has to be tricky.
+
+STRACZYNSKI> 
+   Mainly, you just have to feel your way through on instinct and 
+   planning.  For instance, in planning for the (hopefully) third year, 
+   I pulled out my notes, and 22 index cards.  Went through my series 
+   outline, and picked the eventsI needed at the start of 2260, and the 
+   end; then pulled out all the other incidents that had to happen in 
+   that year, and began assigning one-two to each card, putting the cards 
+   in order so I could see the whole season at a glance if an item seems 
+   light, I may pair it up with another incident, or if it's too arc-heavy, 
+   pull it out and pair it up with a lighter episode.  It's all very 
+   subjective.  ga
+
+.Gordie> 
+   So the pacing really got locked in when you came up with the whole arc.
+
+STRACZYNSKI> 
+   Mostly.  There's some room to maneuver in there, so I can slide stuff 
+   around to make things interesting, and keep the arc fresh but in 
+   general, yeah, it's set.  It's a novel, with outline.  You always veer 
+   a bit once you hit the book/script, but for the most part, it's set. ga
+
+.Brendan> 
+   I've missed several crucial episodes both this season and last. Are 
+   there any plans to release old eps into syndication or on video once 
+   the series' run is complete? ga
+
+STRACZYNSKI> 
+   This season will be rerun to within an inch of its life.  First 
+   season will not, on the theory that folks'll get confused by seeing 
+   a new CO, though I understand that the tapes for year one will be 
+   out later this summer.  ga
+
+.Gordie> 
+   Your theory, or Someone Else's?  <g>
+
+STRACZYNSKI> 
+   Not mine, jack. ga
+
+.Brendan> 
+   One more quick yes-no question: Was Sinclair's departure planned from
+   the start?
+
+STRACZYNSKI> 
+   That's a much harder question to answer than you know; but I'll try 
+   to surround it a bit; this may take a while...  I always knew, going 
+   in, that I was going to have a hard time folding all of this baggage 
+   into Sinclair's duffel; survivor of the line, head of B5, missing 24 
+   hours, Minbari soul, AND with a connection to the shadows?  It 
+   stretched credulity to a tremendous extent.  I figured, once I got 
+   into the writing, it would work itself out.  It did so by saying, 
+   "Y'know, it'd be a better solution to bring in a new character, and 
+   move Sinclair off the chessboard.  It'd let you focus more on Minbar, 
+   bring in the Rangers more smoothly, have someone to bounce new info 
+   off of for newbies to the show, tie in the Shadows, and allow more 
+   conflict and an escalation of the arc."  So I looked at that, and saw 
+   that it fillled the areas of the outline that sagged a bit.  Remember, 
+   nothing to me is sacred but the telling of the whole story.  Nothing 
+   gets in the way of that, including any personal relationships I may 
+   have with cast, writers, crew, anybody.  So I went to Michael, and 
+   said, "If we do this, I can do a lot more things than I can do now."  
+   He liked the idea and there were some things he wanted to do, so we 
+   parted company amicably, with the notion that down the road, we might 
+   intersect again for some elements of the story.  So parts of the 
+   parting were *indicated* or prefaced by the story going in, but I 
+   didn't know the *shape* of that resolution until I got there.  ga
+
+.Brendan> 
+   OK, thanks! ga
+
+.Scott> 
+   Any plans for a map of the galaxy, where the homeworlds are in relation 
+   to each other and such?
+
+STRACZYNSKI> 
+   We have one, kinda, in the office, for our use, but no plans for a 
+   general map.  ga
+
+.Scott> 
+   Loved the baseball in "knives"...is football far behind?  Thanks for a 
+   great show. ga
+
+.Matt> 
+   When will we learn what the Third Age of Mankind is? ga
+
+STRACZYNSKI> 
+   Eventually.  ga
+
+.Matt> 
+   Hehehe..Well, that's definitely non-specific :)   We've heard rumors 
+   that there will be new actors for season 3 - Is that true?  If so, 
+   can you give us names?
+
+STRACZYNSKI> 
+   Yes, and no names.
+
+.Matt> 
+   Ok, thanks...All of us at StMOO (telnet moo.ravenet.com 1701) would 
+   also like to say thanks :)
+
+.Karen> 
+   I appreciate that B5 mentions God routinely...but Why?
+
+STRACZYNSKI> 
+   Karen...why not?  (Stand by, folks, looking for her reply.) ga
+
+.Karen> 
+   No, no, I really glad. Your characters have more depth.. and you've put 
+   a Jew in space!
+
+STRACZYNSKI> 
+   Okay, background here...  I'm an atheist.  My attitude is that we must 
+   respect those who wish to believe, and those who choose not to, in 
+   equal terms.  Consequently, I must properly respect the notion that 
+   in 250 years, religion will still be here and people will still be 
+   wrestling with it in many ways...  Bear in mind that, in early history, 
+   science and religion emerged as ways of trying to understand the 
+   universe around us, using very different methods - faith vs. the 
+   scientific method - but the desire and the intent are twin impulses so 
+   why not give respect to the idea that some believe?  Hence, I 
+   don't keep religion out of my show.  It seems to me that it's the only 
+   way to go if I am to be HONEST in how I portray the future, and my 
+   characters.  And the first obligation of a writer is to be honest in 
+   his writing.  ga
+
+.Karen> 
+   Well an atheist who can include an ex-Jessuit and a Jew can't be all 
+   bad!
+
+STRACZYNSKI> 
+   Absolutely.  I'm just a wonderful human being and a force for good in 
+   my time.  Also a snappy dresser.  ga
+
+.Brendan> 
+   LOL
+
+.Rich_L> 
+   rotflmao
+
+.Robert> 
+   (geez, it's Bill Shatner)
+
+.Gumby> 
+   <LOL> :)
+
+.John_Drake> 
+   Sorry to keep switching names & numbers, but it's hard to find oneself 
+   in v-space...  Since Ellison is 'conceptual consultant,' do you know 
+   if he's still as adamant about the terms 'speculative fiction' as 
+   opposed to 'sci-fi' as ever?  BTW, thanks for providing hours of work 
+   tracking down the multitudes of literary, historical, and cultural 
+   references.  ga
+
+STRACZYNSKI> 
+   That's m'job.  As for Harlan, yeah, he hates Sci-Fi; says it's the 
+   sound of crickets screwing.  ga
+
+.Brendan> 
+   LOL again
+
+.Gumby> 
+   Definitely ROFL !!
+
+.Rich_L> 
+   snorts of disgust.
+
+.John_Drake> 
+   Quick followup; any comment on Inonova's possible telepathy?
+
+.Brendan> 
+   Oh don't be such a stick in the mud Rich :)
+
+STRACZYNSKI> 
+   Who said she had telepathy?  I never said this.  How could I 
+   comment on something I've never said?  Such a strange question.  ga
+
+.John_Drake> 
+   My wife said she does :)
+
+STRACZYNSKI> 
+   I should believe somebody who married YOU?
+
+WARGAMERDAVE> 
+   Thanks, have any any TV and/or movie stars asked to be on the show?
+
+STRACZYNSKI> 
+   From time to time, yes.  We've had folks come to us, but I'm not 
+   sure if it would be correct for me to say who.  ga
+
+WARGAMERDAVE> 
+   If for some reason there is no season 3 would you consider doing 
+   some theatical movies to tie up the show?
+
+STRACZYNSKI> 
+   I can't even consider that possibility. The only way this show has 
+   been made is as an act of sheer will.  I decided that it would have a 
+   pilot, that we'd get the series order, and we'd go the full run; if I 
+   allow myself the slightest doubt on that, it'll never happen.  ga
+
+WARGAMERDAVE> 
+   Thank You..
+
+C_HAMER> 
+   Is there an earth based outlet for the JS bears? (and B5 soundtrack 
+   CD), or do I have to scrape one off the nose of a starfury? GA
+
+STRACZYNSKI> 
+   No bear boutiques.  Soundtrack CD is available at any record store 
+   now, from Sonic Images.  (The end credits on the show now list the 
+   ID # for the soundtrack.) ga
+
+C_HAMER> 
+   Followup: What is the count of Amigas in the rendering farm?
+
+STRACZYNSKI> 
+   14,287.   How the hells hould I know, they tell me it's faerie dust, 
+   and I believe them.  (I think it's actually 10.)
+
+.Brendan> 
+   (nearly spewed my coffee there...)
+
+.Gordie> 
+   Matthew, I missed you earlier.  You're the host of the B5 Custom Forum, 
+   invite the nice folks over, and ask your question.
+
+.Matthew> 
+   Ok.. thanks.. :)  The CF is 118, btw.  And my question is when, if at 
+   all, will Zathras be making a return appearance?
+
+STRACZYNSKI> 
+   Eventually, yes.  What should I do when I get there?  (Can't stay 
+   long, either, btw.)  Even though we don't have an order yet for 
+   year three, I have to get X-number of scripts ready regardless. ga
+
+.Matthew> 
+   Well, I was going to show you around the forum, if you have the time.
+
+STRACZYNSKI> 
+   Oh....s'okay, I stopped by yesterday and ran around the place 
+   naked.  (You should get a heater in there.)  ga
+
+.Matthew> 
+   hehe..
+
+STRACZYNSKI> 
+   Check your logons and you'll see my tracks.  (Alas, nobody noticed, 
+   except one user who pointed and said, "MY husband has one just like 
+   that, but bigger.)
+
+.Brendan> 
+   ROFLMAO
+
+.Robert> 
+   Ouch, hot tea out the nose!
+
+.Elric> 
+   I must say that your team along with Ron Thortons team is a perfect 
+   match! Do those guys have time for any other projects?  And thanks 
+   for a GREAT SHOW!
+
+STRACZYNSKI> 
+   I've developed several other projects, which are in various stages 
+   with variuos studios, but haven't pushed too hard since B5 remains 
+   my first priority, and I wouldn't be running those shows as a result 
+   the same way I run b5.  ga
+
+GRAGEM> 
+   Will Sinclair make another appearance before the end of this season?
+
+STRACZYNSKI> 
+   Not this season, no.  But as I peek over at my outline, I see a 
+   possible two-parter... ga
+
+52RANGER> 
+   Opening a jumpgate back to reality...2 quick thankyous JMS...One for 
+   B5...One for your WD Book & column work...Keeps me from straying too 
+   far :)
+
+STRACZYNSKI> 
+   Thanks.
+
+.Gumby> 
+   Is Babylon 5 going to released on laser disc any time soon?  This show 
+   BEGS to be seen on laser disc !!
+
+STRACZYNSKI> 
+   Eventually, yes; but to do so, we would have to re-telecine all of 
+   the footage back to its original aspect ratio, then reassemble it all.  
+   Which we've discussed, and I've volunteered (at great personal 
+   sacrifice) to screen the first set of disks for QC when this happens.  
+   But because of the massive work involved, it won't be for a bit 
+   yet.  ga
+
+.Gumby> 
+   Rats !!
+
+STRACZYNSKI> 
+   Mice
+
+.Gumby> 
+   <LOL> :)
+
+STRACZYNSKI> 
+   Okay, let's see...  How about the narration for year three?  Though 
+   I doubt anybody'd be interested in that... Nah, never mind.
+
+.Gordie> 
+   Vir?
+
+C_HAMER> 
+   please.. go ahead
+
+.Robert> 
+   Daffy Duck?
+
+STRACZYNSKI> 
+   You sure?
+
+.Brendan> 
+   YES!
+
+C_HAMER> 
+   Yes...Kosh perhaps?
+
+.Colin> 
+   Yes, please!
+
+STRACZYNSKI> 
+   Wouldn't want to be a bother.  (Not who, but what's said.)
+
+.Gordie> 
+   Bother away!
+
+STRACZYNSKI> 
+   Okay, here t'is.
+
+STRACZYNSKI> 
+   "The Babylon Project was our last, best hope for peace.  It failed.
+   But in the year of the shadow war, it became something greater: our 
+   last, best hope...for victory. The year is 2260. The place: Babylon 5."
+
+.Scott> 
+   cool
+
+.Rich_L> 
+   Oh, damn...
+
+ALLBELL> 
+   Victory is not a greater thing than peace.
+
+STRACZYNSKI> 
+   Depends on the war.
+
+.Colin> 
+   Definite Coolness!
+
+ASCHMUECKER> 
+   wow!
+
+GRAGEM> 
+   whoa..
+
+.Brendan> 
+   You'd think these characters would notice sooner or later that 
+   something earth shattering happens every January.. :)
+
+.Gumby> 
+   Tres Cool !!
+
+.Karen> 
+   YES!
+
+C_HAMER> 
+   Please tell me Lando is going to read it again.
+
+STRACZYNSKI> 
+   You'll get a hint in the last ep to who reads it.
+
+.Gordie> 
+   _Our_ last, best hope...  Ivanova'd be my guess.
+
+.Karen> 
+   YES, please
+
+WARGAMERDAVE> 
+   gotta be her
+
+STRACZYNSKI> 
+   Could be.
+
+.Gumby> 
+   Damn straight !!
+
+C_HAMER> 
+   Which won't be till October. :(
+
+.Gordie> 
+   Could be Keffer, too...
+
+.Brendan> 
+   In which ep did the war break out?
+
+STRACZYNSKI> 
+   One sorta slides into the other.  As wars do.
+
+STRACZYNSKI> 
+   Oh, HR, yours is the last question.  No pressure.  All these folks 
+   waiting to see what YOU'RE going to ask.
+
+.High Res> 
+   How do you define atheism?
+
+STRACZYNSKI>
+                             ...you call that a question?
+   All these people, who gave you their chance to ask a question, and 
+   THAT'S IT?
+
+.High Res> 
+   It fits the standard definition of a question... Yeah!
+
+STRACZYNSKI> 
+   Well, yes, gramatically, it does, subject, object, punctuation... 
+   Now you want DOCTRINE on atheism?  Hasn't the world got enough 
+   problems?
+
+.High Res> 
+   Hey, you make us go nuts _every_week_.  I thought I'd see if I could 
+   reciprocate. <g>
+
+STRACZYNSKI> 
+   I don't believe it.  (There, THAT'S your definition.)
+
+.Gumby> 
+   ROFL
+
+.Gordie> 
+   Author!  Author!
+
+STRACZYNSKI> 
+   (It's true, ANYBODY can get on Delphi.)
+
+.High Res> 
+   Very...elusive. <g>
+
+STRACZYNSKI> 
+   This is kinda like one of those moments when you go to McDonald's 
+   and the guy in the next booth is screaming about that damned Roosevelt.
+
+.Gordie> 
+   Well, I want to thank Joe for taking time to spend with us tonight.  
+   And all of you out there for joining us.
+
+.Colin> 
+   Thanks for the Conference, and most of all, thanks for the show.
+
+STRACZYNSKI> 
+   Thanks, everyone, for supporting the program.
+
+.Gordie>
+   This CO is officially over!
+==========================================================================
+     This transcript was edited to enhance clarity and correct typos.
+==========================================================================
+       For more information on upcoming guests for DELPHI's monthly
+             Author's Conference series, please send email to:
+                   Gordie Meyer <biblinski@delphi.com>
+=======

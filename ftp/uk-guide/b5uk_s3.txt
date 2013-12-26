@@ -1,0 +1,843 @@
+
+B5  B5  B5  B5  B5  B5  B5  B5  B5  B5
+B5                                  B5
+B5   Babylon 5 (UK) Episode Guide   B5
+B5        -=>  SEASON 3  <=-        B5
+B5                                  B5
+B5    Guide Date : November 1996    B5
+B5                                  B5
+B5     Compiled By : Edwin Yau      B5
+B5                                  B5
+B5  B5  B5  B5  B5  B5  B5  B5  B5  B5
+
+
+     CONTENTS (* = additions/changes)
+
+   * [1]  README
+     [2]  SEASON 3 CREDITS
+     [3]  EPISODE GUIDE
+          [3.1]  NARRATIONS
+          [3.2]  SEASON 3
+     [4]  U.K. AIR DATES & RATINGS
+     [5]  SEASON 3 UK EDITS
+     [6]  AND FINALLY...
+
+--------------------------------------------------------------------------
+
+[1]  README
+===========
+
+Welcome to the Babylon 5 (UK) episode guide!  Don't be put off by the fact
+that it has a UK bias though as most of the information (i.e. the actual
+episode guide part and list of edits) is relevant to whatever country you
+are in!
+
+This guide is actually a portion of a much larger guide which I have split
+up due to the growing size of the guide.  To download other seasons look
+for the following files:-
+
+        b5uk_s1.txt     season 1 guide
+        b5uk_s2.txt     season 2 guide
+        b5uk_s3.txt     season 3 guide
+        b5uk_s4.txt     season 4 guide
+        b5uk_s5.txt     season 5 guide
+
+This guide is Copyright (C) November 1996 by Edwin Yau.  It may be
+redistributed freely in its complete form, but may not be reproduced in
+any form whatsoever if any monies is to be made from it.  No attempt has
+been made to supersede any rights held by Warner Bros. TV, Babylonian
+Productions Inc., Channel 4 TV, TNT, PTEN or any other copyright holders.
+
+--------------------------------------------------------------------------
+
+[2]  SEASON 3 CREDITS
+=====================
+
+STARRING:
+     Bruce Boxleitner    as   Captain John Sheridan
+     Claudia Christian   as   Commander Susan Ivanova
+     Jerry Doyle         as   Security Chief Michael Garibaldi
+     Mira Furlan         as   Delenn
+     Richard Biggs       as   Dr. Stephen Franklin
+     Bill Mumy           as   Lennier
+     Jason Carter        as   Marcus Cole
+     Stephen Furst       as   Vir Cotto
+     Jeff Conaway        as   Zack Allen
+     Peter Jurasik       as   Londo Mollari
+     Andreas Katsulas    as   G'Kar
+
+CREATED BY..............: J. Michael Straczynski
+PRODUCTION DESIGNER.....: John Iacovelli
+DIRECTOR OF PHOTOGRAPHY.: John C. Flinn III
+CONCEPTUAL CONSULTANT...: Harlan Ellison
+PRODUCED BY.............: John Copeland
+EXECUTIVE PRODUCERS.....: Douglas Netter
+                          J. Michael Straczynski
+ASSOCIATE PRODUCER......: George Johnsen
+MUSIC BY................: Christopher Franke
+CASTING BY..............: Fern Champion, C.S.A.
+                          Mark Paladini, C.S.A.
+COSTUME DESIGNER........: Ann Brucie Aling
+VISUAL EFFECTS BY.......: Ron Thornton
+
+--------------------------------------------------------------------------
+
+[3]  EPISODE GUIDE
+==================
+
+-------------------------------------
+[3.1]  OPENING AND CLOSING NARRATIONS
+-------------------------------------
+
+All narrations are opening unless otherwise stated.
+
+------------------
+SEASON 3 NARRATION
+------------------
+
+     "The Babylon Project was our  last, best hope for peace.  It failed.
+     But, in the Year of the Shadow War, it became something greater: our
+     last,  best  hope  for...  victory.  The  year  is 2260.  The place:
+     Babylon 5."
+
+                                             - Commander Susan Ivanova
+
+---------------------------------
+SEASON 3 FINALE CLOSING NARRATION
+---------------------------------
+
+     "It was  the end of  the Earth  year 2260 - and the  war had  paused
+     suddenly  and  unexpectedly.  All around us  it was if  the universe
+     were holding its breath - waiting.
+
+     "All  of life  can be  broken  down  into moments  of transition, or
+     moments of revelation.  Is that the feeling of both?
+
+     "G'Quan wrote  'There is a  greater darkness than  the one we fight.
+     It is the darkness of the soul that has lost its way.'
+
+     "The war we fight  is not against  powers and  principalities, it is
+     against chaos...  and despair.  Greater than  the death  of flesh is
+     the death of hope - the death  of dreams.  Against this peril we can
+     never surrender.
+
+     The future is all around us,  waiting in moments of transition to be
+     born  in moments  of  revelation.  No one  knows the  shape of  that
+     future, or  where it will  take us.  We know  only that it is always
+     born in pain."
+
+                                             - G'Kar
+                                               "Z'ha'dum"
+
+------------------------------------
+[3.2]  SEASON 3 - POINT OF NO RETURN
+------------------------------------
+
+C01) "Matters of Honor"
+
+     Directed by: Kevin G. Cremin
+     Written by.: J. Michael Straczynski
+
+DELENN: "There are beings in the universe billions of years older than any
+        of our races.  They walked among the stars like giants, vast yet
+        timeless.  They created great empires, taught the new races,
+        explored beyond the Rim... The oldest of the Ancients are the
+        Shadows.  We have no other name for them..."
+
+Londo decides it is time to sever his relationship with Morden since the
+Narn-Centauri war has ended.  Morden and his associates agree to this...
+with certain conditions.  A Ranger arrives asking for Sheridan's help in
+stopping a blockade and introduces the crew to the White Star, a new ship
+to help them in the battle against the Shadows.  And an EarthForce
+intelligence agent arrives to conduct an inquiry on how much the crew and
+the ambassadors know about the Shadows.
+
+     Tucker Smallwood    as   David Endawi
+     Ed Wasser           as   Morden
+     Nils Allen Stewart  as   Large Man
+     Ardwight Chamberlain
+                         as   Kosh
+     Jonathan Chapman    as   Drazi Pilot
+     Kitty Swink         as   Senator
+     Andrew Walker       as   Psi Cop
+
+C02) "Convictions"
+
+     Directed by: Michael Vejar
+     Written by.: J. Michael Straczynski
+
+G'KAR: "Not many fishes left in the sea.  Not many fishes, just Londo and
+       me."
+
+As a series of bombings rock B5, Ivanova calls on some unusual monks with
+even more unusual skills to help track down the dangerous bomber who
+threatens to destroy the whole station.  Lennier, risking his life to save
+Londo from one such bombing, ends up in a coma, and soon after another
+explosion Londo finds himself trapped inside a transport tube with his
+nemesis, G'Kar, with their oxygen supply dwindling, much to G'Kar's
+delight!
+
+     Patrick Kilpatrick  as   Robert Carlson
+     Louis Turenne       as   Brother Theo
+     Cary-Hiroyuki Tagawa
+                         as   Morishi
+     John Flinn          as   Obnoxious Man
+     Rick Johnson        as   Security Guard #1
+     Jason Larimore      as   Lurker
+     Gwen McGee          as   Med Tech
+     Mike McKenzie       as   Drazi #1
+     Tom Simmons         as   Security Guard #2
+
+C03) "A Day in the Strife"
+
+     Directed by: David J. Eagle
+     Written by.: J. Michael Straczynski
+
+LONDO: "Over the last two years, to my considerable surprise, I have
+       become very fond of Vir.  Sometimes in his eyes I see a younger
+       version of myself before... he would be better off away from here.
+       Away from what must be."
+
+G'Kar decides to leave B5 when a Centauri-appointed liaison arrives to
+take over his position onboard the station.  Londo arranges for Vir to
+become a liaison to the Minbari homeworld.  An alien probe makes first
+contact with B5, threatening to blow up the station if hundreds of
+scientific and mathematical calculations aren't answered correctly within
+24 hours.  Meanwhile Franklin finds himself relying on stims to keep him
+going.
+
+     Stephen Macht       as   Na'Far
+     Marshall Teague     as   Ta'Lon
+     Anne Betancourt     as   Dr. Gonzalez
+     Neil Bradley        as   Narn #1
+     Joshua Cox          as   Corwin
+     Mark Hendrickson    as   Narn #2
+     Larita Shelby       as   Med Tech
+     John St. Ryan       as   Troublemaker
+     Michael Bailey Smith
+                         as   G'Dok
+
+C04) "Passing Through Gethsemane"
+
+     Directed by: Adam Nimoy
+     Written by.: J. Michael Straczynski
+
+GARIBALDI: "Nobody's ever been to the Vorlon homeworld and back again; and
+           yet she goes and comes back like she just took a trip to the
+           corner store. And now she's working for Kosh."
+           
+Lyta Alexander returns to the station and explains how she has been drawn
+to Kosh since she first touched his mind, and is the first human to have
+reached and returned from Vorlon space.  Brother Edward begins to see
+terrifying visions in his mind and discovers that he has a hidden dark
+past which he confronts.  As the B5 crew attempt to discover what is
+really happening Lyta meets with Kosh once again and a few more questions
+are raised...
+
+     Brad Dourif         as   Brother Edward
+     Patricia Tallman    as   Lyta Alexander
+     Louis Turenne       as   Brother Theo
+     Robert Keith        as   Malcolm
+     Lynn Blades         as   News Anchor #2
+     Natalie Brunt       as   Business Person
+     Ardwight Chamberlain
+                         as   Kosh
+     Mark Folger         as   Centauri
+     Steven Golzalez     as   News Anchor #1
+
+C05) "Voices of Authority"
+
+     Directed by: Menachem Binetski
+     Written by.: J. Michael Straczynski
+
+IVANOVA: "Good luck, Captain. I think you're about to go where everyone
+         has gone before."
+                
+In preparation for the coming war Delenn suggests that they attempt to
+contact more of the First Ones for help.  Draal agrees to help them find
+more of the First Ones.  G'Kar presses Delenn on the subject of Rangers
+and is not happy with the lack of information he has been receiving from
+everyone recently.  A political officer from the Ministry of Peace is
+assigned to B5 and has more than work on her mind.  Ivanova makes a
+startling discovery and Zack has further personal conflicts to deal with.
+
+     John Schuck         as   Draal
+     Shari Shattuck      as   Julie Musante 
+     James Black         as   Security Guard #1
+     Joshua Cox          as   Corwin
+     Vimi Mani           as   ISN Anchor
+     Gary McGurk         as   Vice President Clark
+     
+C06) "Dust to Dust"
+
+     Directed by: David J. Eagle
+     Written by.: J. Michael Straczynski
+
+NARN IMAGE: "You have the opportunity, here and now, to choose.  To become
+            something greater and nobler and more difficult than you have
+            been before.  The universe does not offer such chances often,
+            G'Kar."
+
+Vir returns to B5 and has differing points of view with Londo.  Bester
+arrives to investigate the appearance of a drug known as "Dust" that
+allows the user to activate his or her latent telepathic gene, and works
+with Garibaldi to catch the distributors.  G'Kar reaches a turning point
+when he gets holds of some "Dust" and, assaulting Londo, manages to delve
+deep into Londo's mind, trying to find out whatever secrets he can.
+
+     Julian Neil         as   Lindstrom
+     Jim Norton          as   Narn Image
+     Walter Koenig       as   Bester
+     Ardwight Chamberlain
+                         as   Kosh
+     Harry Hutchinson    as   Security Guard #1
+     John-Frederick Jones
+                         as   Centauri Diplomat
+     S. Marc Jordan      as   Shop Owner
+     Judy Levitt         as   PSI Cop
+     Gwen McGee          as   Med Tech
+     Philip Moon         as   Ashi
+     Walter O'Neil       as   Crazed Man
+     David Shark         as   Man
+     Kim Strauss         as   Vizak
+     Dani Thompson       as   Ombuds
+
+C07) "Exogenesis"
+
+     Directed by: Kevin G. Cremin
+     Written by.: J. Michael Straczynski
+
+FRANKLIN: "Closer examination confirms that the bio-mass is 100%
+          genetically neutral.  It can exist in any life form."
+
+Ivanova must determine whether or not Lt. Corwin should join their group
+working against the Earth government.  Marcus Cole attempts to find out
+why people are disappearing on the station.  As he and Dr. Franklin
+investigate they are captured and discover that a race of parasitic aliens
+that can attach themselves to and take over the mind of any life form have
+been introduced into the station, and must stop them spreading before they
+take over the whole station.
+
+     James Warwick       as   Matthew Duffin
+     Wylie Small         as   Jacque Lee
+     Aubrey Morris       as   Duncan
+     Joshua Cox          as   Corwin
+     Ross Gottstein      as   Vendor
+     Eric Steinberg      as   Samuel
+     Donald Willis       as   Trader
+     Michael McKenzie    as   Man
+     Carrie Dobro        as   Dr. Harrison
+     Kat Cressida        as   Kat
+     Roger Rook          as   Lurker
+     Leslie Pratt        as   Woman
+
+C08) "Messages from Earth"
+
+    Directed by: Michael Vejar
+    Written by.: J. Michael Straczynski
+
+FRANKLIN: "If Earth and the Psi Corps really are working with the Shadows
+           this is too big.  How can we fight something like that?"
+
+A woman arrives on B5 and informs the crew that a Shadow ship was found
+on Mars seven years ago.  More recently, one has been uncovered on
+Ganymede, one of Jupiter's moons, and EarthGov wants to keep it in order
+to control Earth.  Sheridan decides to go to Ganymede and destroy the
+Shadow ship but finds himself battling the ship and in a confrontation
+with his old ship, the Agamemnon.  The Nightwatch grows in strength and
+Zack's position becomes more difficult.
+
+     Nancy Stafford      as   Dr. Mary Kirkish
+     Vaughn Armstrong    as   Security Guard #1
+     Merrin Dungey       as   Security Guard #2
+     Vimi Mani           as   ISN Anchor
+     Lorraine Shields    as   Cook
+
+C09) "Point of No Return"
+
+     Directed by: Jim Johnston
+     Written by.: J. Michael Straczynski
+
+O'REILLY: "Everything's gone to hell, John.  God help us all.  You're on
+          your own."
+
+As the Earth Alliance is put under martial law, the late Emperor Turhan's
+third wife, Lady Morella arrives on B5 and agrees to give Londo a reading,
+but it is not what he wants to hear.  The Nightwatch are given orders to
+take over all security responsibilities and to root out traitors - this
+throws people onboard B5 into panic and chaos.  As the crew attempt to
+regain control of the station G'Kar offers help but demands admittance
+into the secret alliance in return.
+
+     Majel Barrett       as   Lady Morella
+     Marshall Teague     as   Ta'Lon
+     Vaughn Armstrong    as   Security Guard #1
+     Lewis Arquette      as   General Smits
+     Ed Trotta           as   Lt. General O'Reilly
+     Jonathan Chapman    as   Passing Minbari
+     Joshua Cox          as   Lt. Corwin
+     Maggie Egan         as   ISN Reporter #1
+     Milton James        as   Centauri Official
+     Gunther Jensen      as   Nightwatch Guard
+     Tony Rayner         as   Man
+
+C10) "Severed Dreams"
+
+     Directed by: David J. Eagle
+     Written by.: J. Michael Straczynski
+
+HIROSHI: "Major, the ships receiving the attack order were already on
+         their way here.  He doesn't want to risk Babylon 5 breaking away,
+         so those ships are under orders to seize command of Babylon 5,
+         arrest and detain its captain and the rest of the command staff,
+         and put this station under the direct authority of President
+         Clark and the Nightwatch."
+
+The EAS Alexander, arrives at B5 bearing bad news.  Mars defies President
+Clark's orders.  In return Earth bombs its civilian bases.  Other Earth
+colonies declare independence and ISN is shut down.  Delenn visits the
+Grey Council.  The EAS Churchill arrives with news that loyal EA warships
+are arriving to capture the Alexander and take control of B5.  When the EA
+forces arrives a bloody battle between once allies begins in space and
+onboard B5.
+
+     Kim Miyori          as   Captain Sandra Hiroshi
+     Rance Howard        as   David Sheridan
+     Phil Morris         as   Bill Trainor
+     Bruce McGill        as   Major Ryan
+     James Parks         as   Drakhen
+     Jonathan Chapman    as   Religious Minbari
+     Joshua Cox          as   Lt. Corwin
+     Maggie Egan         as   ISN Reporter #1
+     Matt Gottlieb       as   ISN Reporter #2
+     Kim Strauss         as   Narn
+
+C11) "Ceremonies of Light and Dark"
+
+     Directed by: John C. Flinn, III
+     Written by.: J. Michael Straczynski
+
+BOGGS: "Come with us... or die."
+
+The crew keep on looking for members of the Nightwatch that may still be
+hidden on the station.  Lord Refa arrives on B5 to meet with Londo.  The
+B5 computer takes on a new personality much to Garibaldi's annoyance.
+Delenn calls for a rebirth ceremony not knowing that she is the next
+target for the Nightwatch.  She and other Minbari are taken as hostages
+and will be executed unless all Minbari cruisers leave B5.
+
+     William Forward     as   Lord Refa
+     Don Stroud          as   Boggs
+     Paul Perri          as   Sniper
+     Kim Strauss         as   Lennan
+     Vincent Bilanco     as   Maintenance Man
+     Joshua Cox          as   Lt. Corwin
+     Harlan Ellison      as   Sparky the Computer
+     Doug McCoy          as   Guard
+     Ed Wasser           as   Morden
+     Jim Cody Williams   as   Thug #1
+
+C12) "Sic Transit Vir"
+
+     Directed by: Jesus Trevino
+     Written by.: J. Michael Straczynski
+
+IVANOVA: "We ran a check on all the Narns who left Narn using Vir's travel
+         papers.  According to the transit relocation files every one of
+         them - all two thousand Narns, all of them - are dead."
+
+Ivanova experiences a very strange dream.  On his return to B5 Vir
+discovers that he has an arranged marriage and the lady in question has
+just turned up.  But his problems are only just beginning as two Narns
+have blood oaths against him.  Ivanova investigates and discovers a
+startling fact.  She confronts Vir and Londo about it.  Meanwhile Sheridan
+and Delenn's relationship develops.
+
+     Carmen Thomas       as   Lyndisty
+     Damian London       as   Centauri Official
+     James Jude Courtney as   Narn #1
+
+C13) "A Late Delivery from Avalon"
+
+     Directed by: Michael Vejar
+     Written by.: J. Michael Straczynski
+
+ARTHUR: "Mister?  Mister!  Have I been gone that long?  Have you forgotten
+        everything?  I am Arthur, son of Utherpendragon and King of the
+        Britons.  No man takes Excalibur from me and lives."
+
+As the first Earth transport since B5's secession from the Earth Alliance
+arrives at the station, it brings along a man who believes he is King
+Arthur.  As Franklin and Marcus try to find out who he really is, Arthur
+and G'Kar form an alliance.  Meanwhile Garibaldi is having trouble getting
+a package from the Post Office and Sheridan attempts to form an alliance
+with the League of Non-Aligned Worlds.
+
+     Michael York        as   Arthur
+     Michael Kagen       as   Emmett Farquaha
+     Roger Hampton       as   Merchant
+     Dona Hardy          as   Old Woman
+     Michael Francis Kelly
+                         as   Security Guard #1
+     James Kiriyama-Lem  as   Med Tech
+     Robert Schuch       as   Lurker
+     Jerry O'Donnell     as   Security Guard #2
+
+C14) "Ship of Tears"
+
+     Directed by: Michael Vejar
+     Written by.: J. Michael Straczynski
+
+SHERIDAN: "Are you sure you don't know what's inside that ship,
+          Mr. Bester?"
+BESTER: "Weapon supplies.  That's what I was told."
+
+A distress call from a lone Star Fury brings the crew in contact with
+Bester once more.  Wishing to help he tells them about a transport
+carrying vital weapons to the Rim for the Shadows, but these weapons turn
+out to be something much more.  G'Kar demands to join the alliance against
+the Shadows.  Delenn reveals to G'Kar the Grey Council's foreknowledge of
+the Shadow/Centauri alliance.  Then the Shadows begin their attack.
+
+     Joan McMurtrey      as   Carolyn
+     Diana Morgan        as   Alison
+     Walter Koenig       as   Bester
+     Debra Sharkey       as   Med Tech
+
+C15) "Interludes and Examinations"
+
+     Directed by: Jesus Trevino
+     Written by.: J. Michael Straczynski
+
+KOSH: "You do not understand, but you will."
+
+The Shadows have begun their attack, beginning with worlds near the Rim.
+Londo prepares for Adira's return.  Franklin begins to feel the pressure
+and continues to take stims.  Morden slips onto B5 and confronts Londo
+about the pull back of the Centauri campaign.  Sheridan asks for Kosh's
+help against the Shadows but has a hard time convincing the Vorlon to act,
+getting very angry with Kosh in the process.  And then someone dies...
+
+     Jennifer Balgobin   as   Dr. Lilian Hobbs
+     Rance Howard        as   David Sheridan
+     Jan Rabson          as   Vendor
+     Ed Wasser           as   Morden
+     Ardwight Chamberlain
+                         as   Kosh
+     Jonathan Chapman    as   Brakiri
+     Maggie Ciglar       as   Tech
+     Glenn Martin        as   Ranger
+     Doug Tompos         as   Med Tech
+
+C16) "War Without End, Part I"
+
+     Directed by: Michael Vejar
+     Written by.: J. Michael Straczynski
+
+DELENN: "At this moment the Great Machine is using all its power to
+        enlarge the temporal rift in Sector 14.  We will use it to go back
+        6 years into the past.  Once there we must prevent the destruction
+        of Babylon 4 and take the station with us through time, because if
+        we fail to save Babylon 4, Babylon 5 will also be destroyed."
+
+Garibaldi investigates a distress signal from Sector 14 and discovers that
+B5 is doomed for destruction in a Shadow attack.  Sinclair returns to the
+station and the crew discover that they must travel back in time to save
+B4 from destruction by the Shadows.  Failure of the mission will seal B5's
+fate.  Things do not go according to plan and Sheridan finds himself stuck
+years into the future on the Centauri homeworld.
+
+     Tim Choate          as   Zathras
+     Time Winters        as   Rathenn
+     Michael O'Hare      as   Ambassador Jeffrey Sinclair
+     Joshua Cox          as   Lt. Corwin
+     Kevin Fry           as   Centauri Guard
+     Eric Ziuot          as   Spragg
+
+C17) "War Without End, Part II"
+
+     Directed by: Michael Vejar
+     Written by.: J. Michael Straczynski
+
+DELENN: "The war is never completely won.  There are always new battles to
+        be fought against the darkness - only the names change.  But we...
+        we achieved everything we set out to achieve.  We created
+        something that will endure for a thousand years.  But the price,
+        John, the terrible, terrible price."
+
+As the crew continue their attempt to send B4 back into the past an
+accident pushes the station into the future to the time of the episode
+"Babylon Squared".  Sheridan, stuck in the future, is sentenced to death
+by Londo.  Zathras, in his attempts to bring Sheridan back, is captured.
+Further revelations are discovered.
+
+     Tim Choate          as   Zathras
+     Kent Broadhurst     as   Major Krantz
+     Bruce Morrow        as   B4 First Officer
+     Michael O'Hare      as   Ambassador Jeffrey Sinclair
+     Kevin Fry           as   Centauri Guard
+     Eddie Mui           as   B4 Tech
+
+C18) "Walkabout"
+
+     Directed by: Kevin G. Cremin
+     Written by.: J. Michael Straczynski
+
+IVANOVA: "Ambassador Kosh is dead."
+KOSH: "We are all Kosh."
+
+The new Vorlon Ambassador 'Kosh' arrives on B5 and turns out to be more
+mysterious than the old 'Kosh'.  Lyta Alexander returns to discover the
+cause of Kosh's death and to meet with the new ambassador.  She assists
+the crew in a trial attack on the Shadows using her telepathic powers, but
+not all the races are willing to assist in the attack.  Franklin meets a
+singer in Downbelow whilst on a journey to find himself.
+
+     Erica Gimpel        as   Cailyn
+     Patricia Tallman    as   Lyta Alexander
+     Jennifer Balgobin   as   Dr. Lilian Hobbs
+     Robin Sachs         as   Na'Kal
+     Ardwight Chamberlain
+                         as   Kosh
+     Michael McKenzie    as   Minbari Captain
+
+C19) "Grey 17 is Missing"
+
+     Directed by: John C. Flinn, III
+     Written by.: J. Michael Straczynski
+
+NEROON: "I am sworn to stop you, Delenn, by any and all means necessary."
+
+When people start to disappear in Grey Sector, Garibaldi investigates and
+becomes trapped in a 'missing' level of Grey Sector.  Delenn accepts the
+responsibility and position of Ranger One, but as preparations begin for
+the initialization ceremony her life is threatened by Neroon.  Marcus must
+stop him at all costs.  Franklin begins to feel the effects of stim
+withdrawal symptoms.
+
+     Robert Englund      as   Jeremiah
+     Katherine Moffat    as   Supervisor
+     Eamonn Roche        as   First Man
+     John Vickery        as   Neroon
+     Time Winters        as   Rathenn
+     Thom Barry          as   Maintenance Worker
+
+C20) "And the Rock Cried Out, No Hiding Place"
+
+     Directed by: David J. Eagle
+     Written by.: J. Michael Straczynski
+
+LONDO: "So I have found a way to get him away from here and back to Narn.
+       And once there he can be arrested, detained and executed.  And you,
+       Vir, are going to help me."
+
+Londo plots against G'Kar in an attempt to dispose of him once and for
+all.  He blackmails an unwilling Vir into helping him.  Lord Refa arrives
+with his own plans for conquest and kidnaps Vir.  A group of religious
+people arrive with information for Sheridan, who begins to feel the
+effects of the burden of responsibility as he continues to try and make
+sense of the Shadows seemingly random attack strategy.
+
+     Erick Avari         as   Rabbi Leo Meyers
+     William Forward     as   Lord Refa
+     Louis Turenne       as   Brother Theo
+     Mel Winkler         as   Reverend Will Dexter
+     Francois Giroday    as   Virini
+     Paul Keith          as   Drigo
+     Wayne Alexander     as   G'Dan
+     Marva Hicks         as   Singer
+
+C21) "Shadow Dancing"
+
+     Directed by: Kim Friedman
+     Written by.: J. Michael Straczynski
+
+IVANOVA: "That's a lot of ships."
+MARCUS: "That's a bloody aweful lot of ships."
+IVANOVA: "Jump engines back on line yet?"
+MARCUS: "No.  If I signal the fleet this lot might pick it up.  If they do
+        we can't get away."
+IVANOVA:" Well, who wants to live forever?"
+MARCUS: "I do actually, but what the hell... signal away."
+
+With the discovery of an imminent Shadow attack, the White Star is sent on
+an advance warning mission.  Delenn attempts to convince as many races as
+possible from the League to join forces for a massive strike against the
+Shadows.  Franklin finally finds himself when his life is in mortal
+danger, but it is not what he expected.  Then the first large scale battle
+begins and the Shadows send a unexpected guest to B5.
+
+     Shirley Prestice    as   Barbara
+     Melissa Gilbert     as   Anna
+     John Grantham       as   Thug #2
+     J. Gordon Noice     as   Man
+     Jonathan Chapman    as   Brakiri
+     Joshua Cox          as   Lt. Corwin
+     Mark Hendrickson    as   Drazi Ambassador
+     Nicholas Ross Oleson
+                         as   Thug #1
+     Doug Cox            as   Husband
+
+C22) "Z'ha'dum"
+
+     Directed by: Adam Nimoy
+     Written by.: J. Michael Straczynski
+
+ANNA: "Don't you want to know what it's all about?  What it's really all
+      about?  I can do that,  All you have to do is come with me."
+SHERIDAN: "Where?"
+ANNA: "Where else?  To Z'ha'dum."
+
+Sheridan is both confused and shocked to find that his wife, Anna, has
+returned from the grave.  She convinces him to go with her to Z'ha'dum to
+hear the truth about the Shadows.  Franklin discovers something startling
+about Anna.  Londo receives a message from a Shadow agent.  A large scale
+Shadow fleet suddenly appears around B5, poised to attack.  Sheridan,
+caught in a trap, makes the ultimate sacrifice.  Garibaldi, whilst out
+defending B5 against the Shadow fleet, vanishes without a trace.
+
+     Jeff Corey          as   Justin
+     Ron Campbell        as   Messenger
+     Ed Wasser           as   Morden
+     Melissa Gilbert     as   Anna Sheridan
+     Ardwight Chamberlain
+                         as   Kosh
+     Joshua Cox          as   Lt. Corwin
+
+--------------------------------------------------------------------------
+
+[4]  U.K. AIR DATES & RATINGS
+=============================
+
+DATE FORMAT: yy/mm/dd
+RATINGS FORMAT: position/viewers in millions
+
+Please note that the UK running order of the episodes may not be the same
+as the US order.
+
+AIR DATE  PROD.  TITLE                               RATINGS
+          CODE
+
+96/04/14   301   "Matters of Honor"
+96/04/21   302   "Convictions"
+96/04/28   303   "A Day in the Strife"
+96/05/05   305   "Passing Through Gethsemane"
+96/05/12   304   "Voices of Authority"
+96/05/19   306   "Dust To Dust"
+96/05/26   307   "Exogenesis"
+96/06/02   308   "Messages From Earth"
+96/06/09   309   "Point of No Return"
+96/06/16   310   "Severed Dreams"
+96/06/23   311   "Ceremonies of Light and Dark"
+96/07/07   313   "Sic Transit Vir"
+96/07/14   312   "A Late Delivery from Avalon"
+96/07/21   314   "Ship of Tears"
+96/07/28   315   "Interludes and Examinations"
+96/08/04   316   "War Without End, Part I"
+96/08/11   317   "War Without End, Part II"
+96/08/18   318   "Walkabout"
+96/08/01   319   "Grey 17 is Missing"
+96/09/08   320   "And the Rock Cried Out, No Hiding Place"
+96/09/15   321   "Shadow Dancing"
+96/09/22   322   "Z'ha'dum"
+
+--------------------------------------------------------------------------
+
+[5]  SEASON 3 UK EDITS
+======================
+
+All information included here are based on edits made on 1st run episodes.
+Repeated episodes that may have been further edited are not included.  If
+you know of any other edits, e-mail me all the details!
+
+Edits are listed in the format:-
+
+[ep. #]  [title]
+[edited scenes]
+
+C02) "Convictions"
+
+  a) Near the end of the episode when Londo and G'Kar are found in the
+     elevator they should have said...
+
+     Londo: "Bastard."
+     G'Kar: "Monster."
+     Londo: "Fanatic."
+     G'Kar: "Murderer."
+     Londo: "You're insane!"
+     G'Kar: "That's why we'll win!"
+
+C03) "A Day in the Strife"
+
+  a) There is a very short cut where Franklin goes to his drawer to take
+     out a stim.  He takes the stim out and presses it against his wrist
+     (which was cut), and is then seem rubbing his wrist.
+
+C05) "Passing Through Gethsemane"
+
+  a) As Delenn visits Garibaldi in his office he stops the conversation in
+     order to hear the ISN broadcast on the "Death by Personality"
+     judgement given to a criminal.  When explaining to her what the item
+     is about he refers to the criminal as a bastard, which was edited out.
+
+C08) "Messages from Earth"
+
+  a) The scene at the beginning in which Marcus is bringing Kirkish aboard
+     the station is cut.  The fight sequences are trimmed and there are
+     reports that Marcus also said "Bastards" at one point.  
+
+C09) "Point of No Return"
+
+  a) During the scene in which Sheridan is announcing Martial Law, the
+     fight sequences have been trimmed.  Rather than have to edit
+     Sheridan's announcement, it appears that the images have been slowed
+     down in places to match the duration of the dialogue.
+
+C11) "Ceremonies of Light and Dark"
+
+  a) The fight scene in the bar with Marcus has been edited.  You should
+     have seen the large, bearded man grabbing a bottle from the bar and
+     swinging it at Marcus's head.  Marcus ducks, the bottle smashes into
+     the other bad guy's face, which takes him down.  Then Marcus takes
+     out the large, bearded man.  He might have said "bastards" again at
+     some point.
+
+  b) The scene where Delenn is knifed in the back has been edited.  You
+     should have seen the knife being thrown, hit Delenn, and hear her go
+     *umph*.
+
+C18) "Walkabout"
+
+  a) When Lyta is battling the Shadow Vessel using her mind you did not
+     hear her say "Burn you bastards."
+
+C19) "Grey 17 is Missing"
+
+  a) The fight scene between Marcus and Neroon have been edited.  If
+     anyone has details, please let me know.
+
+C21) "Shadow Dancing"
+
+  a) The scene where Franklin is knifed is shown in a bit more detail in
+     the US version.
+
+--------------------------------------------------------------------------
+
+[6]  AND FINALLY...
+===================
+
+I hope you find this guide useful.  If you have any suggestions, comments,
+or just want to say hi, you can drop me a line at one of the following:-
+
+     Mr. Edwin Yau,     e-mail:   mrpotato@fastnet.co.uk
+     16 Hogarth Road,
+     HOVE,
+     East Sussex,
+     BN3 5RG.
+     ENGLAND.
+
+Hellos to... Peter Berry, Steven Grimm, Tobias Richter, Channel 4
+             Television and all the guys at Visual Imagination Ltd.!
+
+
+                              === END ===

@@ -1,0 +1,27 @@
+The Babylon 5 Episode Guide for Apple Newton v0.5
+
+Seeing how I got into B5 in the middle of the second season, there’s a lot 
+I missed and probably will never see.  I wanted to have a copy of the 
+Babylon 5 episode guide to take with me to read at any time.  The first 
+version word for word matched the one on ftp.hyperion.com.  Problem was, it 
+created a 2 megabyte package.  To trim it down, I needed to remove 
+something and that something turned out to be the “jms speaks” section.  
+Let me tell you, that was painful, but it was also the only real part that 
+wasn’t required reading just to understand the episode.  I encourage 
+everyone, though, to read the full guide.
+
+This guide will have spelling mistakes and typos and formatting problems 
+and what-not.  Let me know if you find anything glaring.  All credit should 
+be given to the original authors of each episode’s guide...  I only 
+compiled them into a Newton book.  Future versions of the book will include 
+a table of contents for each episode and perhaps other information.
+
+This program requires about 1 meg of free space on the Newton.  Huge?  
+Perhaps.  Just wait until the series is finished!  If anyone is interested 
+in the 2 meg, "let's fill up a PC-Card" complete version with the "jms 
+speaks" section, let me know.
+
+I would like to know if anyone is using this because if not, then its 
+probably a waste of time trying to improve it.  It is, of course, freeware 
+but I would like responses and comments directed towards 
+Linger@starsys.mdn.com.  Enjoy!

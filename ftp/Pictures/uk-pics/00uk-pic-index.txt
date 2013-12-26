@@ -1,0 +1,15 @@
+00uk-pics-index.txt (updated 15 Dec '94)
+===================
+
+NOTE:  x = Denotes a letter from a-d (usually a-b) which represents a set of
+           JPEGed pictures from an episode of B5.  Assume 2 sets of jpegs for
+           each episode unless otherwise stated.
+
+cover.jpg   - Cover pic for the amazing B5 UK Episode Guide!
+              (set of 1, shows B5 logo + station.)
+pic000x.jpg - Pictures from B5 pilot movie "The Gathering" (set of 4).
+pic001x.jpg - Pictures from season 1 episode "Midnight on the Firing Line".
+pic002x.jpg - Pictures from season 1 episode "Soul Hunter".
+pic003x.jpg - Pictures from season 1 episode "Born to the Purple".
+
+END.

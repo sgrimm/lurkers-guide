@@ -1,0 +1,242 @@
+Description of Babylon 5
+Based on Episodes and JMS notes.
+Compiled by I. Marc Carlson, IMC@vax2.utulsa.edu
+All materials copyright have been copyrighted by Time-Warner and
+Babylonian Productions.  Used without permission.
+
+                          /\ /\ /\
+                         -||-||-||----------------
+                         -||-||-||------------------------------------------
+ |\      ||-------------| || || |||   |     |      |   | | ----   ----
+ ||------||             |----------\  |     |      |   | | ---|---    |
+ ||------||             |----------/  |     |      |   | | ---|---    |
+ |/      ||-------------| || || |||   |     |      |   | | ----   ----
+                         -||-||-||-----------------------
+                          || || ||
+                          \/ \/ \/
+..........................|.......|...|.....|......|...|.|.............|....
+
+   ^                      ^   ^     ^          ^        ^^ ^ ^ ^   ^
+   |                      |   |     |          |        || | | |   |
+   |                      |   |     |        Green      || | | |   Docking bay
+   |                      |   |     |       section     || | | Cobra bays
+   |                      |   |     |                   || | Med lab/Iso lab
+   |                      |   |     |                   || Blue section
+   |                      |   |     |         the       Red section
+   |                      +---|-----|-------Garden-------+
+   |                          |     Gray section
+   |                          Brown section
+   Fusion reactor         ^                                             ^
+                          |                                             |
+                          |                                             |
+                          +-----Rotating Portion of the Station---------+
+
+(Initial Source: Cinefantastique Feb 1993.  Station sketch is based on
+original
+Ascii art by Richard Meikle and posted by Winchell Chung, Modified by I. Marc
+Carlson to closer match dimensions shown in "Points of Departure")
+
+Areas of Interest:
+      Yellow Sector:    Non rotating sections, 0g cargo bays, Fusion Engines,
+                        etc.
+      Blue Sector:      Maintenance and operations areas such as the docking
+                        bays, the Customs areas ("Customs sector"), and the
+                        Observation Dome/C&C.  There are hospitals and
+                        Medlabs.  Some living areas, the Sanctuary and the
+                        Rotunda.  There are 70 Decks in the narrower part of
+                        the hull.
+      Red Sector:       Wraps around The Garden. Marketplace and business
+                        areas such as the Zocolo, Hotel suites, casinos, bars,
+                        brothels, a bookstore;
+      The Garden        A large botanical area that runs the center,
+                        lengthwise, of the station.  It is an O'Neill
+                        environment, which enables an observer to look
+                        straight up to the other side of the rotating section. 
+                        Lining the circular wall are some farmlands, orchards,
+                        an open air hedge maze, fields, trees, artificial
+                        lakes, Hydroponics gardens and other areas for oxygen
+                        reclamation.  There are other areas where alien food
+                        is grown, as well as an area where food that is
+                        impractical to grow is synthesized.  Other foods are
+                        imported.  Weather can occur in the Garden area.
+      Green Sector:     Wraps around The Garden. Ambassadorial Suites.
+      Gray Sector:      Wraps around The Garden.  Alien Sector (qv).  Waste
+                        reclaimation area at Hull, Deck 49-51.
+      Brown Sector:     May or may not partially wrap around The Garden. 
+                        There are at least 90-91 Decks between the Axis and
+                        the Hull.
+      DownBelow:        The Slum areas below the main levels (the higher G
+                        sections?)
+      Topside:          The main, public areas.
+      Dockside:         The Cargo handling areas and docking bays.
+      Water and Waste reclamation systems are on decks 49-51 of blue and gray
+      sectors.
+      There are various embassies and diplomatic missions from various worlds. 
+      Because space on B5 is so tight, complete offices for every single
+      ambassador would kill most of the available space; so they have access
+      to the station's facilities for business rooms, meeting rooms,
+      conference rooms and the like.
+
+Internal Coordinates:
+      These are based first on color, denoting a "ring" or "sector", each
+      technically separate, but interconnected.  These consist of Blue, Gray,
+      Red, Green, Brown, etc.; then one of 36 "sector" numbers (Perhaps each
+      denoting a 10 degree region around the station's circumference); then a
+      "level" or a deck number (for instance Blue 15A).
+
+B5 Dimensions:
+      According to the Map in "Points of Departure" the station's total length
+      is X; the diameter of the largest rotating cross section is .094X; the
+      maximum length of heat radiator vanes from "top" to "bottom" is .26X.
+      The Fork/stabilizer is aproximately .094X long, although it only extends
+      .075X out from the main body of the station. It, and all non-rotating
+      sections are coded as Yellow. The foremost rotating section (the face of
+      which is .04X in diameter.) is colored Blue, and extends for .189X.  The
+      next section is Gray and is .019X long. The next, Red, section is .047X
+      long. The next section is of a darker color that may be Brown is .085X
+      long. The next section is Green and is .075X long.  The next section is
+      dark, and is .057X long.  Thus the rotating section is .547X long.  The
+      section housing the radiator vanes is .103X long and the final section,
+      housing the fusion reactors is .35X long.
+
+Physical Dimensions (My best estimate):
+            Station Length:                  8 kms (5 miles)
+            Diameter of Rotating Section:  752 meters (.47 miles)
+            Diameter of Blue Sector:       319 meters
+            Maximum Gravity (based on .5 rotation per minute):
+                                      1.97 G (10,306 cm/s^2)
+            C&C Distance from Axis:        125 meters
+            Gravity of C&C:                 .33 G (3,234 cm/s^2)
+            Maximum 4.1m Decks:  91
+            Deck 12:                        .27 G (2,646 cm/s^2)
+            Deck 15:                        .33 G (3,234 cm/s^2)
+            Deck 25:                        .51 G (4,998 cm/s^2)
+            Deck 40:                       1.02 G (9,996 cm/s^2)
+            Total Radiator Length:  2 km
+            Fork/Stabilizers Length: 752 meters
+            Fork Extention:          599 meters
+            Blue Sector Length:     1513 meters
+            Gray Sector Length:      152 meters
+            Red Sector Length:       377 meters
+            Dark Sector Length:      679 meters
+            Green Sector Length:     600 meters
+            Dark Sector Length:      456 meters
+            Vane Section Length:     824 meters
+            Fusion Section Length:  2800 meters
+                                  -------------
+            Total Length            8000 meters
+
+            Station Mass:          2.5x10^12 grams (Minimum)
+                                4x10^12   grams (Estimated)
+            Station's Actual Gravity based on Mass:
+                                2.7x10^-13 cm/s^2 (Minimum)
+                                4.34x10^13 cm/s^2 (Estimated)
+            Orbital Radius (Estimated): 100,000 km and 100,000 km behind E-3-A
+
+      Location:
+            Grid "Epsilon" 470x18x22.  The Station orbits a barren, seemingly
+            lifeless planet "Epsilon 3" (aka Euphrates*) in the L5 postition
+            between the planet and a small, gray moon.  The planet orbits
+            "near" Epsilon Eridani (Epsilon or Tigris*) in neutral space, more
+            or less central to all five of the major governments (nw).  [JMS
+            said initial that Euphrates was a Binary system (25-30 ly from
+            Earth), though this may have changed.]
+            B1-B4 were located in roughly the same sector, with B4 using some
+            of the materials from 1-3 leftover.  B5 was constructed about 3
+            hours (traveling time in real-space) from the location of B4.
+            [B4 was refered to as being in "Sector 14" (bs) while "Sector 7"
+            is "Almost on top of" the station (nw) and "Sector 10" is very
+            nearby.]
+      Description:
+            The non-rotating "fork" portion of the station "over" the rotating
+            landing bays sits astride a 0 G cargo handling bay.  The "fork"
+            extends into a flat non-rotating section that runs the length of
+            the station to the heat radiator vanes.  Behind them extends the
+            fusion reactor section that extends over a third of the length of
+            the station.  "Below" the reactor, several kms away from the
+            station, floats a "Hazardous Materials Storage" site.  The station
+            is spun for simulated gravity, ranging from 0 G along the axis to
+            about 2 Gs on the lowest deck.
+      Areas of Interest:
+            Yellow Sector:    Non rotating sections, 0g cargo bays, Fusion
+                              Engines, etc.
+      Living Areas:
+            There are living areas designed to accomodate different
+            environments, atmospheres, etc.  Some of the alien sections are
+            uninhabitable to humans without protective breathing gear or other
+            measures.  Similarly, heavy CO2 breathers or methane breathers
+            have to wear some sort of respirators or "encounter suits" to
+            travel among the humans on the station.  The station's life
+            support systems are capable of handling 250,000 entities, mostly
+            in the form of transient population.
+            Only the executive suites have sufficient water for traditional
+            bathing facilities.  The rest of the personnel make due with
+            sonics showers.
+            The primary means of transportation within the station are the
+            transport tubes, similar to elevators moving from level to level;
+            and the core shuttle, which travels along the axis in 0 G.  The
+            station operates on Earth Standard/Earth Mean Time, as well as
+            running on human cycles of day and night, with the lighting in the
+            hallways and Garden bright during the day times, and dark during
+            night.
+      Personnel:
+            Most of the humans on the station are civilian contractees,
+            handling things such as dockwork, food preparation, and so forth,
+            under contracts with the government.  Operations, such as the
+            techs in the Observation Dome, the Medical Staff, and Security are
+            Earthforce.  There are 1500 Guild Dockworkers, and 6500 Earthforce
+            Personnel.
+      Defensive Capabilities:
+            Until 2259, the station was protected by a low level Defense Grid
+            containing a variety of concealed hull mounted weaponry, which
+            were supplemented by Starfury wings housed in "Cobra Bays".
+            The Alpha, Delta and Zeta wings consist of 12 Starfurys each.
+            After the beginning of the Narn-Centauri Conflict, in 2259, the
+            station's defenses were upgraded with Pulse Cannons...
+      Internal Coordinates:
+            These are based first on color, denoting a "ring" or "sector",
+            each technically separate, but interconnected.  These consist of
+            Blue, Gray, Red, Green, Brown, etc.; then one of 36 "sector"
+            numbers (each denoting a 10 degree region around the station's
+            circumference*); then a "level" or a deck number (for instance
+            Blue 15A).
+            There are various "locator Graphics", pictograms using dots to
+            identify beings (Three dots on a line above and through three
+            larger circles for the Core Shuttle; a single dot over a slanted
+            bar for licing quarters; six dots to either side of a bar for a
+            meeting room; etc.
+      Legal Status:
+            The Station acts as a free port, a place of commerce, trade,
+            diplomacy, where different parties can meet to work out their
+            problems so the legal situation can be tricky.  Technically,
+            outside of the station is in neutral territory, while only within
+            the station are EA laws and regulations enforceable.  These
+            regulations are VERY strict.  Anyone coming onto the station must
+            be scanned for weapons, since no weapons are allowed on the
+            station.
+            In most everyday situations B5 operates fairly autonomously; Earth
+            doesn't generally get involved unless there's a good reason.
+            The commander of B5 is empowered to speak on behalf of his
+            government the say that a ship's captain exploring new worlds is
+            similarly empowered.  He is on equal footing with the Alien
+            ambassadors.  He is forbidden from using the Station's personnel
+            or firepower to, for instance, threaten someone into signing a
+            particular treaty, since that would be considered duress, and
+            therefore void.
+      Financial Conditions:
+            The Station is owned and operated by the Earth Alliance, and
+            although the EA funded the first few attempts exclusively; after
+            they'd dumped all their money into B4, they needed outside funding
+            to get B5 going.  The Minbari were first to contribute money as a
+            show of good faith. Then the Centauri added additional funding. 
+            Those are the only two other races that've contributed
+            significantly.
+            Because of this financial "burden", anyone who stays on the
+            station pays a fee.  Station employees are charged a similar fee
+            against their salaries.  Even the command staff may be required to
+            pay for their "room and board".   As soon as a ship enters through
+            the Jump Gate, its "signature" is registered and the fee for using
+            Gate is debited to the account or taxes of the ship's owner.  If
+            they don't have an account, they will be asked for payment before
+            being allowed to "land."
+

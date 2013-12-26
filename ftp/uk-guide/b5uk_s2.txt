@@ -1,0 +1,856 @@
+
+B5  B5  B5  B5  B5  B5  B5  B5  B5  B5
+B5                                  B5
+B5   Babylon 5 (UK) Episode Guide   B5
+B5        -=>  SEASON 2  <=-        B5
+B5                                  B5
+B5    Guide Date : November 1996    B5
+B5                                  B5
+B5     Compiled By : Edwin Yau      B5
+B5                                  B5
+B5  B5  B5  B5  B5  B5  B5  B5  B5  B5
+
+
+     CONTENTS (* = additions/changes)
+
+   * [1]  README
+     [2]  SEASON 2 CREDITS
+     [3]  EPISODE GUIDE
+          [3.1]  NARRATIONS
+          [3.2]  SEASON 2
+     [4]  U.K. AIR DATES & RATINGS
+     [5]  SEASON 2 UK EDITS
+     [6]  AND FINALLY...
+
+--------------------------------------------------------------------------
+
+[1]  README
+===========
+
+Welcome to the Babylon 5 (UK) episode guide!  Don't be put off by the fact
+that it has a UK bias though as most of the information (i.e. the actual
+episode guide part and list of edits) is relevant to whatever country you
+are in!
+
+This guide is actually a portion of a much larger guide which I have split
+up due to the growing size of the guide.  To download other seasons look
+for the following files:-
+
+        b5uk_s1.txt     season 1 guide
+        b5uk_s2.txt     season 2 guide
+        b5uk_s3.txt     season 3 guide
+        b5uk_s4.txt     season 4 guide
+        b5uk_s5.txt     season 5 guide
+
+This guide is Copyright (C) November 1996 by Edwin Yau.  It may be
+redistributed freely in its complete form, but may not be reproduced in
+any form whatsoever if any monies is to be made from it.  No attempt has
+been made to supersede any rights held by Warner Bros. TV, Babylonian
+Productions Inc., Channel 4 TV, TNT, PTEN or any other copyright holders.
+
+--------------------------------------------------------------------------
+
+[2]  SEASON 2 CREDITS
+=====================
+
+STARRING:
+     Bruce Boxleitner    as   Captain John Sheridan
+     Claudia Christian   as   (Lt.) Commander Susan Ivanova
+     Jerry Doyle         as   Security Chief Michael Garibaldi
+     Mira Furlan         as   Ambassador Delenn
+     Richard Biggs       as   Dr. Stephen Franklin
+     Andrea Thompson     as   Psi Corps Telepath Talia Winters
+     Stephen Furst       as   Vir Cotto
+     Bill Mumy           as   Lennier
+     Mary Kay Adams      as   Na'Toth
+     Robert Rusler       as   Warren Keffer
+     Andreas Katsulas    as   Ambassador G'Kar
+     Peter Jurasik       as   Ambassador Londo Mollari
+
+CREATED BY..............: J. Michael Straczynski
+PRODUCED BY.............: John Copeland
+CO-PRODUCER.............: Richard Compton
+EXECUTIVE PRODUCER......: Douglas Netter
+                          J. Michael Straczynski
+ASSOCIATE PRODUCER......: George Johnsen
+CONCEPTUAL CONSULTANT...: Harlan Ellison
+STORY EDITOR............: Lawrence G. DiTillio
+MUSIC BY................: Christopher Franke
+MUSIC PERFORMED BY......: Christopher Franke and
+                          The Berlin Symphonic Film Orchestra
+CASTING BY..............: Mary Jo Slater, C.S.A.
+                          Steve Brooksbank, C.S.A.
+VISUAL EFFECTS BY.......: Ron Thornton
+PRODUCTION DESIGNER.....: John Iacovelli
+DIRECTOR OF PHOTOGRAPHY.: John C. Flinn III
+COSTUME DESIGNER........: Ann Brucie
+
+--------------------------------------------------------------------------
+
+[3]  EPISODE GUIDE
+==================
+
+-------------------------------------
+[3.1]  OPENING AND CLOSING NARRATIONS
+-------------------------------------
+
+All narrations are opening unless otherwise stated.
+
+------------------
+SEASON 2 NARRATION
+------------------
+
+     "The Babylon Project  was  our last,  best,  hope for peace.  A self
+     contained world five  miles long,  located in  neutral territory.  A
+     place of commerce  and diplomacy  for a quarter  of a million humans
+     and aliens.  A shining beacon in space,  all alone in the night.  It
+     was the dawn of the  third age  of mankind,  the year  The Great War
+     came upon  us all.  This is  the story  of the last  of the  Babylon
+     stations.  The year is 2259.  The name of the place is Babylon 5."
+
+                                             - Captain John Sheridan
+
+---------------------------------
+SEASON 2 FINALE CLOSING NARRATION
+---------------------------------
+
+     "It was the end of the Earth year 2259  and the war was upon us.  As
+     anticipated,  a  few  days  after  the  Earth-Centauri  treaty   was
+     announced the Centauri widened their war to include many of the Non-
+     Aligned Worlds.
+
+     "And there was  another war brewing  closer to home.  A personal one
+     whose cost would be higher than any of us could imagine...
+
+     "We came to this place because Babylon 5 was our last, best hope for
+     peace.  By the end of 2259  we knew  that it  had failed.  But in so
+     doing it became  something greater.  As the war  expanded it  became
+     our last, best hope for victory.  Because sometimes peace is another
+     word for surrender, and because secrets has a way of getting out."
+
+                                             - Commander Susan Ivanova,
+                                               "The Fall of Night"
+
+---------------------------------------
+[3.2]  SEASON 2 - THE COMING OF SHADOWS
+---------------------------------------
+
+B01) "Points of Departure"
+
+     Directed by: Janet Greek
+     Written by.: J. Michael Straczynski
+
+SHERIDAN: "The president feels the Minbari had too much influence over an
+          Earth Outpost.  Times change."
+HEDRONN: "And the day that a man such as yourself is given such a position
+         of this importance is a dark day indeed.  We lost many of our
+         best warriors because of you... and we do not soon forget such
+         things.  If there is a doom upon this station it's because you
+         brought it here."
+
+Captain John Sheridan arrives on B5 to assume a command he isn't entirely
+sure about.  To complicate matters the Minbari do not agree with the
+appointment of a man known to them as 'The Starkiller'.  Sheridan also has
+to deal with a renegade Minbari warship, the Trigati, which has been
+sighted in the area, and when a Minbari is captured whilst attempting to
+assassinate Delenn, the Trigati appears and threatens B5.  Commander
+Sinclair reaches an important destiny and the secret of his missing 24
+hours at the Battle of the Line is revealed.
+
+     Richard Grove       as   Kalain
+     Robin Sachs         as   Hedronn
+     Robert Foxworth     as   General William Hague
+     Jennifer Anglin     as   Deeron
+     Jonathan Chapman    as   Ambassador #1
+     Joshua Cox          as   Tech #1
+     Kim Delgado         as   Dome Tech #3
+     Rus Fega            as   Merchant #1
+     Bennet Guillory     as   Merchant #2
+     Catherine Hader     as   Young Woman
+     Mark Hendrickson    as   Ambassador #2
+     Kristopher Logan    as   Ambassador #3
+     Michael McKenzie    as   Vastor
+     Debra Sharkey       as   Tech #2
+     Brian Starcher      as   Other Pilot
+     Kim Strauss         as   Ensign
+     Thomas Valinote     as   Security Guard #2
+     Greg Wrangler       as   Security Guard #1
+
+B02) "Revelations"
+
+     Directed by: Jim Johnston
+     Written by.: J. Michael Straczynski
+
+LONDO [laughs]: "Why don't you eliminate the entire Narn homeworld while
+                you're at it?"
+MORDEN: "One thing at a time, Ambassador... One thing at a time."
+
+Londo continues to plot his rise to power with the aid of Morden.  G'Kar
+arrives back on B5 with news of a powerful and terrible new enemy.
+Sheridan deals with the loss of his wife with a little help from his
+sister, and Delenn finally emerges from her chrysalis looking very
+different.  Garibaldi is finally revived from his coma and, with some help
+from Talia Winters, confronts the traitor who shot him, but this only
+brings up some more sinister news.
+
+     Beverly Leech       as   Elizabeth Sheridan
+     Macaulay Bruton     as   Garibaldi's Aide
+     Beth Toussaint      as   Anna Sheridan
+     David L. Crowley    as   Lou Welch
+     Mark Hendrickson    as   Narn Captain
+     James Kiriyama-Lem  as   Med Tech
+     Gary McGurk         as   President Clark
+     Michael McKenzie    as   Narn Navigator
+     Warren Tabata       as   Guard
+     Ed Wasser           as   Morden
+
+B03) "The Geometry of Shadows"
+
+     Directed by: Mike Laurence Vejar
+     Written by.: J. Michael Straczynski
+
+ELRIC: "As I look at you, Ambassador Mollari, I see a great hand reaching
+       out of the stars.  The hand is your hand.  And I hear sounds - the
+       sounds of billions of people calling your name."
+LONDO: "My followers?"
+ELRIC: "Your victims."
+
+Ivanova starts training in the finer points in being a diplomatic officer
+and is promoted to commander.  Her first test is to deal with the Drazi,
+who have split into two groups and are fighting it out to find which group
+will rule the other.  Over 100 powerful Technomages, who use magic-like
+science, arrive on the station and Londo makes a mistake by trying all
+means to seek an audience with them.  Garibaldi, still recovering from his
+wounds and the fact that he was betrayed by his own second-in-command,
+considers his future.
+
+     Michael Ansara      as   Elric
+     William Forward     as   Refa
+     David L. Crowley    as   Lou Welch
+     Kim Strauss         as   Green Drazi
+     Jonathan Chapman    as   Green Drazi #2
+     Neil Bradley        as   Purple Drazi
+     Joshua Cox          as   Tech #1
+     Edward Conery       as   Devereaux
+     Warren Tabata       as   Guard
+
+B04) "A Distant Star"
+
+     Directed by: Jim Johnston
+     Written by.: D.C. Fontana
+
+IVANOVA: "All my life I've fought against Imperialism.  Now, suddenly I am
+         the expanding Russian frontier!"
+FRANKLIN: "But with very nice borders."
+
+Sheridan's first commanding officer, Captain Maynard, shows up on B5 and
+questions his former subordinate about being tied to a desk as opposed to
+being out in space travelling the stars.  When Maynard's ship is trapped
+in hyperspace the B5 crew must find a way to rescue the ship... and they
+discover that something may be living in hyperspace.  Dr. Franklin puts
+Sheridan, Ivanova and Garibaldi on a strict diet which they are finding
+hard to keep to.  Meanwhile the Minbari are unsure of the Delenn's new
+appearance.
+
+     Russ Tamblyn        as   Captain Jack Maynard
+     Daniel Beer         as   Patrick
+     Art Kimbro          as   Ray Galus
+     Miguel A. Nunez, Jr.
+                         as   Orwell
+     Patty Toy           as   Ogilvie
+     Joshua Cox          as   Tech
+     Kim Delgado         as   Comm Tech
+     Sandey Grinn        as   Teronn
+
+B05) "The Long Dark"
+
+     Directed by: Mario DiLeo
+     Written by.: Scott Frost
+
+MARKAB AMBASSADOR: "She has bought something evil from the past - a
+                   soldier of darkness."
+
+A ship over 100 years old floating towards B5 is bought onboard and found
+to contain a cryogenically-frozen young lady and her murdered husband.
+Reviving the lady, Dr. Franklin develops a relationship with her.
+Meanwhile Garibaldi arrests a lurker who can sense a coming doom.  When an
+alien is killed on B5, the death is discovered to be similar to the death
+of the lady's husband and she becomes a suspect.  The death also leads to
+some dark news about an alien entity and Garibaldi sets out to stop it.
+
+     Anne-Marie Johnson  as   Mariah Cirrus
+     Dwight Schultz      as   Amis
+     Jennifer Anglin     as   Alien #1
+     Neil Bradley        as   Alien #2
+     James Kiriyama-Lem  as   Medlab Tech
+     Kim Strauss         as   Markab Ambassador
+     Warren Tabata       as   Guard
+
+B06) "Spider in the Web"
+
+     Directed by: Kevin G. Cremin
+     Written by.: Lawrence G. DiTillio
+
+SHERIDAN: "For the past 6 years there have been rumours about a rouge
+          agency operating deep inside Earth Gov.  A dirty tricks squad
+          dealing in black projects and star-chambered justice.  It took
+          me over 3 years just to get a name - Bureau 13.  And the man who
+          gave me that name died soon after..."
+
+As preliminary negotiations between Isogi, the Future Corp representative,
+and the Provisional Mars government representative ends successfully,
+Isogi is murdered.  But what seems like an assassination by the Free Mars
+movement turns out to be something much deadlier, and a shaken Talia finds
+that she is the murderer's next target!  However the murderer is not all
+he seems and as the crew investigate, things get deeper and deeper... the
+killer is supposed to be dead and someone else is pulling the strings!
+
+     Michael Beck        as   Abel Horn
+     Adrienne Barbeau    as   Amanda Carter
+     James Shigeta       as   Taro Isogi
+     Jeff Conaway        as   Zack Allan
+     Jessica Walters     as   Senator Elise Voudreau
+     Annie Grindlay      as   Thirteen/Psi Cop
+     Joshua Cox          as   Tech #1
+
+B07) "A Race Through Dark Places"
+
+     Directed by: Jim Johnston
+     Written by.: J. Michael Straczynski
+
+TALIA: "Then what am I?"
+RICK: "The future..."
+
+Psi Cop Bester returns to B5 and enlists Talis's help with a mission - to
+investigate the underground railroad of unregistered telepaths that are
+being smuggled through B5.  But when they are attacked she ends up being
+kidnapped much to Garibaldi's distress.  Delenn asks Sheridan to help her
+understand humans better which culminates with a night out on B5.
+Meanwhile both Ivanova and Sheridan finds themselves locked out of their
+quarters for not paying extra rent!
+
+     Apesanahkwat        as   Telepath #1
+     Brian Cousins       as   Rick
+     Diane Dilascio      as   Telepath #2
+     Gianin Loffler      as   Lurker
+     Walter Koenig       as   Bester
+     Eddie Allen         as   Man
+     Kathryn Cressida    as   Bartender
+     Judy Levitt         as   Psi Cop
+     Christopher Michael as   Shooter
+     William Allen Young as   Jason Ironheart
+
+B08) "Soul Mates"
+
+     Directed by: John C. Flinn, III
+     Written by.: Peter David
+
+GARIBALDI: "I'll be keeping an eye on you."
+STONER: "Use both eyes.  You'll need them."
+
+Stoner, a man who has left Psi-Corp and is Talia's ex-husband, has come to
+B5.  He offers Talia a way out of the organisation.  Garibaldi, believing
+that Stoner has other motives in mind, and concerned for Talia, keeps a
+close eye on him.  Londo's 3 wives come aboard B5 to find out that he
+plans to divorce all but one wife.  He ends up poisoned, but is it one of
+his wives' doing?  Delenn has problems of her own since her transformation
+and Ivanova agrees to help her out.
+
+     Keith Szarabajka    as   Matthew Stoner
+     Lois Nettleson      as   Daggair
+     Blair Valk          as   Mariel
+     David L. Crowley    as   Lou Welch
+     Carel Struycken     as   Trader
+     Jane Carr           as   Timov
+     Brian Michael McGuire
+                         as   Man
+
+B09) "The Coming of Shadows"
+
+     Directed by: Janet Greek
+     Written by.: J. Michael Straczynski
+
+G'KAR: "Our hope for peace is over.  We are now at war... We are now at
+       war."
+
+The aging Centauri Emperor arrives on B5, something which G'Kar feels
+strongly against.  He decides that assassination is the only option, but
+things do not go according to plan and he is in for a few revelations and
+surprises.  While G'Kar ends up offering the hand of friendship, Londo
+makes a decision which can only mean no turning back from the path he has
+chosen.  Garibaldi arrests a man who has been following him, but he turns
+out to have an important message for him from an old friend...
+
+     Fredric Lehne       as   Ranger
+     Malachi Throne      as   Centauri Prime Minister
+     Jeff Conaway        as   Zack Allan
+     William Forward     as   Refa
+     Turhan Bey          as   Centauri Emperor
+     Michael O'Hare      as   Ambassador Jeffrey Sinclair
+     Neil Bradley        as   Kha'Mak
+     Ardwight Chamberlain
+                         as   Kosh
+     Jonathan Chapman    as   Narn Pilot #2
+     Bryan Michael McGuire
+                         as   Customs Guard #1
+     Kim Strauss         as   Narn Pilot #1
+
+B10) "GROPOS"
+
+     Directed by: Jim Johnston
+     Written by.: Lawrence G. DiTillio
+
+SHERIDAN: "Killing is part of a soldier's job.  We can't deny it, we can
+          only live with it and hope the reasons for doing it are
+          justified."
+
+The station is overrun by 25,000 Earth Alliance Marines, better known as
+GROPOS (GROund POunderS).  Commanded by General Richard Franklin (Dr.
+Franklin's father), the marines are using B5 as a staging area before
+going off to battle.  While Sheridan and General Franklin work on a
+strategy for the dangerous battle ahead, the marines are disrupting life
+on B5 for the crew, ambassadors and other residents.  Meanwhile Ivanova
+gives Dr. Franklin some advice on getting on with his father.
+
+     Paul Winfield       as   General Richard Franklin
+     David L. Crowley    as   Lou Welch
+     Ryan Cutrona        as   Sgt. Major Plug
+     Ken Foree           as   P.F.C. Large
+     Morgan Hunter       as   Pvt. Kleist
+     Marie Marshall      as   P.F.C. Dodger
+     Art Chudabala       as   Pvt. Yang
+     Joshua Cox          as   Tech #1
+     Maggie Egan         as   ISN Reporter
+     Elisa Beth Garver   as   Tech #2
+     Mowava Pryor        as   Tonia Wallace
+
+B11) "All Alone in the Night"
+
+     Directed by: Mario DiLeo
+     Written by.: J. Michael Straczynski
+
+DELENN: "Very soon now I will be going into darkness and fire.  I do not
+        know if I am fated to walk out again."
+
+While Ivanova deals with a surprise visit from General Hague, Sheridan
+goes on a mission, but is captured by aliens.  While the crew try to
+rescue him, he ends up having to fight his way out to freedom.  It is also
+discovered that his appointment to B5 is not all it seems.  Delenn,
+summoned to her homeworld, appears before the Grey Council only to be
+rebuked because of her new appearance and the path she has chosen to take.
+With the appointment of her successor she realises that things have taken
+more ominous directions.
+
+     Nick Corri          as   Lt. Ramirez
+     Marshall Teague     as   Narn
+     Robin Sachs         as   Hedronn
+     John Vickery        as   Neroon
+     Robert Foxworth     as   General Hague
+     Ardwight Chamberlain
+                         as   Kosh
+     Joshua Cox          as   Tech #1
+
+B12) "Acts of Sacrifice"
+
+     Directed by: Jim Johnston
+     Written by.: J. Michael Straczynski
+
+NARN: "Tell the others...  We attack in 6 hours...  And when we finish
+      there must not be one Centauri alive left on this station!"
+
+Tension is escalating rapidly on B5 between the Narns and the Centauri
+thanks to the recent murder of over 5,000 Narn civilians, and fights
+between the two races break out on B5.  G'Kar, trying to get help from the
+other races, finds that he must fight his own people in the battle for
+peace.  Sheridan discovers that he can only help the Narns by unofficial
+means, and Ivanova must negotiate with the Lumati, a very strange new
+race, in the hope that they will side with the Earth Alliance in this
+conflict.
+
+     Paul Williams       as   Taq
+     Christopher Darga   as   Narn #1
+     Glenn Morshower     as   Franke
+     Jeff Conaway        as   Zack Allan
+     Ian Abecrombie      as   Correlilmurzon
+     Paul Ainsley        as   Centauri #1
+     Jennifer Anglin     as   Narn Second
+     Joshua Cox          as   Tech #1
+     Kathryn Cressida    as   Bartender
+     Sandey Grinn        as   Narn Captain
+     David Sage          as   Centauri Merchant
+
+B13) "Hunter, Prey"
+
+     Directed by: Menachem Binetski
+     Written by.: J. Michael Straczynski
+
+KOSH: "I will teach you."
+SHERIDAN: "About yourself?"
+KOSH: "About you.  Until you are ready."
+SHERIDAN: "For what?"
+KOSH: "To fight legends."
+
+B5 receives a fugitive alert from EarthForce - the crew must assist Agent
+Cranston in tracking down Dr. Jacobs, President Clark's former physician,
+who has enough information to bring down the Earth Alliance.  Sheridan
+receives a message that would indicate that the doctor is not a traitor,
+and it would be in Earth's interest to get the doctor off the station
+before Cranston locates him.  The mystery of the Vorlons deepens as
+Sheridan has a very strange meeting with Ambassador Kosh.
+
+     Bernie Casey        as   Derek Cranston
+     Jeff Conaway        as   Zack Allan
+     Wanda De Jesus      as   Sarah
+     Tony Steedman       as   Dr. Everett Jacobs
+     Richard Moll        as   Max
+     Joshua Cox          as   Tech #1
+     Ardwight Chamberlain
+                         as   Kosh
+     Bryan Michael McGuire
+                         as   Guard #2
+     Damon C. Reiser     as   Lurker
+     Debby Shiveley      as   Aide
+     Robert Silver       as   Merchant
+
+B14) "There All The Honor Lies"
+
+     Directed by: Mike Laurence Vejar
+     Written by.: Peter David
+
+SHERIDAN: "Why would I, out of the blue, attack your man."
+ASHAN: "He was not a man though, was he?  He was Minbari... Starkiller."
+
+While chasing a thief, Sheridan is attacked by a Minbari warrior who he
+kills in self defense, but when another Minbari witnesses the fight and
+claims that Sheridan attacked and killed the Minbari without provocation,
+Sheridan's career and command comes into jeopardy.  Ivanova is assigned to
+keep an eye on Earth Alliance's new idea to raise funds for B5 by
+merchandising it, which causes some surprises and upsets.  Vir has his own
+problems when he finds out that he is to be replaced as Londo's attache to
+the station.
+
+     Julie Caitlin Brown as   Guinevere Corey
+     Jeff Conaway        as   Zack Allan
+     Sean Gregory Sullivan
+                         as   Ashan
+     Neil Bradley        as   Minbari #3
+     Ardwight Chamberlain
+                         as   Kosh
+     Jonathan Chapman    as   Minbari #2
+     Vincent Duvall      as   Centauri Envoy
+     Eliott Harold       as   Human Customer
+     Mark Hendrickson    as   Human/Alien Customer
+     Ossie Mair          as   Store Owner
+     Michael McKenzie    as   Alien Customer
+
+B15) "And Now For a Word"
+
+     Directed by: Mario DiLeo
+     Written by.: J. Michael Straczynski
+
+CYNTHIA: "Do you think attacks of this nature put everyone onboard
+         Babylon 5 in unnecessary jeopardy?"
+G'KAR: "We are already in far greater jeopardy than you can possibly
+       imagine."
+
+Presented as a fictional newscast (complete with commercials), ISN does a
+special "Thirty-Six Hours on Babylon 5" feature.  Whilst there, they catch
+the eruption of an armed space conflict between the Narns and Centauri.
+ISN interviews Londo and G'Kar on the war between the two races and also
+talks to the senior crew of B5 and Delenn, getting them to reveal their
+personal thoughts.  While Sheridan is forced to send out fighters to
+protect B5, many people back on Earth are concerned about B5's
+effectiveness.
+
+     Kim Zimmer          as   Cynthia Torqueman
+     Christopher Curry   as   Ronald Quantrell
+     Granville Ames      as   Psi Cop
+     John Christian Graas
+                         as   Johnny
+     Leslie Wing         as   Mother
+     Joshua Cox          as   Tech #1
+     Jose Rey            as   Dock Worker
+
+B16) "In the Shadow of Z'ha'dum"
+
+     Directed by: David J. Eagle
+     Written by.: J. Michael Straczynski
+
+SHERIDAN: "I want you to teach me how to fight them, how to beat them,
+          because sooner or later I'm going to Z'ha'dum and I'm going to
+          stop them."
+KOSH: "If you go to Z'ha'dum you will die."
+
+As Sheridan sorts through information sent by his wife shortly before her
+death, Garibaldi recognises one of the supposed fatalities - Morden, who
+is on B5 at this very moment in time.  Against all advice and regulations,
+Sheridan detains Morden and questions him for hours, determined to find
+out how he survived and how the disaster happened.  Desperate for answers,
+he tricks Talia Winters into helping him.  When Delenn and Kosh reveal
+what is really going on, Sheridan is forced to make the most important and
+agonizing decision of his life.
+
+     Jeff Conaway        as   Zack Allan
+     Alex Hyde-White     as   Pierce Macabee
+     Ed Wasser           as   Morden
+     Ardwight Chamberlain
+                         as   Kosh
+
+B17) "Knives"
+
+     Directed by: Stephen L. Posey
+     Written by.: Lawrence G. DiTillio
+
+LONDO: "I have a destiny to fulfill.  One which will take our people back
+       to a golden age.  We are Centauri, Urza.  We are meant to conquer,
+       to rule, to build empires."
+
+Sheridan decides to investigate the Grey Sector, which is rumoured to be
+haunted.  While there he encounters a corpse of a trader which transfers
+an alien spirit into him.  He is left with many strange and disturbing
+visions, and the disappearance of B4 may hold the key.  Things do not go
+well for Londo either when Urza, a lifelong friend, arrives on the station
+asking for his help to restore his family's honour.  Londo, unwilling to
+help publicly, leaves Urza no choice but to challenge him to a duel to the
+death.
+
+     Carmen Argenziano   as   Urza Jaddo
+     William Forward     as   Lord Refa
+     Joshua Cox          as   Tech #1
+     Elisa Beth Garver   as   Tech #2
+     William Dennis Hunt as   Centauri Noble
+
+B18) "Confessions and Lamentations"
+
+     Directed by: Kevin G. Cremin
+     Written by.: J. Michael Straczynski
+
+FRANKLIN: "No, something here doesn't add up, and unlike Mr. Garibaldi I
+          don't like mysteries."
+
+When members of the Markab race begin to die within days of each other and
+a Markab ship is found with all her crew members dead, Dr. Franklin places
+the entire Markab population under quarantine as he searches desperately
+for a cure.  When a Pak'ma'ra dies of the same disease, indicating it can
+infect other races, panic spreads throughout the station.  Dr. Franklin
+races to find a cure but he may be too late already as the death toll
+rises and a civilization balances on the brink of annihilation.
+
+     Jim Norton          as   Dr. Lazarenn
+     Diane Adair         as   Markab Mother
+     Andrew Craig        as   Human
+     Maggie Egan         as   ISN Reporter
+     Mike Manzoni        as   Guard
+     Michael McKenzie    as   Markab Victim
+     Bluejean Ashley Secrist
+                         as   Markab Girl
+     Kim Strauss         as   Markab Ambassador
+     Dan Woren           as   Bartender
+     Rosie Malek-Yonan   as   Doctor
+
+B19) "Divided Loyalties"
+
+     Directed by: Jesus Trevino
+     Written by.: J. Michael Straczynski
+
+LYTA: "Just give him a message!  Tell him that someone here, one of you,
+      is a traitor... and I can prove it!"
+
+Telepath Lyta Alexander returns to B5.  Now part of a revolutionary
+movement against Psi Corp, she is convinced that there is a "sleeper" spy
+on board B5, and that the spy is a very important person onboard the
+station.  To make matters more complicated, the spy does not know he or
+she is a spy as the person would have been programmed by a new Psi Corps
+technique.  When someone attempts to kill Lyta, Sheridan allows her to
+scan the crew, but Ivanova resists the idea... then a startling discovery
+is made!
+
+     Patricia Tallman    as   Lyta Alexander
+     Jeff Conaway        as   Zack Allen
+     Douglas Bennet      as   First Man
+     Ardwight Chamberlain
+                         as   Kosh
+     Joshua Cox          as   Tech #1
+     Danny De La Paz     as   Running Man
+     Jani Neuman         as   Med Tech
+     George Simms        as   Security Guard
+
+B20) "The Long, Twilight Struggle"
+
+     Directed by: John C. Flinn, III
+     Written by.: J. Michael Straczynski
+
+LONDO: "What?  Are you mad?  They will destroy our supply lines."
+REFA: "Not if your forces are there waiting for them."
+LONDO: "My forces?  And where will all your generals be during this time?"
+REFA: "Launching a full assault on the Narn homeworld itself."
+LONDO: "Great maker!  You can't be serious!"
+REFA: "Of course I'm serious."
+
+The Narns, running out of resources in the war against the Centauri,
+decide on a last ditch attempt to stall the Centauri.  A major strike is
+planned against a heavily guarded Centauri supply world, but the Centauri
+discover the plans for the attack and, with the help of the Shadows, stop
+the attack on the supply world and launch a surprise attack on the Narn
+homeworld.  The Narn eventually surrender, and Sheridan offers G'Kar
+sanctuary onboard B5.  Meanwhile, Sheridan and Delenn are contacted by
+Draal on the nearby planet, who offers them access to vast amount of
+information and resources, and Delenn introduces Sheridan to the Rangers.
+
+     John Schuck         as   Draal
+     Rif Hutton          as   ISN Reporter
+     William Forward     as   Lord Refa
+     W. Morgan Sheppard  as   G'Sten
+     Neil Bradley        as   Narn #2
+     Jonathan Chapman    as   Narn Second
+     Joshua Cox          as   Tech #1
+     Elisa Beth Garver   as   Tech #2
+
+B21) "Comes the Inquisitor"
+
+     Directed by: Mike Laurence Vejar
+     Written by.: J. Michael Straczynski
+
+G'KAR: "Dead, dead, dead, dead, dead, dead, dead, dead, dead!  How do you
+       apologise to them?"
+VIR: "I can't."
+G'KAR: "Then I cannot forgive."
+
+G'Kar tries to rally the Narns on B5, continuing his resistance effort
+against the Centauri who have cut off all contact with the Narn homeworld.
+Garibaldi helps G'Kar find an illegal arms supplier who is able to smuggle
+weapons to the Narn homeworld.  Kosh tests Delenn's allegiance by
+summoning Sebastian, a human who claims to have lived in the 19th century.
+As Sebastian does a series of intense and torturous tests of willpower on
+her, she begins to falter... Even Sheridan may not be able to save her.
+
+     Wayne Alexander     as   Sebastian
+     Jack Kehler         as   Mr. Chase
+     Diane Adair         as   Narn Mother
+     Ardwight Chamberlain
+                         as   Kosh
+     Jim Chiros          as   Centauri #1
+     Joshua Cox          as   Tech #1
+     Mark Hendrickson    as   Narn #1
+     Kim Strauss         as   Narn #2
+     Craig Thomas        as   Human
+     Michael Francis Kelly
+                         as   Guard
+
+B22) "The Fall of Night"
+
+     Directed by: Janet Greek
+     Written by.: J. Michael Straczynski
+
+KEFFER: "... It was jet black.  A shade of black so deep your eye kinda
+        slides off it.  And it shimmered when you looked at it.  A spider
+        big as death and twice as ugly.  And when it flies past it's like
+        your hear a scream in your mind."
+
+As the Centauri Republic 'expands' into Drazi and Pak'ma'ra territories,
+Sheridan confronts Mollari, but is warned to stay out.  Earth finally
+sends a representative to investigate the situation, but he gives Sheridan
+some unexpected news about Earth's position on the matter.  When B5 is
+found to be protecting a Narn cruiser a Centauri cruiser arrives to stop
+the ship, and a firefight ensues between the Centauri cruiser and B5.
+Keffer makes a terrifying discovery, Sheridan's life comes into danger and
+Kosh is revealed... or is he?
+
+     Roy Dotrice         as   Frederick Lantz
+     Jeff Conaway        as   Zack Allen
+     Juli Donald         as   Pilot #1
+     Rick Hamilton       as   Mitch
+     Robin Sachs         as   Na'Kal
+     John Vickery        as   Mr. Welles
+     Donovan Brown       as   Pak'Ma'Ra Ambassador
+     Joshua Cox          as   Tech #1
+     Elisa Beth Garver   as   Tech #2
+     Mark Hendrickson    as   Narn #1
+     Joshua Patton       as   Human/Minbari Kosh
+     Kim Strauss         as   Drazi Ambassador
+
+--------------------------------------------------------------------------
+
+[4]  U.K. AIR DATES & RATINGS
+=============================
+
+DATE FORMAT: yy/mm/dd
+RATINGS FORMAT: position/viewers in millions
+
+Please note that the UK running order of the episodes may not be the same
+as the US order.
+
+AIR DATE  PROD.  TITLE                               RATINGS
+          CODE
+
+95/02/07   201   "Points of Departure"
+95/02/14   202   "Revelations"
+95/02/21   203   "The Geometry of Shadows"
+95/02/28   204   "A Distant Star"
+95/03/07   205   "The Long Dark"
+95/03/14   206   "Spider in the Web"
+95/03/21   207   "A Race Through Dark Places"
+95/03/28   208   "Soul Mates"
+95/04/04   209   "The Coming of Shadows"
+95/04/11   210   "GROPOS"
+95/04/18   211   "All Alone in the Night"
+95/04/25   212   "Acts of Sacrifice"
+95/05/02   213   "Hunter, Prey"                      16/2.00
+95/05/09   215   "There All The Honor Lies"
+95/05/16   214   "And Now For A Word"                29/1.87
+95/05/23   217   "In the Shadow of Z'ha'dum"
+95/05/30   216   "Knives"
+95/06/06   218   "Confessions and Lamentations"
+95/07/25   220   "Divided Loyalties"
+95/08/01   219   "The Long, Twilight Struggle"
+95/08/08   221   "Comes the Inquisitor"
+95/08/15   222   "The Fall of Night"
+
+--------------------------------------------------------------------------
+
+[5]  SEASON 2 UK EDITS
+======================
+
+All information included here are based on edits made on 1st run episodes.
+Repeated episodes that may have been further edited are not included.  If
+you know of any other edits, e-mail me all the details!
+
+Edits are listed in the format:-
+
+[ep. #]  [title]
+[edited scenes]
+
+B09) "The Coming of Shadows"
+
+  a) When the Centauri Prime Minister was stabbed, the shot of the knife
+     going in was cut out.
+
+B10) "GROPOS"
+
+  a) About half the bar brawl was cut.
+
+B21) "Comes the Inquisitor"
+
+  a) When G'Kar comes out of the elevator after Vir's apology, he cuts his
+     hand with his knife (which was edited out).
+
+--------------------------------------------------------------------------
+
+[6]  AND FINALLY...
+===================
+
+I hope you find this guide useful.  If you have any suggestions, comments,
+or just want to say hi, you can drop me a line at one of the following:-
+
+     Mr. Edwin Yau,     e-mail:   mrpotato@fastnet.co.uk
+     16 Hogarth Road,
+     HOVE,
+     East Sussex,
+     BN3 5RG.
+     ENGLAND.
+
+Hellos to... Peter Berry, Steven Grimm, Tobias Richter, Channel 4
+             Television and all the guys at Visual Imagination Ltd.!
+
+
+                              === END ===
