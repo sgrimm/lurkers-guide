@@ -52,7 +52,7 @@ and
 are also available.
 
 <pre>
-<!--#include virtual="/b5/character.txt" -->
+<!--#include virtual="/lurk/ftp/character.txt" -->
 </pre>
 
 

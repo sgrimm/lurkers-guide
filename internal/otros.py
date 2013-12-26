@@ -289,10 +289,10 @@ align=bottom
 # Given an image path, generate the full path to the corresponding file.
 #
 def normalize_path(path):
-	if path[0:4] == '/b5/':
-		path = '/home/woodstock/ftp/pub/Babylon-5' + path[3:]
+	if path[0:4] == '/lurk/':
+		path = '/home/koreth/lurk' + path[5:]
 	elif path[0] == '/':
-		path = '/home/apache/html' + path
+		path = '/home/midwinter/docroot' + path
 	return path
 
 

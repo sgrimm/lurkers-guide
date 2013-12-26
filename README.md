@@ -460,9 +460,9 @@ The /pub/Babylon-5/Pictures FTP directory.
 
 <p>
 See the FTP index file (available in both
-<a href="/b5/Index">text</a>
+<a href="/lurk/ftp/Index">text</a>
 and
-<a href="/b5/index.html">HTML</a>)
+<a href="/lurk/ftp/index.html">HTML</a>)
 for descriptions of the various files in the FTP archive.  The Lurker's
 Guide points to various files here -- including some server-side include
 references.
