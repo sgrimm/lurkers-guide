@@ -9,10 +9,10 @@ lurker-nobg.html: lurker.html
 	sed -e 's/ BGSTART.*BGEND//' -e '/BGLINK/d' < lurker.html > $@
 
 subdirs:
-	@(cd guide; make)
-	@(cd comic; make)
-	@(cd synops; make)
-	@(cd novels; make)
+	@(cd guide; sh genall.csh)
+	@(cd comic; sh genall.csh)
+	@(cd synops; sh genall.csh)
+	@(cd novels; sh genall.csh)
 
 tvlist: $(B5DIR)/b5tvlist.txt
 

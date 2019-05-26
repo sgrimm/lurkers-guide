@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import sys,string,time,os
+import sys,string,time,os,re
 sys.path.append('../internal')
 import otros
 sys.path.insert(0, '.')
@@ -89,7 +89,7 @@ for epnum in args[1:]:
 
 	for piece in pieces[1:]:
 		try:
-			timestamp =string.atoi(piece[:string.index(piece, ' ')])
+			timestamp = int(re.split('\\s', piece)[0])
 		except:
 			timestamp = 0
 

@@ -90,7 +90,10 @@ for epnum in sys.argv[1:]:
 
 	for piece in pieces[1:]:
 		try:
-			timestamp =int(piece[:string.index(piece, ' ')])
+			if ' ' in piece:
+				timestamp = int(piece[:string.index(piece, ' ')])
+			else:
+				timestamp = int(piece)
 		except:
 			timestamp = 0
 
