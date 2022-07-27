@@ -13,7 +13,8 @@ do_jpeg = perdir.get_do_jpeg()
 args = sys.argv
 
 for epnum in args[1:]:
-	curep = string.atoi(epnum[:3])
+#	curep = string.atoi(epnum[:3])
+	curep = int(epnum[:3])
 
 	pix = open(perdir.get_episode_names_file(), 'r')
 	for i in range(0, curep + 1):
@@ -82,7 +83,7 @@ for epnum in args[1:]:
 	rewrite = open('@' + epnum, 'w')
 	needsupdate = 0
 
-	pieces = string.splitfields(wholefile, '@@@')
+	pieces = wholefile.split('@@@')
 	final = pieces[0]
 	rewrite.write(pieces[0])
 
@@ -95,8 +96,9 @@ for epnum in args[1:]:
 		if timestamp == 0:
 			needsupdate = 1
 			timestamp = int(time.time())
-			rewrite.write('@@@' + `timestamp`)
-			rewrite.write(piece[string.index(piece, ' '):])
+			rewrite.write('@@@' + repr(timestamp))
+			#rewrite.write(piece[string.index(piece, ' '):])
+			rewrite.write(piece[piece.index(' '):])
 		else:
 			rewrite.write('@@@' + piece)
 
@@ -105,7 +107,8 @@ for epnum in args[1:]:
 			final = final + ('<strong>[[%d/%d]]</strong>' %
 					(timeval[1], timeval[2]));
 
-		final = final + piece[string.index(piece, ' '):]
+		#final = final + piece[string.index(piece, ' '):]
+		final = final + piece[piece.index(' '):]
 
 	rewrite.close()
 	if needsupdate:
@@ -139,7 +142,7 @@ for epnum in args[1:]:
 	output.close()
 
 	if do_jpeg:
-		print epnum, 'jpeg'
+		print((epnum, 'jpeg'))
 	else:
-		print epnum
+		print(epnum)
 

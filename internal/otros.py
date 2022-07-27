@@ -136,7 +136,7 @@ def pageheader(num, page, do_jpeg = 0):
 		else:
 			picname = cureplong + '/' + picname
 
-	curep = `curep`
+	curep = repr(curep)
 	picwidth = 500 - titlewidth
 
 	output = """
@@ -156,14 +156,14 @@ def pageheader(num, page, do_jpeg = 0):
 		extension = '.gif'
 
 	output = output + """<img
-align=middle width=""" + `picwidth` + """ height=120 border=0
+align=middle width=""" + repr(picwidth) + """ height=120 border=0
 	src="/lurk/gif/""" + picname + extension + '" alt="">'
 
 	if page == 'comic' or page == 'novels':
 		output = output + '</a>'
 
 	output = output + """<img
-align=middle width=""" + `titlewidth` + """ height=120
+align=middle width=""" + repr(titlewidth) + """ height=120
 	src="/lurk/gif/titles/""" + titleprefix + curep + """.gif"
 	alt="">
 
@@ -311,8 +311,9 @@ def mungeimages(text, do_jpeg):
 
 	result = ''
 
-	for chunk in string.splitfields(text, '.gif'):
-		filepos = string.rfind(chunk, '"')
+	for chunk in text.split('.gif'):
+		#filepos = string.rfind(chunk, '"')
+		filepos = chunk.rfind('"')
 		if filepos < 0:
 			result = result + chunk
 			break
