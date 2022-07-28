@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 
 import sys,string
 sys.path.append('../internal')
@@ -28,7 +28,7 @@ output.write("""<html>
 
 for i in range(0, 200):
 	filename = "%03d" % i
-	print filename
+	print(filename)
 	try:
 		handle = open(filename, 'r')
 		handle.close()
