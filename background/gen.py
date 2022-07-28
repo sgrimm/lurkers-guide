@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import sys,string,time
 sys.path.append('../internal')
@@ -8,7 +8,7 @@ months = [ '', 'January', 'February', 'March', 'April', 'May', 'June', 'July',
 		'August', 'September', 'October', 'November', 'December']
 
 for epnum in sys.argv[1:]:
-	curep = string.atoi(epnum[:3])
+	curep = int(epnum[:3])
 	curepno = curep
 	cureplong = '%03d' % (curep)
 	prevep = '%03d' % (curep - 1)
@@ -21,7 +21,7 @@ for epnum in sys.argv[1:]:
 	if epname == '':
 		epname = 'XXX'
 
-	curep = `curep`
+	curep = repr(curep)
 
 	input = open('story.html', 'r')
 	output = open(cureplong + '.shtml', 'w')
@@ -50,12 +50,12 @@ for epnum in sys.argv[1:]:
 		if line == '':
 			break
 		if line[:8] == '<episode':
-			thisep = string.atoi(line[-5:-2])
+			thisep = int(line[-5:-2])
 			if thisep > max_summary:
 				if not printing:
 					output.write('<!--#include virtual="')
 					output.write('/lurk/background/sum-' +
-						`max_summary` + '" -->\n')
+						repr(max_summary) + '" -->\n')
 
 					if thisep < curepno:
 						output.write('<h1>More ' +
@@ -90,4 +90,4 @@ Last update:
 	input.close()
 	output.close()
 
-	print epnum
+	print(epnum)
