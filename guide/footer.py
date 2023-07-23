@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 
 import sys,string
 sys.path.append('../internal')
@@ -39,4 +39,4 @@ October 8, 1995
 </html>
 """
 
-print output
+print(output)

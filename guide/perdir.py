@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python33
 #
 # Per-directory values for /lurk/guide
 #

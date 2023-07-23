@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 
 import sys,string,time,os
 sys.path.append('../internal')
@@ -8,7 +8,7 @@ months = [ '', 'January', 'February', 'March', 'April', 'May', 'June', 'July',
 		'August', 'September', 'October', 'November', 'December']
 
 for epnum in sys.argv[1:]:
-	curep = string.atoi(epnum[:3])
+	curep = int(epnum[:3])
 
 	pix = open('../internal/epnames', 'r')
 	for i in range(0, curep + 1):
@@ -84,13 +84,13 @@ for epnum in sys.argv[1:]:
 	rewrite = open('@' + epnum, 'w')
 	needsupdate = 0
 
-	pieces = string.splitfields(wholefile, '@@@')
+	pieces = wholefile.split('@@@')
 	output.write(pieces[0])
 	rewrite.write(pieces[0])
 
 	for piece in pieces[1:]:
 		try:
-			timestamp =string.atoi(piece[:string.index(piece, ' ')])
+			timestamp =int(piece[:string.index(piece, ' ')])
 		except:
 			timestamp = 0
 
