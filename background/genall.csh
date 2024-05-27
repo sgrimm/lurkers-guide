@@ -9,4 +9,4 @@ while ($ep < $toteps)
 	@ ep++
 end
 
-gen.py $list
+./gen.py $list

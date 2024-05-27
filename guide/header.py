@@ -1,10 +1,10 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 
 import sys,string
 sys.path.append('../internal')
 import otros
 
-curep = string.atoi(sys.argv[1])
+curep = int(sys.argv[1])
 
 if len(sys.argv) == 3:
 	output = otros.pageheader(curep, 'other')
@@ -26,4 +26,4 @@ if len(sys.argv) != 3:
 <hr>
 """
 
-print output
+print(output)

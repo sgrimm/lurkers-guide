@@ -1,2 +1,2 @@
 #!/bin/csh
-gen.py [01]??
+./gen.py [01]??
