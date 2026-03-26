@@ -9,8 +9,8 @@ all: \
 	$(FTP)/006.Against-the-Odds \
 	$(FTP)/007.Survival-the-Hard-Way \
 	$(FTP)/008.Silent-Enemies \
-	$(FTP)/009.Duet... \
-	$(FTP)/010.Coda... \
+	$(FTP)/009.Duet \
+	$(FTP)/010.Coda \
 	$(FTP)/011.The-Psi-Corps-and-You \
 	/dev/null
 
@@ -46,12 +46,12 @@ $(FTP)/008.Silent-Enemies: $(WWW)/008.html
 	echo "Silent Enemies" > $@
 	/opt/local/bin/lynx -dump file://localhost$(WWW)/008.html | uniq | grep -v "Episode List" >> $@
 
-$(FTP)/009.Duet...: $(WWW)/009.html
-	echo "Duet..." > $@
+$(FTP)/009.Duet: $(WWW)/009.html
+	echo "Duet" > $@
 	/opt/local/bin/lynx -dump file://localhost$(WWW)/009.html | uniq | grep -v "Episode List" >> $@
 
-$(FTP)/010.Coda...: $(WWW)/010.html
-	echo "Coda..." > $@
+$(FTP)/010.Coda: $(WWW)/010.html
+	echo "Coda" > $@
 	/opt/local/bin/lynx -dump file://localhost$(WWW)/010.html | uniq | grep -v "Episode List" >> $@
 
 $(FTP)/011.The-Psi-Corps-and-You: $(WWW)/011.html

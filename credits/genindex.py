@@ -16,6 +16,7 @@ output = open('index.html', 'w')
 
 output.write("""<html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Babylon 5 Episode Credits</title>
 <link rev=made href="mailto:genoa@mit.edu">
 </head>

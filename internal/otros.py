@@ -335,7 +335,7 @@ def mungeimages(text, do_jpeg):
 # Returns the <head> section for a page, including image maps.
 #
 def head(title):
-	result = "<html><head>\n<title>" + title + "</title>\n"
+	result = '<html><head>\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<title>' + title + "</title>\n"
 	mapsfile = open('../maps/maps.html', 'r')
 	result = result + mapsfile.read()
 	mapsfile.close()
