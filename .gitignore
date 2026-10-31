@@ -8,3 +8,5 @@ novels/[0-9]*.html
 lurker-nobg.html
 *.pyc
 lastmod.html
+*.local.md
+
